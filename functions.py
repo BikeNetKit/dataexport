@@ -3,6 +3,9 @@ import pandas as pd
 import geopandas as gpd
 import networkx as nx
 import osmnx as ox
+for custom_tag in ["cycleway", "bicycle", "cycleway:right", "cycleway:left", "cyclestreet"]:
+    if custom_tag not in ox.settings.useful_tags_way:
+        ox.settings.useful_tags_way.extend(custom_tag)
 import shapely
 from shapely.geometry import Point, MultiPoint, LineString, Polygon, MultiLineString, MultiPolygon
 import shapely.ops as ops
@@ -16,6 +19,7 @@ from matplotlib import cm
 import matplotlib
 from matplotlib.collections import PatchCollection
 from matplotlib.ticker import MaxNLocator
+
 
 
 def prepare_network(city_name, proj_crs='3857', network_type='all', custom_filter=None):
@@ -45,8 +49,6 @@ def prepare_network(city_name, proj_crs='3857', network_type='all', custom_filte
         Extracted networkX graph, undirected
     """
     # Fetch street network data from osmnx
-    if custom_filter:
-        ox.settings.useful_tags_way.extend(custom_filter)
     g = ox.graph_from_place(
     city_name, network_type=network_type, custom_filter=custom_filter
     )
