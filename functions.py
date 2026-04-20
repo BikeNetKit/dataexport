@@ -120,6 +120,8 @@ def extract_relevant_polygon(placeid, mp):
         return mp
     if placeid == "tokyo": # If Tokyo, take poly with most northern bound, otherwise largest
         p = max(mp.geoms, key=lambda a: a.bounds[-1])
+    elif placeid == "reykjavik": # Southern part
+        p = min(mp.geoms, key=lambda a: a.bounds[0])
     else:
         p = max(mp.geoms, key=lambda a: a.area)
     return p

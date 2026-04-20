@@ -1,44 +1,44 @@
-name_en,country_en
-Amsterdam,Netherlands
-Andorra la Vella,Andorra
-Athens,Greece
-Belgrade,Serbia
-Berlin,Germany
-Bern,Switzerland
-Bratislava,Slovakia
-Brussels,Belgium
-Bucharest,Romania
-Budapest,Hungary
-Chișinău,Moldova
-Copenhagen,Denmark
-Dublin,Ireland
-Helsinki,Finland
-Kyiv,Ukraine
-Lisbon,Portugal
-Ljubljana,Slovenia
-London,United Kingdom
-Luxembourg,Luxembourg
-Madrid,Spain
-Minsk,Belarus
-Monaco,Monaco
-Oslo,Norway
-Paris,France
-Podgorica,Montenegro
-Prague,Czech Republic
-Pristina,Kosovo
-Reykjavík,Iceland
-Riga,Latvia
-Rome,Italy
-San Marino,San Marino
-Sarajevo,Bosnia and Herzegovina
-Skopje,North Macedonia
-Sofia,Bulgaria
-Stockholm,Sweden
-Tallinn,Estonia
-Tirana,Albania
-Vaduz,Liechtenstein
-Valletta,Malta
-Vienna,Austria
-Vilnius,Lithuania
-Warsaw,Poland
-Zagreb,Croatia
+name_en;country_en;nominatim_query;osmid
+Amsterdam;Netherlands;Amsterdam, North Holland;
+Andorra la Vella;Andorra;Andorra;
+Athens;Greece;Municipality of Athens;
+Belgrade;Serbia;Belgrade;
+Berlin;Germany;Berlin;
+Bern;Switzerland;Bern;
+Bratislava;Slovakia;Bratislava;
+Brussels;Belgium;Brussels;
+Bucharest;Romania;Bucharest;
+Budapest;Hungary;Budapest;
+Chișinău;Moldova;Chișinău;
+Copenhagen;Denmark;;
+Dublin;Ireland;Dublin;
+Helsinki;Finland;Helsinki;
+Kyiv;Ukraine;Kyiv;
+Lisbon;Portugal;Lisbon;
+Ljubljana;Slovenia;Ljubljana;
+London;United Kingdom;London;
+Luxembourg;Luxembourg;Luxembourg;R407489
+Madrid;Spain;Madrid;
+Minsk;Belarus;Minsk;
+Monaco;Monaco;Monaco;
+Oslo;Norway;Oslo;
+Paris;France;Paris;
+Podgorica;Montenegro;Podgorica;
+Prague;Czech Republic;Prague;
+Pristina;Kosovo;Pristina;
+Reykjavík;Iceland;Reykjavík;
+Riga;Latvia;Riga;
+Rome;Italy;Rome;
+San Marino;San Marino;San Marino;
+Sarajevo;Bosnia and Herzegovina;Sarajevo;
+Skopje;North Macedonia;Skopje;
+Sofia;Bulgaria;Sofia;
+Stockholm;Sweden;Stockholm;
+Tallinn;Estonia;Tallinn;
+Tirana;Albania;Tirana;
+Vaduz;Liechtenstein;Vaduz;
+Valletta;Malta;Valletta;
+Vienna;Austria;Vienna;
+Vilnius;Lithuania;Vilnius;
+Warsaw;Poland;Warsaw;
+Zagreb;Croatia;Zagreb;
