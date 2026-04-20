@@ -119,9 +119,9 @@ def extract_relevant_polygon(placeid, mp):
     if isinstance(mp, shapely.geometry.polygon.Polygon):
         return mp
     if placeid == "tokyo": # If Tokyo, take poly with most northern bound, otherwise largest
-        p = max(mp, key=lambda a: a.bounds[-1])
+        p = max(mp.geoms, key=lambda a: a.bounds[-1])
     else:
-        p = max(mp, key=lambda a: a.area)
+        p = max(mp.geoms, key=lambda a: a.area)
     return p
 
 def get_holes(cov):
