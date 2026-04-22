@@ -23,7 +23,7 @@ from matplotlib.ticker import MaxNLocator
 
 
 
-def prepare_network(city_name, proj_crs='3857', network_type='all', custom_filter=None):
+def prepare_network(city_name, proj_crs='3857', network_type='all_public', custom_filter=None):
     """Download and prepare a street network from OSM via OSMnx
 
     Downloads a network with a given network_type and custom_filter using ox.graph_from_place.
@@ -35,7 +35,7 @@ def prepare_network(city_name, proj_crs='3857', network_type='all', custom_filte
         Name of the city that the analysis should be performed on.
     proj_crs : str, default '3857'
         Coordinate reference system that is used to project osm data. Default is '3857' (WGS 84 / Pseudo-Mercator).
-    network_type : {“all”, “all_public”, “bike”, “drive”, “drive_service”, “walk”} 
+    network_type : {“all”, “all_public”, “bike”, “drive”, “drive_service”, “walk”}, default 'all_public'
         What type of street network to retrieve if custom_filter is None.
     custom_filter : (str | list[str] | None)
         A custom ways filter to be used instead of the network_type presets
@@ -51,7 +51,7 @@ def prepare_network(city_name, proj_crs='3857', network_type='all', custom_filte
     """
     # Fetch street network data from osmnx
     g = ox.graph_from_place(
-    city_name, network_type=network_type, custom_filter=custom_filter
+    city_name, network_type=network_type, custom_filter=custom_filter, retain_all=True
     )
     g_undir = g.to_undirected().copy() # convert to undirected (dropping OSMnx keys!)
 
