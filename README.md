@@ -11,6 +11,7 @@ Scripts for exporting data about all BikeNetKit packages, and exported data.
 
 ```
 ├── cities                  <- Information for which cities to export
+├── dataexports             <- Exported data sets, by dated subfolders
 ├── scripts                 <- Export scripts
 ├── .gitignore              <- Files and folders ignored by git
 ├── .pre-commit-config.yaml <- Pre-commit hooks used
