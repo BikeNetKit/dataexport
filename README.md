@@ -4,7 +4,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-Scripts for exporting data about all BikeNetKit packages, and exported data.
+[Scripts](scripts/) for exporting data about all BikeNetKit packages, and [exported data](dataexports/).
 
 
 ## Repository structure
