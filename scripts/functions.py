@@ -1,3 +1,4 @@
+import os
 import csv
 import numpy as np
 import pandas as pd
@@ -15,6 +16,7 @@ from itertools import combinations
 from slugify import slugify
 
 # Plotting
+import contextily
 import matplotlib.pyplot as plt
 from matplotlib import cm
 import matplotlib
