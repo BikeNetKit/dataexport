@@ -6,4 +6,4 @@ df = pd.read_csv('./cities/european_capitals.csv',
 
 for nominatimstring in list(df.nominatim_query):
     if type(nominatimstring) is str:
-        os.system("python ./scripts/exportalldata_onecity.py "+nominatimstring)
+        os.system("python ./scripts/exportalldata_onecity.py '"+nominatimstring+"'")
