@@ -25,15 +25,22 @@ Examples
 
 import growbikenet as gbn
 import sys
+from slugify import slugify
 
 nominatimstring = "Barcelona"
+city_name = "Barcelona"
 export_file_format = "geojson"
+
 if len(sys.argv) >= 2:
     nominatimstring = sys.argv[1]
 if len(sys.argv) >= 3:
-    export_file_format = sys.argv[2]
+    city_name = sys.argv[2]
+if len(sys.argv) >= 4:
+    export_file_format = sys.argv[3]
     
-print("Exporting " + export_file_format + " data for " + nominatimstring)
+print("Exporting " + export_file_format + " data for " + city_name)
+
+export_data_slug = slugify(city_name)
 
 for seed_point_type in ["grid", "rail"]:
     for ranking in ["betweenness_centrality", "closeness_centrality", "random"]:
@@ -50,4 +57,5 @@ for seed_point_type in ["grid", "rail"]:
                 export_video=False,
                 export_file_format=export_file_format,
                 existing_network_spacing=ens,
+                export_data_slug=export_data_slug,
             )
