@@ -7,6 +7,19 @@
 Auxiliary [scripts](scripts/) for exporting data about all BikeNetKit packages, and [exported data](dataexports/), which is only needed once as preparation for the interactive visualization platform.
 
 
+## Setup
+Installation with [`Pixi`](https://pixi.prefix.dev/latest/) is fastest and most stable:
+
+```
+pixi init --import environment.yml
+```
+
+At this point you can run scripts in the environment, for example as such:
+
+```
+pixi run python scripts/exportalldata_allcities.py
+```
+
 ## Repository structure
 
 ```
