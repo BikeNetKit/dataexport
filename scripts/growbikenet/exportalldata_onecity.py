@@ -51,10 +51,10 @@ export_data_slug = slugify(export_data_slug)
 
 for seed_point_type in ["grid", "rail"]:
     for ranking in ["betweenness_centrality", "closeness_centrality", "random"]:
-        for ens in [None, 500]:
-            if ens: ens_string = ", with existing bike network"
-            else: ens_string = ""
-            print("\n" + "Exporting " + seed_point_type + ", " + ranking + ens_string)
+        for existing_network_spacing in [None, 500]:
+            if existing_network_spacing: existing_network_spacing_string = ", with existing bike network"
+            else: existing_network_spacing_string = ""
+            print("\n" + "Exporting " + seed_point_type + ", " + ranking + existing_network_spacing_string)
             gbn.growbikenet(
                 city_name=city_name,
                 ranking=ranking,
@@ -63,7 +63,7 @@ for seed_point_type in ["grid", "rail"]:
                 export_plots=False,
                 export_video=False,
                 export_file_format=export_file_format,
-                existing_network_spacing=ens,
+                existing_network_spacing=existing_network_spacing,
                 export_data_slug=export_data_slug,
                 city_boundary_file=city_boundary_file,
             )
