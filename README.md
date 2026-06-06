@@ -20,6 +20,13 @@ At this point you can run scripts in the environment, for example as such:
 pixi run python scripts/exportalldata_allcities.py
 ```
 
+## Update
+To use the latest growbikenet release, don't forget to:
+
+```
+pixi run pip install growbikenet --upgrade
+```
+
 ## Repository structure
 
 ```
