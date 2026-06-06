@@ -1,5 +1,5 @@
 """
-Example for exporting all growbikenet data for one city.
+Script for exporting some growbikenet data for one city.
 
 Parameters
 ----------
@@ -24,9 +24,15 @@ Exports data into four files:
 
 Examples
 --------
->>> python exportalldata_onecity.py Barcelona Barcelona gpkg
+>>> python batchexport_onecity.py Barcelona Barcelona gpkg
 """
 
+# WHICH DATA TO EXPORT?
+export_seed_point_type = ["grid", "rail"] # Full array: ["grid", "rail"]
+export_ranking = ["betweenness_centrality"] # Full array: ["betweenness_centrality", "closeness_centrality", "random""]
+export_existing_network_spacing = [None] # Full array: [None, 500]
+
+# Main
 import growbikenet as gbn
 import sys
 from slugify import slugify
@@ -49,9 +55,9 @@ print("Exporting " + export_file_format + " data for " + city_name)
 
 export_data_slug = slugify(export_data_slug)
 
-for seed_point_type in ["grid", "rail"]:
-    for ranking in ["betweenness_centrality", "closeness_centrality", "random"]:
-        for existing_network_spacing in [None, 500]:
+for seed_point_type in export_seed_point_type:
+    for ranking in export_ranking:
+        for existing_network_spacing in export_existing_network_spacing:
             if existing_network_spacing: existing_network_spacing_string = ", with existing bike network"
             else: existing_network_spacing_string = ""
             print("\n" + "Exporting " + seed_point_type + ", " + ranking + existing_network_spacing_string)
