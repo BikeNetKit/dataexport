@@ -29,8 +29,8 @@ Examples
 
 # WHICH DATA TO EXPORT?
 export_seed_point_type = ["grid", "rail"] # Full array: ["grid", "rail"]
-export_ranking = ["betweenness_centrality"] # Full array: ["betweenness_centrality", "closeness_centrality", "random""]
-export_existing_network_spacing = [None] # Full array: [None, 500]
+export_ranking = ["betweenness_centrality", "closeness_centrality"] # Full array: ["betweenness_centrality", "closeness_centrality", "random""]
+export_existing_network_spacing = [None, 500] # Full array: [None, 500]
 
 # Main
 import growbikenet as gbn
@@ -50,17 +50,12 @@ if len(sys.argv) >= 4:
     export_file_format = sys.argv[3]
 if len(sys.argv) >= 5:
     city_boundary_file = sys.argv[4]
-    
-print("Exporting " + export_file_format + " data for " + city_name)
 
 export_data_slug = slugify(export_data_slug)
 
 for seed_point_type in export_seed_point_type:
     for ranking in export_ranking:
         for existing_network_spacing in export_existing_network_spacing:
-            if existing_network_spacing: existing_network_spacing_string = ", with existing bike network"
-            else: existing_network_spacing_string = ""
-            print("\n" + "Exporting " + seed_point_type + ", " + ranking + existing_network_spacing_string)
             gbn.growbikenet(
                 city_name=city_name,
                 ranking=ranking,
