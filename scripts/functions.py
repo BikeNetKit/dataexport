@@ -1,5 +1,6 @@
 import os
 import csv
+from tqdm import tqdm
 import numpy as np
 import pandas as pd
 import geopandas as gpd
@@ -22,6 +23,11 @@ from matplotlib import cm
 import matplotlib
 from matplotlib.collections import PatchCollection
 from matplotlib.ticker import MaxNLocator
+
+# Data processing
+import re
+import subprocess
+import pycountry
 
 
 
@@ -147,3 +153,9 @@ def get_holes(cov):
     elif isinstance(cov, shapely.geometry.polygon.Polygon) and not cov.is_empty:
         holes.append(cov.interiors)
     return holes
+
+def get_alpha2(country_name):
+    try:
+        return pycountry.countries.search_fuzzy(country_name)[0].alpha_2
+    except LookupError:
+        return None

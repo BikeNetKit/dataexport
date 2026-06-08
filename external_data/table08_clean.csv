@@ -1,0 +1,4026 @@
+continent,country,city,is_capital,population
+Africa,Algeria,Adrar,False,200834
+Africa,Algeria,Ain Defla,False,450280
+Africa,Algeria,Ain Temouchent,False,299341
+Africa,Algeria,Algiers,True,2712944
+Africa,Algeria,Annaba,False,442230
+Africa,Algeria,Batna,False,768444
+Africa,Algeria,Béchar,False,236213
+Africa,Algeria,Bejaïa,False,559981
+Africa,Algeria,Beskra,False,563245
+Africa,Algeria,Bordj Bou Arreridj,False,422986
+Africa,Algeria,Bouira,False,372196
+Africa,Algeria,Boumerdes,False,459250
+Africa,Algeria,Chlef,False,521070
+Africa,Algeria,El Bayadh,False,192958
+Africa,Algeria,El Boulaïda,False,719515
+Africa,Algeria,El Djelfa,False,825411
+Africa,Algeria,El Oued,False,495573
+Africa,Algeria,El Tarf,False,230157
+Africa,Algeria,Ghardaïa,False,355701
+Africa,Algeria,Ghilizane,False,432386
+Africa,Algeria,Guelma,False,363716
+Africa,Algeria,Jijel,False,391096
+Africa,Algeria,Khenchela,False,288849
+Africa,Algeria,Laghouat,False,371204
+Africa,Algeria,Lemdiyya,False,519383
+Africa,Algeria,Mestghanem,False,338143
+Africa,Algeria,Mila,False,440735
+Africa,Algeria,Mouaskar,False,513432
+Africa,Algeria,M'Sila,False,666848
+Africa,Algeria,Naama,False,160381
+Africa,Algeria,Oum El Bouaghi,False,467997
+Africa,Algeria,Qacentina,False,717646
+Africa,Algeria,Saïda,False,248939
+Africa,Algeria,Sidi-Bel-Abbès,False,517836
+Africa,Algeria,Skikda,False,543402
+Africa,Algeria,Souq Ahras,False,308319
+Africa,Algeria,Stif,False,856457
+Africa,Algeria,Tamanrasset,False,136822
+Africa,Algeria,Tbessa,False,515786
+Africa,Algeria,Tihert,False,637991
+Africa,Algeria,Tilimsen,False,672490
+Africa,Algeria,Tipaza,False,343838
+Africa,Algeria,Tissemsilt,False,193011
+Africa,Algeria,Tizi Ouzou,False,585775
+Africa,Algeria,Wahran,False,1165687
+Africa,Algeria,Wargla,False,473543
+Africa,Angola,Benguela,False,692202
+Africa,Angola,Cabinda,False,780093
+Africa,Angola,Cazengo,False,214851
+Africa,Angola,Cuanhama,False,480975
+Africa,Angola,Cuito,False,583479
+Africa,Angola,Dande,False,310557
+Africa,Angola,Huambo,False,934127
+Africa,Angola,Luanda,True,1797363
+Africa,Angola,Lubango,False,990165
+Africa,Angola,Lucapa,False,195043
+Africa,Angola,Luena,False,319186
+Africa,Angola,Malanje,False,641011
+Africa,Angola,M'Banza-Kongo,False,232508
+Africa,Angola,Menongue,False,579574
+Africa,Angola,Namibe,False,384199
+Africa,Angola,Saurimo,False,567922
+Africa,Angola,Sumbe,False,352700
+Africa,Angola,Uíge,False,653640
+Africa,Benin,Cotonou,False,679012
+Africa,Benin,Parakou,False,255478
+Africa,Benin,Porto-Novo,True,264320
+Africa,Botswana,Francistown,False,103422
+Africa,Botswana,Gaborone,True,246323
+Africa,Burkina Faso,Banfora,False,117452
+Africa,Burkina Faso,Bobo Dioulasso,False,984603
+Africa,Burkina Faso,Kaya,False,121970
+Africa,Burkina Faso,Koudougou,False,160239
+Africa,Burkina Faso,Ouagadougou,True,2415266
+Africa,Burkina Faso,Ouahigouya,False,124587
+Africa,Burundi,Bujumbura,True,497169
+Africa,Cabo Verde,Praia,True,141219
+Africa,Cameroon,Douala,False,3416481
+Africa,Cameroon,Yaounde,True,3351466
+Africa,Chad,Abéché,False,152107
+Africa,Chad,Moundou,False,200963
+Africa,Chad,N'Djamena,True,1521882
+Africa,Chad,Sarh,False,151727
+Africa,Côte D'Ivoire,Abengourou,False,125143
+Africa,Côte D'Ivoire,Abidjan,False,5616633
+Africa,Côte D'Ivoire,Anyama,False,325209
+Africa,Côte D'Ivoire,Bouake,False,728733
+Africa,Côte D'Ivoire,Daloa,False,351670
+Africa,Côte D'Ivoire,Divo,False,215312
+Africa,Côte D'Ivoire,Gagnoa,False,212489
+Africa,Côte D'Ivoire,Korhogo,False,386586
+Africa,Côte D'Ivoire,Man,False,198048
+Africa,Côte D'Ivoire,San Pédro,False,293444
+Africa,Côte D'Ivoire,Soubre,False,176870
+Africa,Côte D'Ivoire,Yamoussoukro,True,279977
+Africa,Djibouti,Djibouti,True,475322
+Africa,Egypt,Alexandria,False,5163750
+Africa,Egypt,Cairo,True,9539673
+Africa,Egypt,Port Said,False,749371
+Africa,Egypt,Suez,False,728180
+Africa,Equatorial Guinea,Bata,False,380083
+Africa,Equatorial Guinea,Ebibeyín,False,115518
+Africa,Equatorial Guinea,Malabo,True,332980
+Africa,Equatorial Guinea,Mongomo,False,108523
+Africa,Eritrea,Asmara,True,545959
+Africa,Eswatini,Mbabane,True,60691
+Africa,Ethiopia,Addis Ababa,True,3860000
+Africa,Ethiopia,Adigrat,False,121776
+Africa,Ethiopia,Arba Minch,False,201049
+Africa,Ethiopia,Asela,False,139537
+Africa,Ethiopia,Awassa,False,422202
+Africa,Ethiopia,Bahir Dar,False,349995
+Africa,Ethiopia,Debre Birhan,False,146918
+Africa,Ethiopia,Debre Markos,False,140699
+Africa,Ethiopia,Debre Tabor,False,125312
+Africa,Ethiopia,Debre Zeit,False,207383
+Africa,Ethiopia,Dessie,False,270366
+Africa,Ethiopia,Dila,False,158795
+Africa,Ethiopia,Dire Dawa,False,343000
+Africa,Ethiopia,Gondar,False,465973
+Africa,Ethiopia,Harar,False,157000
+Africa,Ethiopia,Hosaena,False,188192
+Africa,Ethiopia,Jigjiga,False,197966
+Africa,Ethiopia,Jimma,False,250909
+Africa,Ethiopia,Komboicha,False,132123
+Africa,Ethiopia,Mekele,False,457917
+Africa,Ethiopia,Nazareth,False,456868
+Africa,Ethiopia,Nekemte,False,156004
+Africa,Ethiopia,Shashemene,False,208368
+Africa,Ethiopia,Sodo,False,204121
+Africa,Gabon,Franceville,False,110568
+Africa,Gabon,Libreville,True,703939
+Africa,Gabon,Port-Gentil,False,136462
+Africa,Ghana,Accra,True,1594419
+Africa,Ghana,Ashiaman,False,190972
+Africa,Ghana,Koforidua,False,122300
+Africa,Ghana,Kumasi,False,1730249
+Africa,Ghana,Madina,False,111926
+Africa,Ghana,Obuasi,False,168641
+Africa,Ghana,Tamale,False,223252
+Africa,Ghana,Tema,False,292773
+Africa,Guinea,Boke,False,221877
+Africa,Guinea,Conakry,True,1984767
+Africa,Guinea,Coyah,False,259402
+Africa,Guinea,Dubreka,False,187760
+Africa,Guinea,Kankan,False,228064
+Africa,Guinea,Kindia,False,165851
+Africa,Guinea,Kissidougou,False,119497
+Africa,Guinea,Labé,False,110795
+Africa,Guinea,Nzérékoré,False,233212
+Africa,Guinea,Siguiri,False,152454
+Africa,Guinea-Bissau,Bissau,True,387909
+Africa,Kenya,Eldoret,False,475659
+Africa,Kenya,Garissa,False,132997
+Africa,Kenya,Juja,False,155999
+Africa,Kenya,Kakamega,False,107205
+Africa,Kenya,Karuri,False,194289
+Africa,Kenya,Kiambu,False,147826
+Africa,Kenya,Kikuyu,False,323825
+Africa,Kenya,Kisii,False,110426
+Africa,Kenya,Kisumu,False,397853
+Africa,Kenya,Kitale,False,162154
+Africa,Kenya,Kitengela,False,154327
+Africa,Kenya,Malindi,False,119825
+Africa,Kenya,Mandera,False,114718
+Africa,Kenya,Mlolongo,False,136266
+Africa,Kenya,Mombasa,False,1208112
+Africa,Kenya,Nairobi,True,4395749
+Africa,Kenya,Naivasha,False,198399
+Africa,Kenya,Nakuru,False,570614
+Africa,Kenya,Ngong,False,102308
+Africa,Kenya,Ongata Rongai,False,172516
+Africa,Kenya,Ruiru,False,490035
+Africa,Kenya,Thika,False,248901
+Africa,Lesotho,Maseru,True,330760
+Africa,Liberia,Monrovia,True,970824
+Africa,Madagascar,Antananarivo,True,1275207
+Africa,Madagascar,Antsirabe,False,245592
+Africa,Madagascar,Antsiranana,False,131165
+Africa,Madagascar,Fianarantsoa,False,189879
+Africa,Madagascar,Mahajanga,False,244722
+Africa,Madagascar,Toamasina,False,326286
+Africa,Madagascar,Toliara,False,169760
+Africa,Malawi,Blantyre City,False,858076
+Africa,Malawi,Lilongwe,True,1126143
+Africa,Malawi,Mzuzu City,False,261578
+Africa,Malawi,Zomba City,False,114464
+Africa,Mali,Bamako,True,1810366
+Africa,Mali,Kayes,False,149129
+Africa,Mali,Koutiala,False,141444
+Africa,Mali,Mopti,False,120786
+Africa,Mali,Ségou,False,133501
+Africa,Mali,Sikasso,False,226618
+Africa,Mauritania,Nouakchott,True,1195633
+Africa,Mauritius,Beau Bassin - Rose Hill,False,102576
+Africa,Mauritius,Port Louis,True,143574
+Africa,Mauritius,Vacoas - Phoenix,False,104852
+Africa,Morocco,Agadir,False,599292
+Africa,Morocco,Al Hoceima,False,142933
+Africa,Morocco,Azilal,False,112622
+Africa,Morocco,Béni-Mellal,False,352388
+Africa,Morocco,Benslimane,False,132989
+Africa,Morocco,Berkane,False,205863
+Africa,Morocco,Berrechid,False,356446
+Africa,Morocco,Casablanca,False,3566020
+Africa,Morocco,Chtouka-Ait Baha,False,156908
+Africa,Morocco,El Hajeb,False,139854
+Africa,Morocco,El Kelâa Des Sraghna,False,181170
+Africa,Morocco,El-Jadida,False,364833
+Africa,Morocco,Errachidia,False,206458
+Africa,Morocco,Essaouira,False,112169
+Africa,Morocco,Fès,False,1229103
+Africa,Morocco,Fquih Ben Salah,False,224878
+Africa,Morocco,Guelmim,False,154692
+Africa,Morocco,Inezgane Ait Melloul,False,600399
+Africa,Morocco,Kénitra,False,696345
+Africa,Morocco,Khemisset,False,306939
+Africa,Morocco,Khénifra,False,249269
+Africa,Morocco,Khouribga,False,412976
+Africa,Morocco,Laayoune,False,258879
+Africa,Morocco,Larache,False,276849
+Africa,Morocco,Marrakech,False,1044494
+Africa,Morocco,M'Diq-Fnideq,False,241530
+Africa,Morocco,Médiouna,False,181971
+Africa,Morocco,Meknès,False,754733
+Africa,Morocco,Midelt,False,138317
+Africa,Morocco,Mohammedia,False,322220
+Africa,Morocco,Nador,False,449124
+Africa,Morocco,Nouaceur,False,407494
+Africa,Morocco,Ouarzazate,False,131103
+Africa,Morocco,Oued Ed-Dahab,False,143141
+Africa,Morocco,Oujda,False,586196
+Africa,Morocco,Rabat,True,536821
+Africa,Morocco,Rehamna,False,123834
+Africa,Morocco,Safi,False,359785
+Africa,Morocco,Salé,False,1024099
+Africa,Morocco,Sefrou,False,171951
+Africa,Morocco,Settat,False,240096
+Africa,Morocco,Sidi Kacem,False,178389
+Africa,Morocco,Sidi Slimane,False,142321
+Africa,Morocco,Skhirate-Témara,False,629071
+Africa,Morocco,Tanger,False,1152215
+Africa,Morocco,Taourirt,False,179837
+Africa,Morocco,Taroudannt,False,286572
+Africa,Morocco,Taza,False,216363
+Africa,Morocco,Tétouan,False,420599
+Africa,Morocco,Youssoufia,False,104868
+Africa,Mozambique,Beira,False,719805
+Africa,Mozambique,Chimoio,False,476956
+Africa,Mozambique,Lichinga,False,312613
+Africa,Mozambique,Maputo,True,1130319
+Africa,Mozambique,Matola,False,1293290
+Africa,Mozambique,Maxixe,False,151350
+Africa,Mozambique,Nacala,False,362144
+Africa,Mozambique,Nampula,False,957596
+Africa,Mozambique,Pemba,False,243295
+Africa,Mozambique,Quelimane,False,410629
+Africa,Mozambique,Tete,False,475328
+Africa,Mozambique,Xai-Xai,False,150908
+Africa,Namibia,Windhoek,True,506320
+Africa,Niger,Niamey,True,1324670
+Africa,Republic Of South Sudan,Juba,True,230195
+Africa,Republic Of South Sudan,Malakal,False,114528
+Africa,Republic Of South Sudan,Wau,False,118331
+Africa,Reunion,Saint-Denis,True,146985
+Africa,Reunion,Saint-Paul,False,105967
+Africa,Rwanda,Kigali,True,859332
+Africa,Saint Helena Ex. Dep.,Jamestown,True,625
+Africa,Senegal,Dagana,False,148380
+Africa,Senegal,Dakar,True,1457697
+Africa,Senegal,Diourbel,False,174109
+Africa,Senegal,Guediawaye,False,419302
+Africa,Senegal,Kaolack,False,367263
+Africa,Senegal,Kolda,False,122831
+Africa,Senegal,Louga,False,141559
+Africa,Senegal,Mbour,False,467124
+Africa,Senegal,Pikine,False,1489164
+Africa,Senegal,Rufisque,False,624129
+Africa,Senegal,Saint Louis,False,272150
+Africa,Senegal,Tambacounda,False,144978
+Africa,Senegal,Thiès,False,79142
+Africa,Senegal,Tivaouane,False,151229
+Africa,Senegal,Ziguinchor,False,55109
+Africa,Seychelles,Victoria,True,26450
+Africa,Sierra Leone,Bo,False,199897
+Africa,Sierra Leone,Freetown,True,1200230
+Africa,Sierra Leone,Kenema,False,231131
+Africa,Sierra Leone,Makeni,False,143895
+Africa,South Africa,Cape Town,True,433688
+Africa,South Africa,Durban,False,595061
+Africa,South Africa,Johannesburg,False,957441
+Africa,South Africa,Pretoria,True,741651
+Africa,Togo,Kara,False,104400
+Africa,Togo,Lome,True,1788600
+Africa,Togo,Sokode,False,101900
+Africa,Tunisia,Monastir,False,548828
+Africa,Tunisia,Tunis,True,1056247
+Africa,Uganda,Kampala,True,1650800
+Africa,Uganda,Kasese,False,112800
+Africa,Uganda,Kira,False,434200
+Africa,Uganda,Lira,False,113500
+Africa,Uganda,Lugazi,False,126100
+Africa,Uganda,Makindye Ssabagabo,False,387900
+Africa,Uganda,Masaka,False,114300
+Africa,Uganda,Mbarara,False,241700
+Africa,Uganda,Mukono,False,186500
+Africa,Uganda,Nansana,False,499900
+Africa,United Republic Of Tanzania,Arusha,False,1000923
+Africa,United Republic Of Tanzania,Dar Es Salaam,False,5147070
+Africa,United Republic Of Tanzania,Dodoma,True,506943
+Africa,United Republic Of Tanzania,Mbeya,False,471971
+Africa,United Republic Of Tanzania,Tanga,False,326515
+Africa,Zambia,Chingola,False,216626
+Africa,Zambia,Chipata,False,455783
+Africa,Zambia,Kabwe,False,202360
+Africa,Zambia,Kasama,False,231824
+Africa,Zambia,Kitwe,False,517543
+Africa,Zambia,Livingstone,False,139509
+Africa,Zambia,Luanshya,False,156059
+Africa,Zambia,Lusaka,True,1747152
+Africa,Zambia,Mufulira,False,162889
+Africa,Zambia,Ndola,False,451246
+Africa,Zimbabwe,Bulawayo,False,665952
+Africa,Zimbabwe,Chinhoyi,False,103657
+Africa,Zimbabwe,Chitungwiza,False,371246
+Africa,Zimbabwe,Gweru,False,161294
+Africa,Zimbabwe,Harare,True,1698122
+Africa,Zimbabwe,Kadoma,False,117381
+Africa,Zimbabwe,Kwekwe,False,119863
+Africa,Zimbabwe,Mutare,False,224804
+America North,Anguilla,The Valley,True,2812
+America North,Aruba,Oranjestad,True,28295
+America North,Bahamas,Nassau,True,266100
+America North,Belize,Belmopan,True,28264
+America North,Bermuda,Hamilton,True,854
+America North,Canada,Abbotsford,False,168478
+America North,Canada,Abbotsford-Mission,False,208961
+America North,Canada,Ajax,False,135180
+America North,Canada,Barrie,False,157194
+America North,Canada,Belleville,False,57363
+America North,Canada,Brampton,False,745557
+America North,Canada,Brantford,False,110617
+America North,Canada,Burlington,False,194175
+America North,Canada,Burnaby,False,270264
+America North,Canada,Calgary,False,1413800
+America North,Canada,Cambridge,False,146566
+America North,Canada,Chatham-Kent,False,108689
+America North,Canada,Chilliwack,False,97174
+America North,Canada,Coquitlam,False,159285
+America North,Canada,Delta,False,113347
+America North,Canada,Edmonton,False,1087172
+America North,Canada,Gatineau,False,292524
+America North,Canada,Greater Sudbury / Grand Sudbury,False,171446
+America North,Canada,Guelph,False,149942
+America North,Canada,Halifax,False,480216
+America North,Canada,Hamilton,False,597010
+America North,Canada,Kamloops,False,103159
+America North,Canada,Kelowna,False,153385
+America North,Canada,Kingston,False,138204
+America North,Canada,Kitchener,False,282375
+America North,Canada,Kitchener-Cambridge-Waterloo,False,622497
+America North,Canada,Langley,False,142043
+America North,Canada,Laval,False,446476
+America North,Canada,Lethbridge,False,104254
+America North,Canada,Lévis V,False,154775
+America North,Canada,London,False,448051
+America North,Canada,Longueuil,False,253413
+America North,Canada,Markham,False,352404
+America North,Canada,Milton,False,142279
+America North,Canada,Mississauga,False,771891
+America North,Canada,Moncton,False,85802
+America North,Canada,Montréal,False,1791508
+America North,Canada,Nanaimo,False,104064
+America North,Canada,Oakville,False,224781
+America North,Canada,Oshawa,False,187813
+America North,Canada,Ottawa,True,1071868
+America North,Canada,Ottawa - Gatineau,False,1498610
+America North,Canada,Peterborough,False,87552
+America North,Canada,Québec,False,557390
+America North,Canada,Red Deer,False,105883
+America North,Canada,Regina,False,242685
+America North,Canada,Richmond,False,222954
+America North,Canada,Richmond Hill,False,211494
+America North,Canada,Saanich,False,125853
+America North,Canada,Saguenay,False,148254
+America North,Canada,Saint John,False,73611
+America North,Canada,Saskatoon,False,288311
+America North,Canada,Sherbrooke,False,175684
+America North,Canada,St. Catharines,False,144829
+America North,Canada,St. Catharines-Niagara,False,450501
+America North,Canada,St. John'S,False,113468
+America North,Canada,Surrey,False,633234
+America North,Canada,Terrebonne,False,122102
+America North,Canada,Thunder Bay,False,111113
+America North,Canada,Toronto,False,3025647
+America North,Canada,Trois-Rivières,False,143195
+America North,Canada,Vancouver,False,706012
+America North,Canada,Vaughan,False,338891
+America North,Canada,Waterloo,False,129054
+America North,Canada,Whitby,False,149907
+America North,Canada,Windsor,False,236789
+America North,Canada,Winnipeg,False,783096
+America North,Cayman Islands,George Town,True,34921
+America North,Costa Rica,Alajuela,False,321872
+America North,Costa Rica,Cartago,False,166204
+America North,Costa Rica,Desamparados,False,249367
+America North,Costa Rica,Goicoechea,False,140764
+America North,Costa Rica,Heredia,False,146020
+America North,Costa Rica,La Unión,False,114615
+America North,Costa Rica,Limón,False,100236
+America North,Costa Rica,Pérez Zeledón,False,143282
+America North,Costa Rica,Pococí,False,154674
+America North,Costa Rica,Puntarenas,False,143875
+America North,Costa Rica,San Carlos,False,206115
+America North,Costa Rica,San José,True,351958
+America North,Cuba,Bayamo,False,159014
+America North,Cuba,Camagüey,False,310819
+America North,Cuba,Ciego De Ávila,False,121788
+America North,Cuba,Cienfuegos,False,153048
+America North,Cuba,Guantánamo,False,213375
+America North,Cuba,Holguín,False,302890
+America North,Cuba,La Habana,True,2137847
+America North,Cuba,Las Tunas,False,176139
+America North,Cuba,Matanzas,False,145034
+America North,Cuba,Pinar Del Río,False,144910
+America North,Cuba,Sancti Spíritus,False,109110
+America North,Cuba,Santa Clara,False,217907
+America North,Cuba,Santiago De Cuba,False,431411
+America North,Dominican Republic,Bajos De Haina,False,138906
+America North,Dominican Republic,Baní,False,168484
+America North,Dominican Republic,Boca Chica,False,173812
+America North,Dominican Republic,Bonao,False,132206
+America North,Dominican Republic,Higüey,False,325011
+America North,Dominican Republic,La Romana,False,155143
+America North,Dominican Republic,La Vega,False,258857
+America North,Dominican Republic,Los Alcarrizos,False,333836
+America North,Dominican Republic,Moca,False,185572
+America North,Dominican Republic,Puerto Plata,False,164517
+America North,Dominican Republic,San Cristóbal,False,260332
+America North,Dominican Republic,San Francisco De Macoris,False,194198
+America North,Dominican Republic,San Juan De La Maguana,False,126143
+America North,Dominican Republic,San Pedro De Macorís,False,205067
+America North,Dominican Republic,Santiago De Los Caballeros,False,750011
+America North,Dominican Republic,Santo Domingo,True,1043186
+America North,Dominican Republic,Santo Domingo East - Santo Domingo Este,False,1161393
+America North,Dominican Republic,Santo Domingo North - Santo Domingo Norte,False,647894
+America North,Dominican Republic,Santo Domingo West - Santo Domingo Oeste,False,444681
+America North,El Salvador,Ahuachapán,False,137186
+America North,El Salvador,Apopa,False,202871
+America North,El Salvador,Ciudad Delgado,False,126297
+America North,El Salvador,Ilopango,False,145315
+America North,El Salvador,Mejicanos,False,139945
+America North,El Salvador,San Martin,False,115098
+America North,El Salvador,San Miguel,False,283264
+America North,El Salvador,San Salvador,True,200319
+America North,El Salvador,Santa Ana,False,278743
+America North,El Salvador,Santa Tecla,False,140144
+America North,El Salvador,Soyapango,False,284347
+America North,Greenland,Nuuk,True,19394
+America North,Grenada,St. George'S,True,36586
+America North,Guatemala,Cuidad De Guatemala,True,923392
+America North,Honduras,Choloma,False,163817
+America North,Honduras,El Progreso,False,114934
+America North,Honduras,La Ceiba,False,176211
+America North,Honduras,San Pedro Sula,False,598518
+America North,Honduras,Tegucigalpa,True,996658
+America North,Jamaica,Kingston,True,592291
+America North,Jamaica,Montego Bay,False,111037
+America North,Jamaica,Portmore,False,182800
+America North,Jamaica,Spanish Town,False,149479
+America North,Martinique,Fort-De-France,True,82502
+America North,Mexico,Acapulco,False,850423
+America North,Mexico,Acayucan,False,114709
+America North,Mexico,Aguascalientes,False,1189107
+America North,Mexico,Apatzingán De La Constitución,False,103062
+America North,Mexico,Cabo San Lucas,False,253194
+America North,Mexico,Campeche,False,301831
+America North,Mexico,Cancún,False,997808
+America North,Mexico,Cárdenas,False,101488
+America North,Mexico,Celaya,False,783837
+America North,Mexico,Chetumal,False,239406
+America North,Mexico,Chihuahua,False,1018398
+America North,Mexico,Chilpacingo De Los Bravo,False,347413
+America North,Mexico,Ciudad Acuña,False,166144
+America North,Mexico,Ciudad Del Carmen,False,196034
+America North,Mexico,Ciudad Guzmán,False,115136
+America North,Mexico,Ciudad Juárez,False,1552319
+America North,Mexico,Ciudad Lázaro Cárdenas,False,153407
+America North,Mexico,Ciudad Obregón,False,340986
+America North,Mexico,Ciudad Valles,False,138882
+America North,Mexico,Ciudad Victoria,False,355660
+America North,Mexico,Coatzacoalcos,False,357501
+America North,Mexico,Colima-Villa De Álvarez,False,390837
+America North,Mexico,Comitán De Domínguez,False,117055
+America North,Mexico,Córdoba,False,340184
+America North,Mexico,Cuauhtemoc,False,140489
+America North,Mexico,Cuautla,False,494232
+America North,Mexico,Cuernavaca,False,1051220
+America North,Mexico,Culiacán Rosales,False,1036119
+America North,Mexico,Delicias,False,198267
+America North,Mexico,Ensenada,False,460903
+America North,Mexico,Fresnillo,False,154667
+America North,Mexico,Guadalajara,False,5436332
+America North,Mexico,Guanajuato,False,199532
+America North,Mexico,Guaymas,False,209305
+America North,Mexico,Hermosillo,False,970861
+America North,Mexico,Heroica Nogales,False,274955
+America North,Mexico,Hidalgo Del Parral,False,123790
+America North,Mexico,Iguala De La Independencia,False,136334
+America North,Mexico,Irapuato,False,466065
+America North,Mexico,La Laguna,False,1470138
+America North,Mexico,La Paz,False,301282
+America North,Mexico,La Piedad-Pénjamo,False,263966
+America North,Mexico,Lagos De Moreno,False,114524
+America North,Mexico,León,False,1996647
+America North,Mexico,Los Mochis,False,312144
+America North,Mexico,Manzanillo,False,176221
+America North,Mexico,Matamoros,False,553481
+America North,Mexico,Mazatlán,False,515432
+America North,Mexico,Mérida,False,1377502
+America North,Mexico,Mexicali,False,1074576
+America North,Mexico,"Mexico, Ciudad De",True,22167521
+America North,Mexico,Minatitlán,False,359864
+America North,Mexico,Monclova-Frontera,False,381805
+America North,Mexico,Monterrey,False,5603789
+America North,Mexico,Morelia,False,1024898
+America North,Mexico,Moroleón Uriangato - Moroleón-Uriangato,False,108772
+America North,Mexico,Navojoa,False,122432
+America North,Mexico,Nuevo Laredo,False,433992
+America North,Mexico,Oaxaca,False,735020
+America North,Mexico,Ocotlán,False,189074
+America North,Mexico,Orizaba,False,472704
+America North,Mexico,Pachuca,False,702734
+America North,Mexico,Piedras Negras,False,215884
+America North,Mexico,Playa Del Carmen,False,352707
+America North,Mexico,Poza Rica,False,523187
+America North,Mexico,Puebla-Tlaxcala,False,3305612
+America North,Mexico,Puerto Vallarta,False,502904
+America North,Mexico,Querétaro,False,1701124
+America North,Mexico,Reynosa-Río Bravo,False,861797
+America North,Mexico,Rioverde-Ciudad Fernández,False,148321
+America North,Mexico,Salamanca,False,163692
+America North,Mexico,Saltillo,False,1080679
+America North,Mexico,San Cristóbal De Las Casas,False,193159
+America North,Mexico,San Francisco Del Rincón,False,222020
+America North,Mexico,San José Del Cabo,False,156322
+America North,Mexico,San Juan Bautista Tuxtepec,False,108546
+America North,Mexico,San Juan Del Río,False,186568
+America North,Mexico,San Luis Potosí-Soledad De Graciano Sánchez,False,1318356
+America North,Mexico,San Luis Rio Colorado,False,180758
+America North,Mexico,Tampico,False,941957
+America North,Mexico,Tapachula De Cordova Y Ordoñez,False,360936
+America North,Mexico,Tecomán,False,144450
+America North,Mexico,Tehuacán,False,371523
+America North,Mexico,Tehuantepec,False,182267
+America North,Mexico,Tepatitlán De Morelos,False,100315
+America North,Mexico,Tepic,False,504878
+America North,Mexico,Teziutlán,False,142407
+America North,Mexico,Tianguistenco,False,188955
+America North,Mexico,Tijuana,False,2252147
+America North,Mexico,Tlaxcala,False,586000
+America North,Mexico,Toluca,False,2430360
+America North,Mexico,Tula,False,268711
+America North,Mexico,Tulancingo,False,274661
+America North,Mexico,Túxpan De Rodríguez Cano,False,122721
+America North,Mexico,Tuxtla Gutiérrez,False,872771
+America North,Mexico,Uruapan,False,324434
+America North,Mexico,Veracruz,False,962097
+America North,Mexico,Victoria De Durango,False,712804
+America North,Mexico,Villahermosa,False,850972
+America North,Mexico,Xalapa,False,806174
+America North,Mexico,Zacatecas-Guadalupe,False,421174
+America North,Mexico,Zamora-Jacona,False,278729
+America North,Nicaragua,Chinandega,False,106635
+America North,Nicaragua,León,False,156049
+America North,Nicaragua,Managua,True,985143
+America North,Nicaragua,Masaya,False,110491
+America North,Nicaragua,Tipitapa,False,105773
+America North,Panama,Ciudad De Panamá,True,501447
+America North,Panama,San Miguelito,False,388718
+America North,Puerto Rico,Bayamón,False,182673
+America North,Puerto Rico,Caguas,False,126756
+America North,Puerto Rico,Carolina,False,152993
+America North,Puerto Rico,Ponce,False,135084
+America North,Puerto Rico,San Juan,True,337300
+America North,Saint Lucia,Castries,True,3661
+America North,Saint Pierre And Miquelon,Saint-Pierre,True,5415
+America North,Trinidad And Tobago,Port-Of-Spain,True,37074
+America North,Turks And Caicos Islands,Grand Turk,True,4831
+America North,United States Of America,Abilene,False,127385
+America North,United States Of America,Akron,False,188509
+America North,United States Of America,Albany,False,100826
+America North,United States Of America,Albuquerque,False,561008
+America North,United States Of America,Alexandria,False,155525
+America North,United States Of America,Allen,False,111551
+America North,United States Of America,Allentown,False,125094
+America North,United States Of America,Amarillo,False,201291
+America North,United States Of America,Anaheim,False,344461
+America North,United States Of America,Anchorage,False,287145
+America North,United States Of America,Ann Arbor,False,119875
+America North,United States Of America,Antioch,False,115264
+America North,United States Of America,Arlington,False,394602
+America North,United States Of America,Arvada,False,121581
+America North,United States Of America,Athens,False,128561
+America North,United States Of America,Atlanta,False,499127
+America North,United States Of America,Augusta,False,202096
+America North,United States Of America,Aurora,False,393537
+America North,United States Of America,Aurora,False,177866
+America North,United States Of America,Austin,False,974447
+America North,United States Of America,Bakersfield,False,410647
+America North,United States Of America,Baltimore,False,569931
+America North,United States Of America,Baton Rouge,False,221453
+America North,United States Of America,Beaumont,False,112089
+America North,United States Of America,Bellevue,False,152767
+America North,United States Of America,Bend,False,103254
+America North,United States Of America,Berkeley,False,118950
+America North,United States Of America,Billings,False,119960
+America North,United States Of America,Birmingham,False,196910
+America North,United States Of America,Boise City,False,236634
+America North,United States Of America,Boston,False,650706
+America North,United States Of America,Boulder,False,105485
+America North,United States Of America,Bridgeport,False,148377
+America North,United States Of America,Brockton,False,104826
+America North,United States Of America,Broken Arrow,False,117911
+America North,United States Of America,Brownsville,False,189382
+America North,United States Of America,Buckeye,False,105567
+America North,United States Of America,Buffalo,False,276486
+America North,United States Of America,Burbank,False,103920
+America North,United States Of America,Cambridge,False,118488
+America North,United States Of America,Cape Coral,False,216992
+America North,United States Of America,Carlsbad,False,114160
+America North,United States Of America,Carmel,False,101964
+America North,United States Of America,Carrollton,False,133820
+America North,United States Of America,Cary,False,180388
+America North,United States Of America,Cedar Rapids,False,136429
+America North,United States Of America,Centennial,False,105865
+America North,United States Of America,Chandler,False,280711
+America North,United States Of America,Charleston,False,153672
+America North,United States Of America,Charlotte,False,897720
+America North,United States Of America,Chattanooga,False,184086
+America North,United States Of America,Chesapeake,False,252488
+America North,United States Of America,Chicago,False,2665039
+America North,United States Of America,Chico,False,101299
+America North,United States Of America,Chula Vista,False,279170
+America North,United States Of America,Cincinnati,False,309513
+America North,United States Of America,Clarksville,False,176974
+America North,United States Of America,Clearwater,False,117027
+America North,United States Of America,Cleveland,False,361607
+America North,United States Of America,Clovis,False,124556
+America North,United States Of America,College Station,False,124319
+America North,United States Of America,Colorado Springs,False,486248
+America North,United States Of America,Columbia,False,128555
+America North,United States Of America,Columbia,False,139698
+America North,United States Of America,Columbus,False,202616
+America North,United States Of America,Columbus,False,907971
+America North,United States Of America,Concord,False,122625
+America North,United States Of America,Concord,False,109896
+America North,United States Of America,Conroe,False,101405
+America North,United States Of America,Coral Springs,False,133369
+America North,United States Of America,Corona,False,159567
+America North,United States Of America,Corpus Christi,False,316239
+America North,United States Of America,Costa Mesa,False,109521
+America North,United States Of America,Dallas,False,1299544
+America North,United States Of America,Daly City,False,100007
+America North,United States Of America,Davenport,False,100486
+America North,United States Of America,Davie,False,106513
+America North,United States Of America,Dayton,False,135944
+America North,United States Of America,Dearborn,False,107710
+America North,United States Of America,Denton,False,150353
+America North,United States Of America,Denver,False,713252
+America North,United States Of America,Des Moines,False,211034
+America North,United States Of America,Detroit,False,620376
+America North,United States Of America,Downey,False,109934
+America North,United States Of America,Durham,False,291928
+America North,United States Of America,Edinburg,False,104294
+America North,United States Of America,El Cajon,False,104414
+America North,United States Of America,El Monte,False,105312
+America North,United States Of America,El Paso,False,677456
+America North,United States Of America,Elgin,False,113177
+America North,United States Of America,Elizabeth,False,134283
+America North,United States Of America,Elk Grove,False,177558
+America North,United States Of America,Escondido,False,150270
+America North,United States Of America,Eugene,False,177923
+America North,United States Of America,Evansville,False,115749
+America North,United States Of America,Everett,False,111337
+America North,United States Of America,Fairfield,False,119338
+America North,United States Of America,Fargo,False,131444
+America North,United States Of America,Fayetteville,False,208873
+America North,United States Of America,Fishers,False,101966
+America North,United States Of America,Fontana,False,212475
+America North,United States Of America,Fort Collins,False,169249
+America North,United States Of America,Fort Lauderdale,False,183146
+America North,United States Of America,Fort Wayne,False,267927
+America North,United States Of America,Fort Worth,False,956709
+America North,United States Of America,Fremont,False,223871
+America North,United States Of America,Fresno,False,545567
+America North,United States Of America,Frisco,False,219587
+America North,United States Of America,Fullerton,False,140541
+America North,United States Of America,Gainesville,False,145214
+America North,United States Of America,Garden Grove,False,169254
+America North,United States Of America,Garland,False,240854
+America North,United States Of America,Gilbert,False,275346
+America North,United States Of America,Glendale,False,252136
+America North,United States Of America,Glendale,False,189221
+America North,United States Of America,Goodyear,False,105406
+America North,United States Of America,Grand Prairie,False,201843
+America North,United States Of America,Grand Rapids,False,196908
+America North,United States Of America,Greeley,False,109209
+America North,United States Of America,Green Bay,False,106095
+America North,United States Of America,Greensboro,False,301115
+America North,United States Of America,Gresham,False,111621
+America North,United States Of America,Hampton,False,138037
+America North,United States Of America,Hartford,False,120686
+America North,United States Of America,Hayward,False,156754
+America North,United States Of America,Henderson,False,331415
+America North,United States Of America,Hesperia,False,100744
+America North,United States Of America,Hialeah,False,220292
+America North,United States Of America,High Point City,False,115067
+America North,United States Of America,Hillsboro,False,107299
+America North,United States Of America,Hollywood,False,152650
+America North,United States Of America,Houston,False,2302878
+America North,United States Of America,Huntington Beach,False,194310
+America North,United States Of America,Huntsville,False,221933
+America North,United States Of America,Independence,False,121202
+America North,United States Of America,Indianapolis,False,880621
+America North,United States Of America,Inglewood,False,103621
+America North,United States Of America,Irvine,False,313685
+America North,United States Of America,Irving,False,254715
+America North,United States Of America,Jackson,False,145995
+America North,United States Of America,Jacksonville,False,971319
+America North,United States Of America,Jersey City,False,286670
+America North,United States Of America,Joliet,False,150033
+America North,United States Of America,Jurupa Valley,False,107609
+America North,United States Of America,Kansas City,False,153345
+America North,United States Of America,Kansas City,False,509297
+America North,United States Of America,Kent,False,134392
+America North,United States Of America,Killeen,False,159172
+America North,United States Of America,Knoxville,False,195889
+America North,United States Of America,Lafayette,False,121389
+America North,United States Of America,Lakeland,False,120071
+America North,United States Of America,Lakewood,False,156120
+America North,United States Of America,Lancaster,False,169185
+America North,United States Of America,Lansing,False,112537
+America North,United States Of America,Laredo,False,256187
+America North,United States Of America,Las Cruces,False,113888
+America North,United States Of America,Las Vegas,False,656274
+America North,United States Of America,League City,False,115418
+America North,United States Of America,Lee'S Summit,False,103465
+America North,United States Of America,Lewisville,False,131215
+America North,United States Of America,Lexington-Fayette,False,320347
+America North,United States Of America,Lincoln,False,292627
+America North,United States Of America,Little Rock,False,202864
+America North,United States Of America,Long Beach,False,451307
+America North,United States Of America,Los Angeles,False,3822238
+America North,United States Of America,Louisville/ Jeferson County,False,624444
+America North,United States Of America,Lowell,False,113608
+America North,United States Of America,Lubbock,False,263930
+America North,United States Of America,Lynn,False,100891
+America North,United States Of America,Macon-Bibb,False,156197
+America North,United States Of America,Madison,False,272903
+America North,United States Of America,Manchester,False,115141
+America North,United States Of America,Mcallen,False,144579
+America North,United States Of America,Mckinney City,False,207507
+America North,United States Of America,Memphis,False,621056
+America North,United States Of America,Menifee,False,109399
+America North,United States Of America,Meridian,False,129736
+America North,United States Of America,Mesa,False,512498
+America North,United States Of America,Mesquite,False,147899
+America North,United States Of America,Miami,False,449514
+America North,United States Of America,Miami Gardens,False,110497
+America North,United States Of America,Midland City,False,134444
+America North,United States Of America,Milwaukee,False,563305
+America North,United States Of America,Minneapolis,False,425096
+America North,United States Of America,Miramar,False,137228
+America North,United States Of America,Mobile,False,183289
+America North,United States Of America,Modesto,False,218069
+America North,United States Of America,Montgomery,False,196986
+America North,United States Of America,Moreno Valley,False,211924
+America North,United States Of America,Murfreesboro,False,162398
+America North,United States Of America,Murrieta,False,113783
+America North,United States Of America,Nampa,False,110951
+America North,United States Of America,Naperville,False,149936
+America North,United States Of America,Nashville-Davidson,False,683622
+America North,United States Of America,New Bedford,False,100682
+America North,United States Of America,New Braunfels,False,104707
+America North,United States Of America,New Haven,False,138915
+America North,United States Of America,New Orleans,False,369749
+America North,United States Of America,New York,False,8335897
+America North,United States Of America,Newark,False,305344
+America North,United States Of America,Newport News,False,184306
+America North,United States Of America,Norfolk,False,232995
+America North,United States Of America,Norman,False,129627
+America North,United States Of America,North Charleston,False,118608
+America North,United States Of America,North Las Vegas,False,280543
+America North,United States Of America,Oakland,False,430553
+America North,United States Of America,Oceanside,False,172199
+America North,United States Of America,Odessa,False,112906
+America North,United States Of America,Oklahoma City,False,694800
+America North,United States Of America,Olathe,False,145616
+America North,United States Of America,Omaha,False,485153
+America North,United States Of America,Ontario,False,179061
+America North,United States Of America,Orange,False,136178
+America North,United States Of America,Orlando,False,316081
+America North,United States Of America,Overland Park,False,197726
+America North,United States Of America,Oxnard,False,200415
+America North,United States Of America,Palm Bay City,False,129234
+America North,United States Of America,Palmdale,False,163463
+America North,United States Of America,Pasadena,False,134211
+America North,United States Of America,Pasadena,False,147662
+America North,United States Of America,Paterson,False,156661
+America North,United States Of America,Pearland,False,126949
+America North,United States Of America,Pembroke Pines,False,169876
+America North,United States Of America,Peoria,False,197866
+America North,United States Of America,Peoria,False,111021
+America North,United States Of America,Philadelphia,False,1567258
+America North,United States Of America,Phoenix,False,1644409
+America North,United States Of America,Pittsburgh,False,302898
+America North,United States Of America,Plano,False,289547
+America North,United States Of America,Pomona,False,146017
+America North,United States Of America,Pompano Beach,False,112302
+America North,United States Of America,Port St. Lucie,False,231790
+America North,United States Of America,Portland,False,635067
+America North,United States Of America,Providence,False,189563
+America North,United States Of America,Provo,False,113523
+America North,United States Of America,Pueblo,False,111456
+America North,United States Of America,Quincy,False,101727
+America North,United States Of America,Raleigh,False,476587
+America North,United States Of America,Rancho Cucamonga,False,176336
+America North,United States Of America,Reno,False,273448
+America North,United States Of America,Renton,False,104047
+America North,United States Of America,Rialto,False,103545
+America North,United States Of America,Richardson,False,118802
+America North,United States Of America,Richmond,False,114301
+America North,United States Of America,Richmond,False,229395
+America North,United States Of America,Rio Rancho,False,108082
+America North,United States Of America,Riverside,False,320764
+America North,United States Of America,Rochester,False,121878
+America North,United States Of America,Rochester,False,209352
+America North,United States Of America,Rockford,False,146713
+America North,United States Of America,Roseville,False,154817
+America North,United States Of America,Round Rock,False,126697
+America North,United States Of America,Sacramento,False,528001
+America North,United States Of America,Salem,False,177487
+America North,United States Of America,Salinas,False,161020
+America North,United States Of America,Salt Lake City,False,204657
+America North,United States Of America,San Antonio,False,1472909
+America North,United States Of America,San Bernardino,False,220328
+America North,United States Of America,San Buenaventura,False,109527
+America North,United States Of America,San Diego,False,1381162
+America North,United States Of America,San Francisco,False,808437
+America North,United States Of America,San Jose,False,971233
+America North,United States Of America,San Mateo,False,100984
+America North,United States Of America,Sandy Springs,False,107763
+America North,United States Of America,Santa Ana,False,308189
+America North,United States Of America,Santa Clara,False,126930
+America North,United States Of America,Santa Clarita,False,221345
+America North,United States Of America,Santa Maria,False,110125
+America North,United States Of America,Santa Rosa,False,177181
+America North,United States Of America,Savannah,False,148004
+America North,United States Of America,Scottsdale,False,243050
+America North,United States Of America,Seattle,False,749256
+America North,United States Of America,Shreveport,False,180153
+America North,United States Of America,Simi Valley,False,124398
+America North,United States Of America,Sioux Falls,False,202078
+America North,United States Of America,South Bend,False,103110
+America North,United States Of America,South Fulton,False,111158
+America North,United States Of America,Sparks,False,109226
+America North,United States Of America,Spokane,False,230160
+America North,United States Of America,Spokane Valley,False,107325
+America North,United States Of America,Springfield,False,113273
+America North,United States Of America,Springfield,False,154064
+America North,United States Of America,Springfield,False,170067
+America North,United States Of America,St. George,False,102519
+America North,United States Of America,St. Louis,False,286578
+America North,United States Of America,St. Paul,False,303176
+America North,United States Of America,St. Petersburg,False,261256
+America North,United States Of America,Stamford,False,136188
+America North,United States Of America,Sterling Heights,False,132567
+America North,United States Of America,Stockton,False,321819
+America North,United States Of America,Sugar Land,False,109414
+America North,United States Of America,Sunnyvale,False,153091
+America North,United States Of America,Surprise,False,154198
+America North,United States Of America,Syracuse,False,144451
+America North,United States Of America,Tacoma,False,221776
+America North,United States Of America,Tallahassee,False,201731
+America North,United States Of America,Tampa,False,398173
+America North,United States Of America,Temecula,False,111752
+America North,United States Of America,Tempe,False,185950
+America North,United States Of America,Thornton,False,143282
+America North,United States Of America,Thousand Oaks,False,124265
+America North,United States Of America,Toledo,False,266301
+America North,United States Of America,Topeka,False,125449
+America North,United States Of America,Torrance,False,141126
+America North,United States Of America,Tucson,False,546574
+America North,United States Of America,Tulsa,False,411867
+America North,United States Of America,Tuscaloosa,False,110602
+America North,United States Of America,Tyler,False,109286
+America North,United States Of America,Urban Honolulu,False,343421
+America North,United States Of America,Vacaville,False,101918
+America North,United States Of America,Vallejo,False,123564
+America North,United States Of America,Vancouver,False,194512
+America North,United States Of America,Victorville City,False,137221
+America North,United States Of America,Virginia Beach,False,455618
+America North,United States Of America,Visalia,False,143966
+America North,United States Of America,Waco,False,143984
+America North,United States Of America,Warren,False,137107
+America North,United States Of America,Washington,True,671803
+America North,United States Of America,Waterbury,False,115016
+America North,United States Of America,West Covina,False,105013
+America North,United States Of America,West Jordan,False,116664
+America North,United States Of America,West Palm Beach,False,120932
+America North,United States Of America,West Valley City,False,136650
+America North,United States Of America,Westminster,False,114533
+America North,United States Of America,Wichita,False,396192
+America North,United States Of America,Wichita Falls,False,102664
+America North,United States Of America,Wilmington,False,120324
+America North,United States Of America,Winston-Salem,False,251350
+America North,United States Of America,Worcester,False,205319
+America North,United States Of America,Yonkers,False,208121
+America North,United States Virgin Islands,Charlotte Amalie,True,10354
+America South,Argentina,Bahía Blanca-Cerri,False,317942
+America South,Argentina,Buenos Aires,True,15716718
+America South,Argentina,Catamarca,False,227826
+America South,Argentina,Comodoro Rivadavia-Rada Tilly,False,245582
+America South,Argentina,Concordia,False,163124
+America South,Argentina,Córdoba,False,1582649
+America South,Argentina,Corrientes,False,385867
+America South,Argentina,Formosa,False,258029
+America South,Argentina,La Plata,False,914845
+America South,Argentina,La Rioja,False,229418
+America South,Argentina,Mar Del Plata-Batán,False,654533
+America South,Argentina,Mendoza,False,1041282
+America South,Argentina,Neuquén-Plottier,False,315378
+America South,Argentina,Paraná,False,283577
+America South,Argentina,Posadas,False,380794
+America South,Argentina,Rawson-Trelew-Playa Unión,False,148711
+America South,Argentina,Resistencia,False,419567
+America South,Argentina,Río Cuarto,False,180262
+America South,Argentina,Rio Gallegos,False,126886
+America South,Argentina,Rosario,False,1337855
+America South,Argentina,Salta,False,651355
+America South,Argentina,San Juan,False,545424
+America South,Argentina,San Luis - El Chorrillo,False,242962
+America South,Argentina,San Nicolás-Villa Constitución,False,196793
+America South,Argentina,San Salvador De Jujuy-Palpalá,False,353430
+America South,Argentina,Santa Fé,False,542585
+America South,Argentina,Santa Rosa-Toay,False,130110
+America South,Argentina,Santiago Del Estero-La Banda,False,409509
+America South,Argentina,Tucumán-Tafí Viejo,False,912328
+America South,Argentina,Ushuaia-Río Grande,False,171934
+America South,Bolivia (Plurinational State Of),Cochabamba,False,618376
+America South,Bolivia (Plurinational State Of),El Alto,False,953253
+America South,Bolivia (Plurinational State Of),La Paz,True,835361
+America South,Bolivia (Plurinational State Of),Oruro,False,216723
+America South,Bolivia (Plurinational State Of),Potosí,False,154693
+America South,Bolivia (Plurinational State Of),Sacaba,False,155667
+America South,Bolivia (Plurinational State Of),Santa Cruz,False,1616062
+America South,Bolivia (Plurinational State Of),Sucre,True,284032
+America South,Bolivia (Plurinational State Of),Tarija,False,194313
+America South,Bolivia (Plurinational State Of),Yacuiba,False,112095
+America South,Brazil,Abaetetuba,False,158188
+America South,Brazil,Açailândia,False,106550
+America South,Brazil,Águas Lindas De Goiás,False,225693
+America South,Brazil,Alagoinhas,False,151055
+America South,Brazil,Almirante Tamandaré,False,119825
+America South,Brazil,Altamira,False,126279
+America South,Brazil,Alvorada,False,187315
+America South,Brazil,Americana,False,237240
+America South,Brazil,Ananindeua,False,478778
+America South,Brazil,Anápolis,False,398869
+America South,Brazil,Angra Dos Reis,False,167434
+America South,Brazil,Aparecida De Goiânia,False,527796
+America South,Brazil,Apucarana,False,130134
+America South,Brazil,Aracaju,False,602757
+America South,Brazil,Araçatuba,False,200124
+America South,Brazil,Araguaína,False,171301
+America South,Brazil,Araguari,False,117808
+America South,Brazil,Arapiraca,False,234696
+America South,Brazil,Arapongas,False,119138
+America South,Brazil,Araraquara,False,242228
+America South,Brazil,Araras,False,130866
+America South,Brazil,Araruama,False,129671
+America South,Brazil,Araucária,False,151666
+America South,Brazil,Araxá,False,111691
+America South,Brazil,Assis,False,101409
+America South,Brazil,Atibaia,False,158647
+America South,Brazil,Bacabal,False,103711
+America South,Brazil,Bagé,False,117938
+America South,Brazil,Balneário Camboriú,False,139155
+America South,Brazil,Balsas,False,101767
+America South,Brazil,Barbacena,False,125317
+America South,Brazil,Barcarena,False,126650
+America South,Brazil,Barra Mansa,False,169894
+America South,Brazil,Barreiras,False,159734
+America South,Brazil,Barretos,False,122485
+America South,Brazil,Barueri,False,316473
+America South,Brazil,Bauru,False,379146
+America South,Brazil,Belém,False,1303403
+America South,Brazil,Belford Roxo,False,483087
+America South,Brazil,Belo Horizonte,False,2315560
+America South,Brazil,Bento Gonçalves,False,123151
+America South,Brazil,Betim,False,411846
+America South,Brazil,Birigui,False,118979
+America South,Brazil,Blumenau,False,361261
+America South,Brazil,Boa Vista,False,413486
+America South,Brazil,Botucatu,False,145155
+America South,Brazil,Bragança,False,123082
+America South,Brazil,Bragança Paulista,False,176811
+America South,Brazil,Brasília,True,2817381
+America South,Brazil,Breves,False,106968
+America South,Brazil,Brusque,False,141385
+America South,Brazil,Cabo De Santo Agostinho,False,203440
+America South,Brazil,Cabo Frio,False,222161
+America South,Brazil,Cachoeirinha,False,136258
+America South,Brazil,Cachoeiro De Itapemirim,False,185786
+America South,Brazil,Camaçari,False,300372
+America South,Brazil,Camaragibe,False,147771
+America South,Brazil,Cambé,False,107208
+America South,Brazil,Camboriú,False,103074
+America South,Brazil,Cametá,False,134184
+America South,Brazil,Campina Grande,False,419379
+America South,Brazil,Campinas,False,1139047
+America South,Brazil,Campo Grande,False,898100
+America South,Brazil,Campo Largo,False,136327
+America South,Brazil,Campos Dos Goytacazes,False,483540
+America South,Brazil,Canoas,False,347657
+America South,Brazil,Caraguatatuba,False,134873
+America South,Brazil,Carapicuíba,False,386984
+America South,Brazil,Cariacica,False,353491
+America South,Brazil,Caruaru,False,378048
+America South,Brazil,Cascavel,False,348051
+America South,Brazil,Castanhal,False,192256
+America South,Brazil,Catalão,False,114427
+America South,Brazil,Catanduva,False,115791
+America South,Brazil,Caucaia,False,355679
+America South,Brazil,Caxias,False,156973
+America South,Brazil,Caxias Do Sul,False,463501
+America South,Brazil,Chapecó,False,254785
+America South,Brazil,Colatina,False,120033
+America South,Brazil,Colombo,False,232212
+America South,Brazil,Conselheiro Lafaiete,False,131621
+America South,Brazil,Contagem,False,621863
+America South,Brazil,Coronel Fabriciano,False,104736
+America South,Brazil,Cotia,False,274413
+America South,Brazil,Crato,False,131050
+America South,Brazil,Criciúma,False,214493
+America South,Brazil,Cubatão,False,112476
+America South,Brazil,Cuiabá,False,650877
+America South,Brazil,Curitiba,False,1773718
+America South,Brazil,Diadema,False,393237
+America South,Brazil,Divinópolis,False,231091
+America South,Brazil,Dourados,False,243367
+America South,Brazil,Duque De Caxias,False,808161
+America South,Brazil,Embu Das Artes,False,250691
+America South,Brazil,Erechim,False,105705
+America South,Brazil,Eunápolis,False,113710
+America South,Brazil,Fazenda Rio Grande,False,148873
+America South,Brazil,Feira De Santana,False,616272
+America South,Brazil,Ferraz De Vasconcelos,False,179198
+America South,Brazil,Florianópolis,False,537211
+America South,Brazil,Formosa,False,115901
+America South,Brazil,Fortaleza,False,2428708
+America South,Brazil,Foz Do Iguaçu,False,285415
+America South,Brazil,Franca,False,352536
+America South,Brazil,Francisco Morato,False,165139
+America South,Brazil,Franco Da Rocha,False,144849
+America South,Brazil,Garanhuns,False,142506
+America South,Brazil,Goiânia,False,1437366
+America South,Brazil,Governador Valadares,False,257171
+America South,Brazil,Gravataí,False,265074
+America South,Brazil,Guarapari,False,124656
+America South,Brazil,Guarapuava,False,182093
+America South,Brazil,Guaratinguetá,False,118044
+America South,Brazil,Guarujá,False,287634
+America South,Brazil,Guarulhos,False,1291771
+America South,Brazil,Hortolândia,False,236641
+America South,Brazil,Ibirité,False,170537
+America South,Brazil,Igarassu,False,115196
+America South,Brazil,Ilhéus,False,178649
+America South,Brazil,Imperatriz,False,273110
+America South,Brazil,Indaiatuba,False,255748
+America South,Brazil,Ipatinga,False,227731
+America South,Brazil,Itabaiana,False,103440
+America South,Brazil,Itabira,False,113343
+America South,Brazil,Itaboraí,False,224267
+America South,Brazil,Itabuna,False,186708
+America South,Brazil,Itacoatiara,False,103598
+America South,Brazil,Itaguaí,False,116841
+America South,Brazil,Itaituba,False,123314
+America South,Brazil,Itajaí,False,264054
+America South,Brazil,Itanhaém,False,112476
+America South,Brazil,Itapecerica Da Serra,False,158522
+America South,Brazil,Itaperuna,False,101041
+America South,Brazil,Itapetininga,False,157790
+America South,Brazil,Itapevi,False,232297
+America South,Brazil,Itapipoca,False,131123
+America South,Brazil,Itaquaquecetuba,False,369275
+America South,Brazil,Itatiba,False,121590
+America South,Brazil,Itu,False,168240
+America South,Brazil,Ituiutaba,False,102217
+America South,Brazil,Itumbiara,False,107970
+America South,Brazil,Jaboatão Dos Guararapes,False,644037
+America South,Brazil,Jacareí,False,240275
+America South,Brazil,Jandira,False,118045
+America South,Brazil,Jaraguá Do Sul,False,182660
+America South,Brazil,Jataí,False,105729
+America South,Brazil,Jaú,False,133497
+America South,Brazil,Jequié,False,158813
+America South,Brazil,Ji-Paraná,False,124333
+America South,Brazil,João Pessoa,False,833932
+America South,Brazil,Joinville,False,616317
+America South,Brazil,Juazeiro,False,237821
+America South,Brazil,Juazeiro Do Norte,False,286120
+America South,Brazil,Juiz De Fora,False,540756
+America South,Brazil,Jundiaí,False,443221
+America South,Brazil,Lagarto,False,101579
+America South,Brazil,Lages,False,164981
+America South,Brazil,Lauro De Freitas,False,203331
+America South,Brazil,Lavras,False,104761
+America South,Brazil,Limeira,False,291869
+America South,Brazil,Linhares,False,166786
+America South,Brazil,Londrina,False,555965
+America South,Brazil,Luís Eduardo Magalhães,False,107909
+America South,Brazil,Luziânia,False,209129
+America South,Brazil,Macaé,False,246391
+America South,Brazil,Macapá,False,442933
+America South,Brazil,Maceió,False,957916
+America South,Brazil,Magé,False,228127
+America South,Brazil,Manacapuru,False,101883
+America South,Brazil,Manaus,False,2063689
+America South,Brazil,Marabá,False,266533
+America South,Brazil,Maracanaú,False,234509
+America South,Brazil,Maranguape,False,105093
+America South,Brazil,Maricá,False,197277
+America South,Brazil,Marília,False,237627
+America South,Brazil,Maringá,False,409657
+America South,Brazil,Marituba,False,111785
+America South,Brazil,Mauá,False,418261
+America South,Brazil,Mesquita,False,167127
+America South,Brazil,Mogi Das Cruzes,False,451505
+America South,Brazil,Mogi Guaçu,False,153658
+America South,Brazil,Montes Claros,False,414240
+America South,Brazil,Mossoró,False,264577
+America South,Brazil,Muriaé,False,104108
+America South,Brazil,Natal,False,751300
+America South,Brazil,Nilópolis,False,146774
+America South,Brazil,Niterói,False,481749
+America South,Brazil,Nossa Senhora Do Socorro,False,192330
+America South,Brazil,Nova Friburgo,False,189939
+America South,Brazil,Nova Iguaçu,False,785867
+America South,Brazil,Nova Lima,False,111697
+America South,Brazil,Nova Serrana,False,105552
+America South,Brazil,Novo Gama,False,103804
+America South,Brazil,Novo Hamburgo,False,227646
+America South,Brazil,Olinda,False,349976
+America South,Brazil,Osasco,False,728615
+America South,Brazil,Ourinhos,False,103970
+America South,Brazil,Paço Do Lumiar,False,145643
+America South,Brazil,Palhoça,False,222598
+America South,Brazil,Palmas,False,302692
+America South,Brazil,Paragominas,False,105550
+America South,Brazil,Paranaguá,False,145829
+America South,Brazil,Parauapebas,False,267836
+America South,Brazil,Parnaíba,False,162159
+America South,Brazil,Parnamirim,False,252716
+America South,Brazil,Passo Fundo,False,206215
+America South,Brazil,Passos,False,111939
+America South,Brazil,Patos,False,103165
+America South,Brazil,Patos De Minas,False,159235
+America South,Brazil,Paulínia,False,110537
+America South,Brazil,Paulista,False,342167
+America South,Brazil,Paulo Afonso,False,112870
+America South,Brazil,Pelotas,False,325685
+America South,Brazil,Petrolina,False,386791
+America South,Brazil,Petrópolis,False,278881
+America South,Brazil,Pindamonhangaba,False,165428
+America South,Brazil,Pinhais,False,127019
+America South,Brazil,Piracicaba,False,423323
+America South,Brazil,Piraquara,False,118730
+America South,Brazil,Planaltina,False,105031
+America South,Brazil,Poá,False,103765
+America South,Brazil,Poços De Caldas,False,163742
+America South,Brazil,Ponta Grossa,False,358371
+America South,Brazil,Porto Alegre,False,1332845
+America South,Brazil,Porto Seguro,False,168326
+America South,Brazil,Porto Velho,False,460434
+America South,Brazil,Pouso Alegre,False,152217
+America South,Brazil,Praia Grande,False,349935
+America South,Brazil,Presidente Prudente,False,225668
+America South,Brazil,Queimados,False,140523
+America South,Brazil,Recife,False,1488920
+America South,Brazil,Resende,False,129612
+America South,Brazil,Ribeirão Das Neves,False,329794
+America South,Brazil,Ribeirão Pires,False,115559
+America South,Brazil,Ribeirão Preto,False,698642
+America South,Brazil,Rio Branco,False,364756
+America South,Brazil,Rio Claro,False,201418
+America South,Brazil,Rio Das Ostras,False,156491
+America South,Brazil,Rio De Janeiro,False,6211223
+America South,Brazil,Rio Grande,False,191900
+America South,Brazil,Rio Verde,False,225696
+America South,Brazil,Rondonópolis,False,244911
+America South,Brazil,Sabará,False,129380
+America South,Brazil,Salto,False,134319
+America South,Brazil,Salvador,False,2417678
+America South,Brazil,Santa Bárbara D'Oeste,False,183347
+America South,Brazil,Santa Cruz Do Sul,False,133230
+America South,Brazil,Santa Luzia,False,219132
+America South,Brazil,Santa Maria,False,271735
+America South,Brazil,Santa Rita,False,149910
+America South,Brazil,Santana,False,107618
+America South,Brazil,Santana De Parnaíba,False,154105
+America South,Brazil,Santarém,False,331942
+America South,Brazil,Santo André,False,748919
+America South,Brazil,Santo Antônio De Jesus,False,103055
+America South,Brazil,Santos,False,418608
+America South,Brazil,São Bernardo Do Campo,False,810729
+America South,Brazil,São Caetano Do Sul,False,165655
+America South,Brazil,São Carlos,False,254857
+America South,Brazil,São Gonçalo,False,896744
+America South,Brazil,São Gonçalo Do Amarante,False,115838
+America South,Brazil,São João De Meriti,False,440962
+America South,Brazil,São José,False,270299
+America South,Brazil,São José De Ribamar,False,244579
+America South,Brazil,São José Do Rio Preto,False,480393
+America South,Brazil,São José Dos Campos,False,697054
+America South,Brazil,São José Dos Pinhais,False,329628
+America South,Brazil,São Leopoldo,False,217409
+America South,Brazil,São Lourenço Da Mata,False,111249
+America South,Brazil,São Luís,False,1037775
+America South,Brazil,São Mateus,False,123752
+America South,Brazil,São Paulo,False,11451999
+America South,Brazil,São Pedro Da Aldeia,False,104029
+America South,Brazil,São Vicente,False,329911
+America South,Brazil,Sapucaia Do Sul,False,132107
+America South,Brazil,Sarandi,False,118455
+America South,Brazil,Senador Canedo,False,155635
+America South,Brazil,Serra,False,520653
+America South,Brazil,Sertãozinho,False,126887
+America South,Brazil,Sete Lagoas,False,227397
+America South,Brazil,Simões Filho,False,114559
+America South,Brazil,Sinop,False,196312
+America South,Brazil,Sobral,False,203023
+America South,Brazil,Sorocaba,False,723682
+America South,Brazil,Sorriso,False,110635
+America South,Brazil,Sumaré,False,279545
+America South,Brazil,Suzano,False,307429
+America South,Brazil,Taboão Da Serra,False,273542
+America South,Brazil,Tangará Da Serra,False,106434
+America South,Brazil,Tatuí,False,123942
+America South,Brazil,Taubaté,False,310739
+America South,Brazil,Teixeira De Freitas,False,145216
+America South,Brazil,Teófilo Otoni,False,137418
+America South,Brazil,Teresina,False,866300
+America South,Brazil,Teresópolis,False,165123
+America South,Brazil,Timon,False,174465
+America South,Brazil,Toledo,False,150470
+America South,Brazil,Três Lagoas,False,132152
+America South,Brazil,Trindade,False,142431
+America South,Brazil,Tubarão,False,110088
+America South,Brazil,Ubá,False,103365
+America South,Brazil,Uberaba,False,337836
+America South,Brazil,Uberlândia,False,713224
+America South,Brazil,Umuarama,False,117095
+America South,Brazil,Uruguaiana,False,117210
+America South,Brazil,Valinhos,False,126373
+America South,Brazil,Valparaíso De Goiás,False,198861
+America South,Brazil,Varginha,False,136467
+America South,Brazil,Várzea Grande,False,300078
+America South,Brazil,Várzea Paulista,False,115771
+America South,Brazil,Vespasiano,False,129246
+America South,Brazil,Viamão,False,224112
+America South,Brazil,Vila Velha,False,467722
+America South,Brazil,Vitória,False,322869
+America South,Brazil,Vitória Da Conquista,False,370879
+America South,Brazil,Vitória De Santo Antão,False,134084
+America South,Brazil,Volta Redonda,False,261563
+America South,Brazil,Votorantim,False,127923
+America South,Chile,Alto Hospicio,False,134331
+America South,Chile,Antofagasta,False,431567
+America South,Chile,Arica,False,234700
+America South,Chile,Calama,False,188028
+America South,Chile,Cerro Navia,False,141507
+America South,Chile,Chillán,False,184542
+America South,Chile,Colina,False,152779
+America South,Chile,Concepción,False,234005
+America South,Chile,Conchalí,False,138638
+America South,Chile,Copiapó,False,171117
+America South,Chile,Coquimbo,False,250401
+America South,Chile,Coronel,False,124816
+America South,Chile,Curicó,False,150050
+America South,Chile,El Bosque,False,171201
+America South,Chile,Estación Central,False,217664
+America South,Chile,Huechuraba,False,115767
+America South,Chile,Independencia,False,150074
+America South,Chile,Iquique,False,225211
+America South,Chile,La Cisterna,False,101313
+America South,Chile,La Florida,False,406083
+America South,Chile,La Granja,False,121170
+America South,Chile,La Pintana,False,189321
+America South,Chile,La Reina,False,100131
+America South,Chile,La Serena,False,233607
+America South,Chile,Lampa,False,108947
+America South,Chile,Las Condes,False,338541
+America South,Chile,Lo Barnechea,False,127549
+America South,Chile,Lo Espejo,False,102530
+America South,Chile,Lo Prado,False,103732
+America South,Chile,Los Ángeles,False,166714
+America South,Chile,Macul,False,137079
+America South,Chile,Maipú,False,582040
+America South,Chile,Melipilla,False,100864
+America South,Chile,Ñuñoa,False,259712
+America South,Chile,Osorno,False,159997
+America South,Chile,Pedro Aguirre Cerda,False,106496
+America South,Chile,Peñalolén,False,270707
+America South,Chile,Providencia,False,161568
+America South,Chile,Pudahuel,False,253710
+America South,Chile,Puente Alto,False,660350
+America South,Chile,Puerto Montt,False,246497
+America South,Chile,Punta Arenas,False,136987
+America South,Chile,Quilicura,False,266111
+America South,Chile,Quilpué,False,168320
+America South,Chile,Quinta Normal,False,140055
+America South,Chile,Rancagua,False,262170
+America South,Chile,Recoleta,False,195185
+America South,Chile,Renca,False,162517
+America South,Chile,San Bernardo,False,337685
+America South,Chile,San Joaquín,False,103704
+America South,Chile,San Miguel,False,139729
+America South,Chile,San Pedro De La Paz,False,149798
+America South,Chile,Santiago,True,527014
+America South,Chile,Talca,False,228567
+America South,Chile,Talcahuano,False,156873
+America South,Chile,Temuco,False,284085
+America South,Chile,Valdivia,False,167513
+America South,Chile,Valparaíso,False,317333
+America South,Chile,Villa Alemana,False,142066
+America South,Chile,Viña Del Mar,False,366981
+America South,Colombia,Aguachica,False,122902
+America South,Colombia,Apartadó,False,131754
+America South,Colombia,Armenia,False,312551
+America South,Colombia,Barrancabermeja,False,214689
+America South,Colombia,Barranquilla,False,1312473
+America South,Colombia,Bello,False,569488
+America South,Colombia,"Bogotá, D.C.",True,7901653
+America South,Colombia,Bucaramanga,False,618967
+America South,Colombia,Buenaventura,False,315743
+America South,Colombia,Cali,False,2280907
+America South,Colombia,Cartagena,False,1055035
+America South,Colombia,Cartago,False,139026
+America South,Colombia,Cereté,False,110032
+America South,Colombia,Chía,False,160435
+America South,Colombia,Ciénaga,False,127494
+America South,Colombia,Cúcuta,False,791986
+America South,Colombia,Dosquebradas,False,227696
+America South,Colombia,Duitama,False,128400
+America South,Colombia,Envigado,False,249800
+America South,Colombia,Facatativá,False,167309
+America South,Colombia,Florencia,False,176706
+America South,Colombia,Floridablanca,False,313745
+America South,Colombia,Funza,False,112720
+America South,Colombia,Fusagasugá,False,165340
+America South,Colombia,Girardot,False,117744
+America South,Colombia,Girón,False,175170
+America South,Colombia,Gudalajara De Buga,False,130564
+America South,Colombia,Ibagué,False,543949
+America South,Colombia,Ipiales,False,115936
+America South,Colombia,Itagüí,False,299098
+America South,Colombia,Jamundí,False,169280
+America South,Colombia,Lorica,False,117188
+America South,Colombia,Madrid,False,136374
+America South,Colombia,Magangué,False,143710
+America South,Colombia,Maicao,False,192085
+America South,Colombia,Malambo,False,143781
+America South,Colombia,Manizales,False,454077
+America South,Colombia,Medellín,False,2612958
+America South,Colombia,Montería,False,512994
+America South,Colombia,Mosquera,False,161610
+America South,Colombia,Neiva,False,370318
+America South,Colombia,Ocaña,False,131784
+America South,Colombia,Palmira,False,358806
+America South,Colombia,Pasto,False,393009
+America South,Colombia,Pereira,False,485373
+America South,Colombia,Piedecuesta,False,186435
+America South,Colombia,Pitalito,False,130742
+America South,Colombia,Popayán,False,330750
+America South,Colombia,Quibdo,False,132918
+America South,Colombia,Riohacha,False,209488
+America South,Colombia,Rionegro,False,147484
+America South,Colombia,Sabanalarga,False,103050
+America South,Colombia,Sahagún,False,111882
+America South,Colombia,San Andrés De Tumaco,False,257326
+America South,Colombia,Santa Marta,False,552391
+America South,Colombia,Santander De Quilichao,False,114832
+America South,Colombia,Sincelejo,False,301126
+America South,Colombia,Soacha,False,808288
+America South,Colombia,Sogamoso,False,132895
+America South,Colombia,Soledad,False,685106
+America South,Colombia,Tuluá,False,221604
+America South,Colombia,Tunja,False,181710
+America South,Colombia,Turbaco,False,116340
+America South,Colombia,Turbo,False,134278
+America South,Colombia,Uribia,False,197327
+America South,Colombia,Valledupar,False,552048
+America South,Colombia,Villa Del Rosario,False,113384
+America South,Colombia,Villavicencio,False,554173
+America South,Colombia,Yopal,False,180513
+America South,Colombia,Yumbo,False,111474
+America South,Colombia,Zipaquirá,False,156983
+America South,Ecuador,Ambato,False,179750
+America South,Ecuador,Babahoyo,False,105552
+America South,Ecuador,Cuenca,False,417172
+America South,Ecuador,Daule,False,121748
+America South,Ecuador,Durán,False,317478
+America South,Ecuador,Esmeraldas,False,206913
+America South,Ecuador,Guayaquil,False,2652684
+America South,Ecuador,Ibarra,False,168327
+America South,Ecuador,La Libertad,False,119575
+America South,Ecuador,Loja,False,245481
+America South,Ecuador,Machala,False,274948
+America South,Ecuador,Manta,False,258519
+America South,Ecuador,Milagro,False,159614
+America South,Ecuador,Portoviejo,False,245555
+America South,Ecuador,Quevedo,False,190844
+America South,Ecuador,Quito,True,1836779
+America South,Ecuador,Riobamba,False,174193
+America South,Ecuador,RumiñAhui,False,104782
+America South,Ecuador,Santo Domingo De Los Colorados,False,355772
+America South,Falkland Islands (Malvinas),Stanley,True,2460
+America South,French Guiana,Cayenne,True,57614
+America South,Guyana,Georgetown,True,24849
+America South,Paraguay,Asunción,True,512919
+America South,Paraguay,Capiatá,False,257115
+America South,Paraguay,Ciudad Del Este,False,317524
+America South,Paraguay,Fernando De La Mora,False,200111
+America South,Paraguay,Lambaré,False,210724
+America South,Paraguay,Luque,False,358264
+America South,Paraguay,San Lorenzo,False,354283
+America South,Peru,Arequipa,False,1142894
+America South,Peru,Ayacucho,False,268326
+America South,Peru,Cajamarca,False,243819
+America South,Peru,Chiclayo,False,609382
+America South,Peru,Chimbote,False,402631
+America South,Peru,Chincha Alta,False,215014
+America South,Peru,Cuzco,False,523283
+America South,Peru,Huacho,False,185222
+America South,Peru,Huancayo,False,547189
+America South,Peru,Huánuco,False,233858
+America South,Peru,Huaraz,False,139977
+America South,Peru,Ica,False,348089
+America South,Peru,Iquitos,False,451217
+America South,Peru,Juliaca,False,328738
+America South,Peru,Lima,True,11098068
+America South,Peru,Piura,False,562304
+America South,Peru,Pucallpa,False,410808
+America South,Peru,Puerto Maldonado,False,116501
+America South,Peru,Puno,False,143124
+America South,Peru,Sullana,False,206178
+America South,Peru,Tacna,False,337500
+America South,Peru,Talara,False,102355
+America South,Peru,Tarapoto,False,171711
+America South,Peru,Trujillo,False,1111287
+America South,Peru,Tumbes,False,108228
+America South,Suriname,Paramaribo,True,240924
+America South,Suriname,Wanica,False,118222
+America South,Uruguay,Montevideo,True,1383964
+America South,Venezuela (Bolivarian Republic Of),Anaco,False,140496
+America South,Venezuela (Bolivarian Republic Of),Barinas,False,389578
+America South,Venezuela (Bolivarian Republic Of),Barquisimeto,False,881127
+America South,Venezuela (Bolivarian Republic Of),Baruta,False,358221
+America South,Venezuela (Bolivarian Republic Of),Cabimas,False,293365
+America South,Venezuela (Bolivarian Republic Of),Cagua,False,118290
+America South,Venezuela (Bolivarian Republic Of),Caracas,True,2082130
+America South,Venezuela (Bolivarian Republic Of),Carora,False,111963
+America South,Venezuela (Bolivarian Republic Of),Carúpano,False,156380
+America South,Venezuela (Bolivarian Republic Of),Ciudad Bolívar,False,407452
+America South,Venezuela (Bolivarian Republic Of),Ciudad Guayana,False,877547
+America South,Venezuela (Bolivarian Republic Of),Ciudad Ojeda,False,216489
+America South,Venezuela (Bolivarian Republic Of),Cua,False,143164
+America South,Venezuela (Bolivarian Republic Of),Cumaná,False,358138
+America South,Venezuela (Bolivarian Republic Of),El Tigre,False,203403
+America South,Venezuela (Bolivarian Republic Of),Guacara,False,192536
+America South,Venezuela (Bolivarian Republic Of),Guanare,False,160234
+America South,Venezuela (Bolivarian Republic Of),Guarenas,False,247131
+America South,Venezuela (Bolivarian Republic Of),Guatire,False,177794
+America South,Venezuela (Bolivarian Republic Of),Los Guayos,False,173878
+America South,Venezuela (Bolivarian Republic Of),Los Teques,False,216358
+America South,Venezuela (Bolivarian Republic Of),Maracaibo,False,1653215
+America South,Venezuela (Bolivarian Republic Of),Maracay,False,419052
+America South,Venezuela (Bolivarian Republic Of),Maturín,False,571276
+America South,Venezuela (Bolivarian Republic Of),Mérida,False,248410
+America South,Venezuela (Bolivarian Republic Of),Naguanagua,False,161658
+America South,Venezuela (Bolivarian Republic Of),Ocumare Del Tuy,False,197952
+America South,Venezuela (Bolivarian Republic Of),Petare,False,434320
+America South,Venezuela (Bolivarian Republic Of),Pozuelos,False,144045
+America South,Venezuela (Bolivarian Republic Of),Puerto Cabello,False,193025
+America South,Venezuela (Bolivarian Republic Of),Punto Fijo,False,272239
+America South,Venezuela (Bolivarian Republic Of),San Cristóbal,False,282830
+America South,Venezuela (Bolivarian Republic Of),San Fernando De Apure,False,217590
+America South,Venezuela (Bolivarian Republic Of),San Francisco,False,106763
+America South,Venezuela (Bolivarian Republic Of),Santa Lucía,False,133543
+America South,Venezuela (Bolivarian Republic Of),Táriba,False,132657
+America South,Venezuela (Bolivarian Republic Of),Tocuyito,False,186755
+America South,Venezuela (Bolivarian Republic Of),Turmero,False,238570
+America South,Venezuela (Bolivarian Republic Of),Valencia,False,888109
+America South,Venezuela (Bolivarian Republic Of),Valera,False,161771
+Asia,Afghanistan,Baghalan Center,False,253080
+Asia,Afghanistan,Balkh Center,False,516402
+Asia,Afghanistan,Farah Center,False,133131
+Asia,Afghanistan,Ghazni Center,False,194209
+Asia,Afghanistan,Ghor Center,False,137310
+Asia,Afghanistan,Helmand Center,False,202525
+Asia,Afghanistan,Herat Center,False,612098
+Asia,Afghanistan,Jawzjan Center,False,200773
+Asia,Afghanistan,Kabul Center,True,4775074
+Asia,Afghanistan,Kandhar Center,False,670912
+Asia,Afghanistan,Khost Center,False,161780
+Asia,Afghanistan,Kunduz Center,False,384197
+Asia,Afghanistan,Laghman Center,False,151969
+Asia,Afghanistan,Logar Center,False,124101
+Asia,Afghanistan,Nngarhar Center,False,289772
+Asia,Afghanistan,Parwan Center,False,210217
+Asia,Afghanistan,Samangan Center,False,123167
+Asia,Afghanistan,Sar-E-Pul Center,False,183698
+Asia,Afghanistan,Takhar Center,False,268964
+Asia,Afghanistan,Urozgan Center,False,120558
+Asia,Armenia,Gyumri,False,112260
+Asia,Armenia,Yerevan,True,1087886
+Asia,Azerbaijan,Baku,True,2330425
+Asia,Azerbaijan,Ganja,False,328823
+Asia,Azerbaijan,Mingecheviz,False,101223
+Asia,Azerbaijan,Sumgayit,False,422577
+Asia,Azerbaijan,Xirdalan,False,193939
+Asia,Bahrain,Manama,True,176909
+Asia,Bangladesh,Barishal City Corporation,False,419484
+Asia,Bangladesh,Bhairab Pourasabha,False,156297
+Asia,Bangladesh,Bogura Pourasabha,False,486016
+Asia,Bangladesh,Brahmanbaria Pourasabha,False,264341
+Asia,Bangladesh,Chandpur Pourasabha,False,203451
+Asia,Bangladesh,Chapainawabganj Pourasabha,False,201005
+Asia,Bangladesh,Chattogram City Corporation,False,3230507
+Asia,Bangladesh,Choumuhani Pourasabha,False,100065
+Asia,Bangladesh,Coxs Bazar Pourasabha,False,196385
+Asia,Bangladesh,Cumilla City Corporation,False,440233
+Asia,Bangladesh,Dhaka North City Corporation,False,5990723
+Asia,Bangladesh,Dhaka South City Corporation,False,4305063
+Asia,Bangladesh,Dinajpur Pourasabha,False,212288
+Asia,Bangladesh,Faridpur Pourasabha,False,237283
+Asia,Bangladesh,Feni Pourasabha,False,234357
+Asia,Bangladesh,Gazipur City Corporation,False,2677715
+Asia,Bangladesh,Ghorashal Pourasabha,False,101690
+Asia,Bangladesh,Gopalganj Pourasabha,False,108523
+Asia,Bangladesh,Jamalpur Pourasabha,False,158889
+Asia,Bangladesh,Jashore Pourasabha,False,209352
+Asia,Bangladesh,Jhenaidah Pourasabha,False,140271
+Asia,Bangladesh,Kaliakair Pourasabha,False,249111
+Asia,Bangladesh,Khulna City Corporation,False,719557
+Asia,Bangladesh,Kishoreganj Pourasabha,False,138063
+Asia,Bangladesh,Kushtia Pourasabha,False,221806
+Asia,Bangladesh,Lakshmipur Pourasabha,False,132230
+Asia,Bangladesh,Magura Pourasabha,False,114249
+Asia,Bangladesh,Mymensingh City Corporation,False,577000
+Asia,Bangladesh,Naogaon Pourasabha,False,178649
+Asia,Bangladesh,Narayanganj City Corporation,False,967951
+Asia,Bangladesh,Narsingdi Pourasabha,False,180711
+Asia,Bangladesh,Netrakona Pourasabha,False,122299
+Asia,Bangladesh,Noakhali Pourasabha,False,132198
+Asia,Bangladesh,Pabna Pourasabha,False,176005
+Asia,Bangladesh,Rajshahi City Corporation,False,553288
+Asia,Bangladesh,Rangamati Pourasabha,False,106069
+Asia,Bangladesh,Rangpur City Corporation,False,708570
+Asia,Bangladesh,Saidpur Pourasabha,False,143538
+Asia,Bangladesh,Satkhira Pourasabha,False,138411
+Asia,Bangladesh,Savar Pourasabha,False,384105
+Asia,Bangladesh,Sherpur Pourasabha,False,123516
+Asia,Bangladesh,Sirajganj Pourasabha,False,188549
+Asia,Bangladesh,Sreepur Pourasabha,False,258973
+Asia,Bangladesh,Sylhet City Corporation,False,532839
+Asia,Bangladesh,Tangail Pourasabha,False,212887
+Asia,Bangladesh,Taraba Pourasabha,False,197672
+Asia,Bangladesh,Thakurgaon Pourasabha,False,100462
+Asia,Bhutan,Thimphu,True,114551
+Asia,Brunei Darussalam,Bandar Seri Begawan,True,100700
+Asia,Cambodia,Bat Dambang,False,1126345
+Asia,Cambodia,Phnom Penh,True,1570790
+Asia,Cambodia,Seam Reab,False,999702
+Asia,China,Beijing,True,18796000
+Asia,"China, Hong Kong Sar",Hong Kong Sar,True,7346100
+Asia,"China, Macao Sar",Macao,True,677300
+Asia,Cyprus,Lefkosia,True,244200
+Asia,Cyprus,Lemesos,False,182600
+Asia,Democratic People'S Republic Of Korea,Anju,False,167646
+Asia,Democratic People'S Republic Of Korea,Chongjin,False,614892
+Asia,Democratic People'S Republic Of Korea,Haeju,False,241599
+Asia,Democratic People'S Republic Of Korea,Hamhung,False,614198
+Asia,Democratic People'S Republic Of Korea,Huichon,False,136093
+Asia,Democratic People'S Republic Of Korea,Hyesan,False,174015
+Asia,Democratic People'S Republic Of Korea,Jongju,False,102659
+Asia,Democratic People'S Republic Of Korea,Kaechon,False,262389
+Asia,Democratic People'S Republic Of Korea,Kaesong,False,192578
+Asia,Democratic People'S Republic Of Korea,Kanggye,False,251971
+Asia,Democratic People'S Republic Of Korea,Kim Chaek,False,155284
+Asia,Democratic People'S Republic Of Korea,Kusong,False,155181
+Asia,Democratic People'S Republic Of Korea,Nampho,False,310864
+Asia,Democratic People'S Republic Of Korea,Phyongsong,False,236583
+Asia,Democratic People'S Republic Of Korea,Pyongyang,True,2581076
+Asia,Democratic People'S Republic Of Korea,Rason,False,158337
+Asia,Democratic People'S Republic Of Korea,Sariwon,False,271434
+Asia,Democratic People'S Republic Of Korea,Sinpho,False,130951
+Asia,Democratic People'S Republic Of Korea,Sinuiju,False,334031
+Asia,Democratic People'S Republic Of Korea,Sunchon,False,250738
+Asia,Democratic People'S Republic Of Korea,Tanchon,False,240873
+Asia,Democratic People'S Republic Of Korea,Tokchon,False,210571
+Asia,Democratic People'S Republic Of Korea,Wonsan,False,328467
+Asia,Georgia,Batumi,False,169095
+Asia,Georgia,Kutaisi,False,135201
+Asia,Georgia,Rustavi,False,128680
+Asia,Georgia,Tbilisi,True,1154314
+Asia,India,Abohar,False,145302
+Asia,India,Achalpur,False,112311
+Asia,India,Adilabad,False,117167
+Asia,India,Adityapur,False,174355
+Asia,India,Adoni,False,184625
+Asia,India,Agartala,False,400004
+Asia,India,Agra,False,1585704
+Asia,India,Ahmadabad,False,5633927
+Asia,India,Ahmadnagar,False,350859
+Asia,India,Aizawl,False,293416
+Asia,India,Ajmer,False,542321
+Asia,India,Akbarpur,False,111447
+Asia,India,Akola,False,425817
+Asia,India,Alandur,False,164430
+Asia,India,Alappuzha,False,240991
+Asia,India,Aligarh,False,874408
+Asia,India,Allahabad,False,1168385
+Asia,India,Alwar,False,322568
+Asia,India,Ambala,False,195153
+Asia,India,Ambala Sadar,False,104974
+Asia,India,Ambarnath,False,253475
+Asia,India,Ambattur,False,466205
+Asia,India,Ambikapur,False,121071
+Asia,India,Ambur,False,114608
+Asia,India,Amravati,False,647057
+Asia,India,Amreli,False,117967
+Asia,India,Amritsar,False,1159227
+Asia,India,Amroha,False,198471
+Asia,India,Anand,False,209410
+Asia,India,Anantapur,False,267161
+Asia,India,Anantnag,False,150592
+Asia,India,Arrah,False,261430
+Asia,India,Asansol,False,563917
+Asia,India,Ashoknagar Kalyangarh,False,121592
+Asia,India,Aurangabad,False,102244
+Asia,India,Aurangabad,False,1175116
+Asia,India,Avadi,False,345996
+Asia,India,Azamgarh,False,110983
+Asia,India,Badlapur,False,174226
+Asia,India,Bagaha,False,112634
+Asia,India,Bagalkot,False,111933
+Asia,India,Bahadurgarh,False,170767
+Asia,India,Baharampur,False,195223
+Asia,India,Bahraich,False,186223
+Asia,India,Baidyabati,False,121110
+Asia,India,Baleshwar Town,False,144373
+Asia,India,Ballia,False,104424
+Asia,India,Bally,False,113377
+Asia,India,Bally,False,293373
+Asia,India,Balurghat,False,153279
+Asia,India,Banda,False,160473
+Asia,India,Bankura,False,137386
+Asia,India,Bansberia,False,103920
+Asia,India,Banswara,False,101017
+Asia,India,Baran,False,117992
+Asia,India,Baranagar,False,245213
+Asia,India,Barasat,False,278435
+Asia,India,Baraut,False,103764
+Asia,India,Barddhaman,False,314265
+Asia,India,Bareilly,False,904797
+Asia,India,Baripada Town,False,116849
+Asia,India,Barnala,False,116449
+Asia,India,Barrackpur,False,152783
+Asia,India,Barshi,False,118722
+Asia,India,Basirhat,False,125254
+Asia,India,Basti,False,114657
+Asia,India,Batala,False,158621
+Asia,India,Bathinda,False,285788
+Asia,India,Beawar,False,151152
+Asia,India,Begusarai,False,252008
+Asia,India,Belgaum,False,490045
+Asia,India,Bellary,False,410445
+Asia,India,Bettiah,False,132209
+Asia,India,Betul,False,103330
+Asia,India,Bhadrak,False,121338
+Asia,India,Bhadravati,False,151102
+Asia,India,Bhadreswar,False,101477
+Asia,India,Bhagalpur,False,400146
+Asia,India,Bhalswa Jahangir Pur,False,197148
+Asia,India,Bharatpur,False,252838
+Asia,India,Bharuch,False,169007
+Asia,India,Bhatpara,False,386019
+Asia,India,Bhavnagar,False,605882
+Asia,India,Bhilai Nagar,False,627734
+Asia,India,Bhilwara,False,359483
+Asia,India,Bhimavaram,False,146961
+Asia,India,Bhind,False,197585
+Asia,India,Bhiwadi,False,104921
+Asia,India,Bhiwandi,False,709665
+Asia,India,Bhiwani,False,196057
+Asia,India,Bhopal,False,1798218
+Asia,India,Bhubaneswar Town,False,885363
+Asia,India,Bhuj,False,148834
+Asia,India,Bhusawal,False,187421
+Asia,India,Bid,False,146709
+Asia,India,Bidar,False,216020
+Asia,India,Bidhan Nagar,False,215514
+Asia,India,Biharsharif,False,297268
+Asia,India,Bijapur,False,327427
+Asia,India,Bikaner,False,644406
+Asia,India,Bilaspur,False,365579
+Asia,India,Bokaro Steel City,False,414820
+Asia,India,Bongaon,False,108864
+Asia,India,Botad,False,130327
+Asia,India,Brahmapur,False,356598
+Asia,India,Bruhat Bengaluru Mahanagara Palike,False,8495492
+Asia,India,Budaun,False,159285
+Asia,India,Bulandshahar,False,230024
+Asia,India,Bundi,False,104919
+Asia,India,Burari,False,146190
+Asia,India,Burhanpur,False,210886
+Asia,India,Buxar,False,102861
+Asia,India,Champdani,False,111251
+Asia,India,Chandannagar,False,166867
+Asia,India,Chandausi,False,114383
+Asia,India,Chandigarh,False,970602
+Asia,India,Chandrapur,False,320379
+Asia,India,Chapra,False,202352
+Asia,India,Chas,False,141640
+Asia,India,Chennai,False,4646732
+Asia,India,Chhatarpur,False,142128
+Asia,India,Chhindwara,False,175052
+Asia,India,Chikmagalur,False,118401
+Asia,India,Chilakaluripet,False,101398
+Asia,India,Chitradurga,False,145853
+Asia,India,Chittaurgarh,False,116406
+Asia,India,Chittoor,False,160722
+Asia,India,Churu,False,120157
+Asia,India,Coimbatore,False,1050721
+Asia,India,Cuddalore,False,173636
+Asia,India,Cuttack,False,610189
+Asia,India,Dabgram,False,119040
+Asia,India,Dallo Pura,False,154791
+Asia,India,Damoh,False,139561
+Asia,India,Darbhanga,False,296039
+Asia,India,Darjiling,False,118805
+Asia,India,Datia,False,100284
+Asia,India,Davanagere,False,434971
+Asia,India,Deesa,False,111160
+Asia,India,Dehradun,False,574840
+Asia,India,Dehri,False,137231
+Asia,India,Delhi Cantonment,False,110351
+Asia,India,Delhi Municipal Corporation,False,11034555
+Asia,India,Deoghar,False,203123
+Asia,India,Deoli,False,169122
+Asia,India,Deoria,False,129479
+Asia,India,Dewas,False,289550
+Asia,India,Dhamtari,False,101677
+Asia,India,Dhanbad,False,1162472
+Asia,India,Dharmavaram,False,121874
+Asia,India,Dhaulpur,False,133075
+Asia,India,Dhule,False,375559
+Asia,India,Dibrugarh,False,145488
+Asia,India,Dimapur,False,122834
+Asia,India,Dinapur Nizamat,False,182429
+Asia,India,Dindigul,False,207327
+Asia,India,Dohad,False,118846
+Asia,India,Dum Dum,False,114786
+Asia,India,Durg,False,268806
+Asia,India,Durgapur,False,566517
+Asia,India,Eluru,False,218020
+Asia,India,English Bazar,False,205521
+Asia,India,Erode,False,157101
+Asia,India,Etah,False,118517
+Asia,India,Etawah,False,256838
+Asia,India,Faizabad,False,165228
+Asia,India,Faridabad,False,1414050
+Asia,India,Farrukhabad-Cum-Fatehgarh,False,276581
+Asia,India,Fatehpur,False,193193
+Asia,India,Firozabad,False,604214
+Asia,India,Firozpur,False,110313
+Asia,India,Gadag-Betigeri,False,172612
+Asia,India,Gandhidham,False,247992
+Asia,India,Gandhinagar,False,292797
+Asia,India,Ganganagar,False,237780
+Asia,India,Gangapur City,False,119090
+Asia,India,Gangawati,False,114642
+Asia,India,Gangtok,False,100286
+Asia,India,Gaya,False,474093
+Asia,India,Ghaziabad,False,1648643
+Asia,India,Ghazipur,False,121020
+Asia,India,Giridih,False,114533
+Asia,India,Godhra,False,143644
+Asia,India,Gokal Pur,False,121870
+Asia,India,Gonda,False,114046
+Asia,India,Gondal,False,112197
+Asia,India,Gondiya,False,132813
+Asia,India,Gorakhpur,False,673446
+Asia,India,Greater Hyderabad Municipal Corporation,False,6993262
+Asia,India,Greater Mumbai,False,12442373
+Asia,India,Greater Noida,False,102054
+Asia,India,Greater Visakhapatnam Municipal Corporation,False,1728128
+Asia,India,Gudivada,False,118167
+Asia,India,Gulbarga,False,543147
+Asia,India,Guna,False,180935
+Asia,India,Guntakal,False,126270
+Asia,India,Guntur,False,670073
+Asia,India,Gurgaon,False,886519
+Asia,India,Guwahati,False,962334
+Asia,India,Gwalior,False,1054420
+Asia,India,Habra,False,147221
+Asia,India,Hajipur,False,147688
+Asia,India,Haldia,False,200827
+Asia,India,Haldwani-Cum-Kathgodam,False,201461
+Asia,India,Halisahar,False,124939
+Asia,India,Hanumangarh,False,150958
+Asia,India,Haora,False,1077075
+Asia,India,Hapur,False,262983
+Asia,India,Hardoi,False,197029
+Asia,India,Hardwar,False,231338
+Asia,India,Hassan,False,155006
+Asia,India,Hastsal,False,176877
+Asia,India,Hathras,False,143020
+Asia,India,Hazaribag,False,142489
+Asia,India,Hindaun,False,105452
+Asia,India,Hindupur,False,151677
+Asia,India,Hinganghat,False,101805
+Asia,India,Hisar,False,307024
+Asia,India,Hoshangabad,False,117988
+Asia,India,Hoshiarpur,False,168653
+Asia,India,Hospet,False,206167
+Asia,India,Hosur,False,116821
+Asia,India,Hubli-Dharwad,False,943788
+Asia,India,Hugli-Chinsurah,False,179931
+Asia,India,Ichalkaranji,False,287353
+Asia,India,Imphal,False,277196
+Asia,India,Indore,False,1994397
+Asia,India,Jabalpur,False,1081677
+Asia,India,Jagadhri,False,124894
+Asia,India,Jagdalpur,False,125463
+Asia,India,Jagtial,False,103930
+Asia,India,Jaipur,False,3046163
+Asia,India,Jalandhar,False,868929
+Asia,India,Jalgaon,False,460228
+Asia,India,Jalna,False,285577
+Asia,India,Jalpaiguri,False,107341
+Asia,India,Jamalpur,False,105434
+Asia,India,Jammu,False,576198
+Asia,India,Jamnagar,False,600943
+Asia,India,Jamshedpur,False,677350
+Asia,India,Jamuria,False,149220
+Asia,India,Jaunpur,False,180362
+Asia,India,Jehanabad,False,103202
+Asia,India,Jetpur Navagadh,False,118302
+Asia,India,Jhansi,False,505693
+Asia,India,Jhunjhunun,False,118473
+Asia,India,Jind,False,167592
+Asia,India,Jodhpur,False,1056191
+Asia,India,Jorhat,False,126736
+Asia,India,Junagadh,False,319462
+Asia,India,Kadapa,False,344893
+Asia,India,Kaithal,False,144915
+Asia,India,Kakinada,False,384182
+Asia,India,Kalol,False,134426
+Asia,India,Kalyan Dombivali,False,1247327
+Asia,India,Kalyani,False,100575
+Asia,India,Kamarhati,False,330211
+Asia,India,Kancheepuram,False,164384
+Asia,India,Kanchrapara,False,129576
+Asia,India,Kanhangad,False,125564
+Asia,India,Kanpur,False,2768057
+Asia,India,Kanpur,False,108534
+Asia,India,Karaikkudi,False,106714
+Asia,India,Karawal Nagar,False,224281
+Asia,India,Karimnagar,False,289821
+Asia,India,Karnal,False,302140
+Asia,India,Kasganj,False,101277
+Asia,India,Kashipur,False,121623
+Asia,India,Katihar,False,240838
+Asia,India,Khammam,False,196283
+Asia,India,Khandwa,False,200738
+Asia,India,Khanna,False,128137
+Asia,India,Kharagpur,False,207604
+Asia,India,Khardaha,False,108496
+Asia,India,Khargone,False,116150
+Asia,India,Khora,False,190005
+Asia,India,Khurja,False,121207
+Asia,India,Kirari Suleman Nagar,False,283211
+Asia,India,Kishanganj,False,105782
+Asia,India,Kishangarh,False,154886
+Asia,India,Kochi,False,633553
+Asia,India,Kolar,False,138462
+Asia,India,Kolhapur,False,549236
+Asia,India,Kolkata,False,4496694
+Asia,India,Kollam,False,367107
+Asia,India,Korba,False,365253
+Asia,India,Kota,False,1001694
+Asia,India,Kozhikode,False,550440
+Asia,India,Krishnanagar,False,153062
+Asia,India,Kulti,False,313809
+Asia,India,Kumbakonam,False,140156
+Asia,India,Kurichi,False,123667
+Asia,India,Kurnool,False,457633
+Asia,India,Lakhimpur,False,151993
+Asia,India,Lalitpur,False,133305
+Asia,India,Latur,False,382940
+Asia,India,Loni,False,516082
+Asia,India,Lucknow,False,2817105
+Asia,India,Ludhiana,False,1618879
+Asia,India,Machilipatnam,False,169892
+Asia,India,Madanapalle,False,180180
+Asia,India,Madavaram,False,119105
+Asia,India,Madhyamgram,False,196127
+Asia,India,Madurai,False,1017865
+Asia,India,Mahbubnagar,False,190400
+Asia,India,Mahesana,False,190753
+Asia,India,Maheshtala,False,448317
+Asia,India,Mainpuri,False,136557
+Asia,India,Malappuram,False,101386
+Asia,India,Malegaon,False,481228
+Asia,India,Malerkotla,False,135424
+Asia,India,Mandoli,False,120417
+Asia,India,Mandsaur,False,141667
+Asia,India,Mandya,False,137358
+Asia,India,Mangalagiri,False,107197
+Asia,India,Mangalore,False,499487
+Asia,India,Mango,False,223805
+Asia,India,Mathura,False,349909
+Asia,India,Maunath Bhanjan,False,278745
+Asia,India,Medinipur,False,169264
+Asia,India,Meerut,False,1305429
+Asia,India,Mira Bhayandar,False,809378
+Asia,India,Miryalaguda,False,104918
+Asia,India,Mirzapur-Cum-Vindhyachal,False,234871
+Asia,India,Modinagar,False,130325
+Asia,India,Moga,False,163397
+Asia,India,Moradabad,False,887871
+Asia,India,Morena,False,200482
+Asia,India,Morvi,False,210451
+Asia,India,Motihari,False,126158
+Asia,India,Mughalsarai,False,109650
+Asia,India,Muktsar,False,116747
+Asia,India,Munger,False,213303
+Asia,India,Murwara,False,221883
+Asia,India,Mustafabad,False,127167
+Asia,India,Muzaffarnagar,False,392768
+Asia,India,Muzaffarpur,False,354462
+Asia,India,Mysore,False,920550
+Asia,India,Nabadwip,False,125543
+Asia,India,Nadiad,False,225071
+Asia,India,Nagaon,False,121628
+Asia,India,Nagapattinam,False,102905
+Asia,India,Nagaur,False,105218
+Asia,India,Nagda,False,100039
+Asia,India,Nagercoil,False,224849
+Asia,India,Nagpur,False,2405665
+Asia,India,Naihati,False,217900
+Asia,India,Nalgonda,False,154326
+Asia,India,Nanded Waghala,False,550439
+Asia,India,Nandurbar,False,111037
+Asia,India,Nandyal,False,211424
+Asia,India,Nangloi Jat,False,205596
+Asia,India,Narasaraopet,False,117489
+Asia,India,Nashik,False,1486053
+Asia,India,Navi Mumbai,False,1120547
+Asia,India,Navi Mumbai Panvel Raigad,False,195373
+Asia,India,Navsari,False,171109
+Asia,India,Neemuch,False,128561
+Asia,India,Nellore,False,547621
+Asia,India,New Delhi Municipal Council,False,257803
+Asia,India,Neyveli,False,105731
+Asia,India,Nizamabad,False,311152
+Asia,India,Noida,False,637272
+Asia,India,North Barrackpur,False,132806
+Asia,India,North Dum Dum,False,249142
+Asia,India,Ongole,False,208344
+Asia,India,Orai,False,190575
+Asia,India,Osmanabad,False,111825
+Asia,India,Ozhukarai,False,300104
+Asia,India,Palakkad,False,130955
+Asia,India,Palanpur,False,141592
+Asia,India,Pali,False,230075
+Asia,India,Pallavaram,False,233984
+Asia,India,Palwal,False,131926
+Asia,India,Panchkula,False,211355
+Asia,India,Panihati,False,377347
+Asia,India,Panipat,False,295970
+Asia,India,Panvel,False,180020
+Asia,India,Parbhani,False,307170
+Asia,India,Patan,False,133737
+Asia,India,Pathankot,False,156306
+Asia,India,Patiala,False,446246
+Asia,India,Patna,False,1684297
+Asia,India,Pilibhit,False,127988
+Asia,India,Pimpri Chinchwad,False,1727692
+Asia,India,Pithampur,False,126200
+Asia,India,Porbandar,False,152760
+Asia,India,Port Blair,False,108058
+Asia,India,Proddatur,False,163970
+Asia,India,Puducherry,False,244377
+Asia,India,Pudukkottai,False,117630
+Asia,India,Pune,False,3124458
+Asia,India,Puri,False,200564
+Asia,India,Purnia,False,282248
+Asia,India,Puruliya,False,121067
+Asia,India,Rae Bareli,False,191316
+Asia,India,Raichur,False,234073
+Asia,India,Raiganj,False,183612
+Asia,India,Raigarh,False,150019
+Asia,India,Raipur,False,1027264
+Asia,India,Rajahmundry,False,376333
+Asia,India,Rajapalayam,False,130442
+Asia,India,Rajarhat Gopalpur,False,402844
+Asia,India,Rajkot,False,1323363
+Asia,India,Rajnandgaon,False,163114
+Asia,India,Rajpur Sonarpur,False,424368
+Asia,India,Ramagundam,False,242979
+Asia,India,Rampur,False,325313
+Asia,India,Ranchi,False,1073427
+Asia,India,Ranibennur,False,106406
+Asia,India,Raniganj,False,129441
+Asia,India,Ratlam,False,264914
+Asia,India,Raurkela Industrial Township,False,216410
+Asia,India,Raurkela Town,False,320040
+Asia,India,Rewa,False,235654
+Asia,India,Rewari,False,143021
+Asia,India,Rishra,False,124577
+Asia,India,Robertson Pet,False,162230
+Asia,India,Rohtak,False,374292
+Asia,India,Roorkee,False,118200
+Asia,India,Rudrapur,False,154554
+Asia,India,S.A.S. Nagar,False,166864
+Asia,India,Sagar,False,274556
+Asia,India,Saharanpur,False,705478
+Asia,India,Saharsa,False,156540
+Asia,India,Salem,False,829267
+Asia,India,Sambalpur,False,189366
+Asia,India,Sambhal,False,220813
+Asia,India,Sangli-Miraj Kupwad,False,502793
+Asia,India,Santipur,False,151777
+Asia,India,Sasaram,False,147408
+Asia,India,Satara,False,120195
+Asia,India,Satna,False,282977
+Asia,India,Sawai Madhopur,False,121106
+Asia,India,Secunderabad,False,217910
+Asia,India,Sehore,False,109118
+Asia,India,Seoni,False,102343
+Asia,India,Serampore,False,181842
+Asia,India,Shahjahanpur,False,329736
+Asia,India,Shamli,False,107266
+Asia,India,Shikohabad,False,107404
+Asia,India,Shillong,False,143229
+Asia,India,Shimla,False,169578
+Asia,India,Shimoga,False,322650
+Asia,India,Shivpuri,False,179977
+Asia,India,Sikar,False,244497
+Asia,India,Silchar,False,178865
+Asia,India,Siliguri,False,513264
+Asia,India,Singrauli,False,220257
+Asia,India,Sirsa,False,182534
+Asia,India,Sitapur,False,177234
+Asia,India,Siwan,False,135066
+Asia,India,Solapur,False,951558
+Asia,India,Sonipat,False,289333
+Asia,India,South Dum Dum,False,403316
+Asia,India,Srikakulam,False,137944
+Asia,India,Srinagar,False,1206419
+Asia,India,Sujangarh,False,101523
+Asia,India,Sultan Pur Majra,False,181554
+Asia,India,Sultanpur,False,107640
+Asia,India,Surat,False,4501610
+Asia,India,Surendranagar Dudhrej,False,177851
+Asia,India,Suryapet,False,106805
+Asia,India,Tadepalligudem,False,104032
+Asia,India,Tadpatri,False,108171
+Asia,India,Tambaram,False,174787
+Asia,India,Tenali,False,164937
+Asia,India,Thane,False,1841488
+Asia,India,Thanesar,False,155152
+Asia,India,Thanjavur,False,222943
+Asia,India,Thiruvananthapuram,False,788271
+Asia,India,Thoothukkudi,False,237830
+Asia,India,Thrissur,False,315957
+Asia,India,Tinsukia,False,116322
+Asia,India,Tiruchirappalli,False,847387
+Asia,India,Tirunelveli,False,473637
+Asia,India,Tirupati,False,295323
+Asia,India,Tiruppur,False,444352
+Asia,India,Tiruvannamalai,False,145278
+Asia,India,Tiruvottiyur,False,249446
+Asia,India,Titagarh,False,116541
+Asia,India,Tonk,False,165294
+Asia,India,Tumkur,False,302143
+Asia,India,Udaipur,False,451100
+Asia,India,Udgir,False,103550
+Asia,India,Udupi,False,144960
+Asia,India,Ujjain,False,515215
+Asia,India,Ulhasnagar,False,506098
+Asia,India,Uluberia,False,235345
+Asia,India,Unnao,False,177658
+Asia,India,Uttarpara Kotrung,False,159147
+Asia,India,Vadodara,False,1752371
+Asia,India,Valsad,False,139764
+Asia,India,Vapi,False,163630
+Asia,India,Varanasi,False,1198491
+Asia,India,Vasai-Virar City,False,1222390
+Asia,India,Vellore,False,185803
+Asia,India,Veraval,False,171121
+Asia,India,Vidisha,False,155951
+Asia,India,Vijayawada,False,1143232
+Asia,India,Vizianagaram,False,228720
+Asia,India,Warangal,False,704570
+Asia,India,Wardha,False,106444
+Asia,India,Yamunanagar,False,217071
+Asia,India,Yavatmal,False,116551
+Asia,Indonesia,Bandung,False,2444160
+Asia,Indonesia,Jakarta,True,10562088
+Asia,Indonesia,Medan,False,2435252
+Asia,Indonesia,Surabaya,False,2874314
+Asia,Iran (Islamic Republic Of),Abadan,False,231476
+Asia,Iran (Islamic Republic Of),Ahar,False,100641
+Asia,Iran (Islamic Republic Of),Ahwaz,False,1184788
+Asia,Iran (Islamic Republic Of),Amol,False,237528
+Asia,Iran (Islamic Republic Of),Andimeshk,False,135116
+Asia,Iran (Islamic Republic Of),Andisheh,False,116062
+Asia,Iran (Islamic Republic Of),Arak,False,520944
+Asia,Iran (Islamic Republic Of),Ardabil,False,529374
+Asia,Iran (Islamic Republic Of),Babol,False,250217
+Asia,Iran (Islamic Republic Of),Bam,False,127396
+Asia,Iran (Islamic Republic Of),Bandar-E-Abbas,False,526648
+Asia,Iran (Islamic Republic Of),Bandar-E-Anzali,False,118564
+Asia,Iran (Islamic Republic Of),Bandar-E-Mahshahr,False,162797
+Asia,Iran (Islamic Republic Of),Baneh,False,110218
+Asia,Iran (Islamic Republic Of),Behbahan,False,122604
+Asia,Iran (Islamic Republic Of),Birjand,False,203636
+Asia,Iran (Islamic Republic Of),Bojnurd,False,228931
+Asia,Iran (Islamic Republic Of),Borazjan,False,110567
+Asia,Iran (Islamic Republic Of),Borujerd,False,234997
+Asia,Iran (Islamic Republic Of),Bukand,False,193501
+Asia,Iran (Islamic Republic Of),Bushehr,False,223504
+Asia,Iran (Islamic Republic Of),Chabahar,False,106739
+Asia,Iran (Islamic Republic Of),Dezful,False,264709
+Asia,Iran (Islamic Republic Of),Dorud,False,121638
+Asia,Iran (Islamic Republic Of),Esfahan,False,1961260
+Asia,Iran (Islamic Republic Of),Fardis,False,181174
+Asia,Iran (Islamic Republic Of),Fasa,False,110825
+Asia,Iran (Islamic Republic Of),Golestan,False,239556
+Asia,Iran (Islamic Republic Of),Gonbad-E-Kavus,False,151910
+Asia,Iran (Islamic Republic Of),Gorgan,False,350676
+Asia,Iran (Islamic Republic Of),Hamadan,False,554406
+Asia,Iran (Islamic Republic Of),Ilam,False,194030
+Asia,Iran (Islamic Republic Of),Iranshahr,False,113750
+Asia,Iran (Islamic Republic Of),Islam Shahr,False,448129
+Asia,Iran (Islamic Republic Of),Izeh,False,119399
+Asia,Iran (Islamic Republic Of),Jahrom,False,141634
+Asia,Iran (Islamic Republic Of),Jiroft,False,130429
+Asia,Iran (Islamic Republic Of),Kamal Shahr,False,141669
+Asia,Iran (Islamic Republic Of),Karaj,False,1592492
+Asia,Iran (Islamic Republic Of),Kashan,False,304487
+Asia,Iran (Islamic Republic Of),Kashmar,False,102282
+Asia,Iran (Islamic Republic Of),Kerman,False,537718
+Asia,Iran (Islamic Republic Of),Kermanshah,False,946651
+Asia,Iran (Islamic Republic Of),Khomeini Shahr,False,247128
+Asia,Iran (Islamic Republic Of),Khoramabad,False,373416
+Asia,Iran (Islamic Republic Of),Khoramshahr,False,133097
+Asia,Iran (Islamic Republic Of),Khoy,False,198845
+Asia,Iran (Islamic Republic Of),Lahijan,False,101073
+Asia,Iran (Islamic Republic Of),Mahabad,False,168393
+Asia,Iran (Islamic Republic Of),Malard,False,281027
+Asia,Iran (Islamic Republic Of),Malayer,False,170237
+Asia,Iran (Islamic Republic Of),Marand,False,130825
+Asia,Iran (Islamic Republic Of),Maraqeh,False,175255
+Asia,Iran (Islamic Republic Of),Marivan,False,136654
+Asia,Iran (Islamic Republic Of),Marvadsht,False,148858
+Asia,Iran (Islamic Republic Of),Mashhad,False,3001184
+Asia,Iran (Islamic Republic Of),Masjed Soleyman,False,100497
+Asia,Iran (Islamic Republic Of),Miandoab,False,134425
+Asia,Iran (Islamic Republic Of),Mohammad Shahr,False,119418
+Asia,Iran (Islamic Republic Of),Najafabad,False,235281
+Asia,Iran (Islamic Republic Of),Nasim Shahr,False,200393
+Asia,Iran (Islamic Republic Of),Nazar Abad,False,119512
+Asia,Iran (Islamic Republic Of),Neyshabur,False,264375
+Asia,Iran (Islamic Republic Of),Orumiyeh,False,736224
+Asia,Iran (Islamic Republic Of),Pakdasht,False,236319
+Asia,Iran (Islamic Republic Of),Qaem Shahr,False,204953
+Asia,Iran (Islamic Republic Of),Qarchak,False,231075
+Asia,Iran (Islamic Republic Of),Qazvin,False,402748
+Asia,Iran (Islamic Republic Of),Qods,False,309605
+Asia,Iran (Islamic Republic Of),Qom,False,1201158
+Asia,Iran (Islamic Republic Of),Quchan,False,101604
+Asia,Iran (Islamic Republic Of),Rafsanjan,False,161909
+Asia,Iran (Islamic Republic Of),Rasht,False,679995
+Asia,Iran (Islamic Republic Of),Robatkarim,False,105393
+Asia,Iran (Islamic Republic Of),Sabzewar,False,243700
+Asia,Iran (Islamic Republic Of),Sanandaj,False,412767
+Asia,Iran (Islamic Republic Of),Saqez,False,165258
+Asia,Iran (Islamic Republic Of),Sari,False,309820
+Asia,Iran (Islamic Republic Of),Saveh,False,220762
+Asia,Iran (Islamic Republic Of),Semnan,False,185129
+Asia,Iran (Islamic Republic Of),Shahinshahr,False,173329
+Asia,Iran (Islamic Republic Of),Shahr-E-Kord,False,190441
+Asia,Iran (Islamic Republic Of),Shahreza,False,134952
+Asia,Iran (Islamic Republic Of),Shahriar,False,309607
+Asia,Iran (Islamic Republic Of),Shahrud,False,150129
+Asia,Iran (Islamic Republic Of),Shiraz,False,1565572
+Asia,Iran (Islamic Republic Of),Shoshtar,False,101878
+Asia,Iran (Islamic Republic Of),Sirjan,False,199704
+Asia,Iran (Islamic Republic Of),Tabriz,False,1558693
+Asia,Iran (Islamic Republic Of),Tehran,True,8693706
+Asia,Iran (Islamic Republic Of),Torbat-E-Heydariyeh,False,140019
+Asia,Iran (Islamic Republic Of),Torbatejam,False,100449
+Asia,Iran (Islamic Republic Of),Varamin,False,225628
+Asia,Iran (Islamic Republic Of),Yasooj,False,134532
+Asia,Iran (Islamic Republic Of),Yazd,False,529673
+Asia,Iran (Islamic Republic Of),Zabol,False,134950
+Asia,Iran (Islamic Republic Of),Zahedan,False,587730
+Asia,Iran (Islamic Republic Of),Zanjan,False,430871
+Asia,Iraq,Abi Gharaq Nahia,False,108630
+Asia,Iraq,Abna'A Al-Rafidain Nahia,False,153712
+Asia,Iraq,Abu Al-Khaseeb Qadha Center,False,215247
+Asia,Iraq,Abu-Gharib Qadha Center,False,149858
+Asia,Iraq,Al-Adhamia Qadha Center,False,286036
+Asia,Iraq,Al-Amara Qadha Center,False,541034
+Asia,Iraq,Al-Amirya Nahia,False,101119
+Asia,Iraq,Al-Basrah Qadha Center,False,1225793
+Asia,Iraq,Al-Dair Nahia,False,101882
+Asia,Iraq,Al-Dijail Qadha Center,False,105345
+Asia,Iraq,Al-Diwaniya Qadha Center,False,421571
+Asia,Iraq,Al-Fahama Nahia,False,619474
+Asia,Iraq,Al-Falluja Qadha Center,False,321106
+Asia,Iraq,Al-Forat Nahia,False,379668
+Asia,Iraq,Al-Garma Nahia,False,129783
+Asia,Iraq,Al-Gharraf Nahia,False,118081
+Asia,Iraq,Al-Habbaniya Nahia,False,133202
+Asia,Iraq,Al-Hamza Qadha Center,False,128472
+Asia,Iraq,Al-Hartha Nahia,False,156391
+Asia,Iraq,Al-Hassainya Nahia,False,147103
+Asia,Iraq,Al-Hawiga Qadha Center,False,115910
+Asia,Iraq,Al-Hilla Qadha Center,False,559834
+Asia,Iraq,Al-Hindiya Qadha Center,False,113021
+Asia,Iraq,Al-Hur Nahia,False,231635
+Asia,Iraq,Al-Iskandaria Nahia,False,159516
+Asia,Iraq,Al-Jisr Nahia,False,159306
+Asia,Iraq,Al-Kadimiya Qadha Center,False,420968
+Asia,Iraq,Al-Kaim Qadha Center,False,104989
+Asia,Iraq,Al-Karkh Qadha Center,False,113397
+Asia,Iraq,Al-Karrada Al-Sharqia Nahia,False,318615
+Asia,Iraq,Al-Khalis Qadha Center,False,139713
+Asia,Iraq,Al-Kifl Nahia,False,140182
+Asia,Iraq,Al-Kufa Qadha Center,False,232670
+Asia,Iraq,Al-Kut Qadha Center,False,436673
+Asia,Iraq,Al-Madhatiya Nahia,False,135941
+Asia,Iraq,Al-Mahawil Qadha Center,False,116899
+Asia,Iraq,Al-Mamoon Nahia,False,985798
+Asia,Iraq,Al-Mansour Nahia,False,434839
+Asia,Iraq,Al-Mashroo Nahia,False,127344
+Asia,Iraq,Al-Mejar Al-Kabir Qadha Center,False,108979
+Asia,Iraq,Al-Mosal Qadha Center,False,1384260
+Asia,Iraq,Al-Mounawara Nahia,False,287799
+Asia,Iraq,Al-Muqdadya Qadha Center,False,157593
+Asia,Iraq,Al-Najaf Qadha Center,False,746180
+Asia,Iraq,Al-Nasir & Al-Salam Nahia,False,160606
+Asia,Iraq,Al-Nasiriya Qadha Center,False,537544
+Asia,Iraq,Al-Noamaniya Qadha Center,False,111647
+Asia,Iraq,Al-Qasim Nahia,False,159420
+Asia,Iraq,Al-Qayarra Nahia,False,129811
+Asia,Iraq,Al-Qurna Qadha Center,False,136677
+Asia,Iraq,Al-Ramadi Qadha Center,False,419053
+Asia,Iraq,Al-Rifaai Qadha Center,False,155478
+Asia,Iraq,Al-Rumaitha Qadha Center,False,118011
+Asia,Iraq,Al-Rusafa Qadha Center,False,118018
+Asia,Iraq,Al-Samawa Qadha Center,False,288948
+Asia,Iraq,Al-Shamal Nahia,False,158475
+Asia,Iraq,Al-Shattra Qadha Center,False,239680
+Asia,Iraq,Al-Shirqat Qadha Center,False,208586
+Asia,Iraq,Al-Sideeq Al-Akbar Nahia,False,172057
+Asia,Iraq,Al-Suwaira Qadha Center,False,142924
+Asia,Iraq,Al-Taji Nahia,False,164894
+Asia,Iraq,Al-Wihda Nahia,False,204585
+Asia,Iraq,Al-Yousifya Nahia,False,131507
+Asia,Iraq,Al-Zohour Nahia,False,209918
+Asia,Iraq,Al-Zubair Qadha Center,False,378758
+Asia,Iraq,Arbil Qadha Center,False,787997
+Asia,Iraq,Baghdad,True,1211934
+Asia,Iraq,Bakrago Nahia,False,101892
+Asia,Iraq,Baquba Qadha Center,False,276029
+Asia,Iraq,Bashiqa Nahia,False,140258
+Asia,Iraq,Beni Saad Nahia,False,127268
+Asia,Iraq,Beygee Qadha Center,False,175395
+Asia,Iraq,Duhouk Qadha Center,False,328113
+Asia,Iraq,Kalar Qadha Center,False,144235
+Asia,Iraq,Kerbela Qadha Center,False,514356
+Asia,Iraq,Kirkuk Qadha Center,False,938336
+Asia,Iraq,Mahmudiya Qadha Center,False,154741
+Asia,Iraq,Qalat Siker Nahia,False,100315
+Asia,Iraq,Saddat Al-Hindin Nahia,False,116247
+Asia,Iraq,Sader /1 Qadha Center,False,130153
+Asia,Iraq,Samarra Qadha Center,False,203011
+Asia,Iraq,Shat Al-Arab Qadha Center,False,136043
+Asia,Iraq,Sulaimania Qadha Center,False,651173
+Asia,Iraq,Suq Al-Shoyolh Qadha Center,False,126652
+Asia,Iraq,Telafar Qadha Center,False,206835
+Asia,Iraq,That Al Salasil Nahia,False,277494
+Asia,Iraq,Tikrit Qadha Center,False,182464
+Asia,Iraq,Tooz-Khormato Qadha Center,False,117458
+Asia,Iraq,Zummar Nahia,False,128017
+Asia,Israel,Ashdod,False,226064
+Asia,Israel,Ashqelon,False,147840
+Asia,Israel,Bat Yam,False,127046
+Asia,Israel,Be'Er Sheva,False,210923
+Asia,Israel,Bene Beraq,False,210594
+Asia,Israel,Bet Shemesh,False,137154
+Asia,Israel,Haifa,False,283284
+Asia,Israel,Holon,False,197355
+Asia,Israel,Jerusalem,True,958679
+Asia,Israel,Kefar Sava,False,101815
+Asia,Israel,Netanya,False,223098
+Asia,Israel,Petah Tiqwa,False,251377
+Asia,Israel,Ramat Gan,False,168631
+Asia,Israel,Rehovot,False,146987
+Asia,Israel,Rishon Leziyyon,False,256591
+Asia,Israel,Tel Aviv-Yafo,False,465842
+Asia,Japan,Abiko,False,130510
+Asia,Japan,Ageo,False,226940
+Asia,Japan,Aizuwakamatsu,False,117376
+Asia,Japan,Akashi,False,303601
+Asia,Japan,Akishima,False,113949
+Asia,Japan,Akita,False,307672
+Asia,Japan,Amagasaki,False,459593
+Asia,Japan,Anjo,False,187990
+Asia,Japan,Aomori,False,275192
+Asia,Japan,Asahikawa,False,329306
+Asia,Japan,Asaka,False,141083
+Asia,Japan,Ashikaga,False,144746
+Asia,Japan,Atsugi,False,223705
+Asia,Japan,Beppu,False,115321
+Asia,Japan,Chiba,False,974951
+Asia,Japan,Chigasaki,False,242389
+Asia,Japan,Chikusei,False,100753
+Asia,Japan,Chikushino,False,103311
+Asia,Japan,Chofu,False,242614
+Asia,Japan,Daito,False,119367
+Asia,Japan,Ebetsu,False,121056
+Asia,Japan,Ebina,False,136516
+Asia,Japan,Fuchu,False,262790
+Asia,Japan,Fuji,False,245392
+Asia,Japan,Fujieda,False,141342
+Asia,Japan,Fujimi,False,111859
+Asia,Japan,Fujimino,False,113597
+Asia,Japan,Fujinomiya,False,128105
+Asia,Japan,Fujisawa,False,436905
+Asia,Japan,Fukaya,False,141268
+Asia,Japan,Fukui,False,262328
+Asia,Japan,Fukuoka,False,1612392
+Asia,Japan,Fukushima,False,282693
+Asia,Japan,Fukuyama,False,460930
+Asia,Japan,Funabashi,False,642907
+Asia,Japan,Gifu,False,402557
+Asia,Japan,Ginowan,False,100125
+Asia,Japan,Habikino,False,108736
+Asia,Japan,Hachinohe,False,223415
+Asia,Japan,Hachioji,False,579355
+Asia,Japan,Hadano,False,162439
+Asia,Japan,Hakodate,False,251084
+Asia,Japan,Hakusan,False,110408
+Asia,Japan,Hamamatsu,False,790718
+Asia,Japan,Handa,False,117884
+Asia,Japan,Hatsukaichi,False,114173
+Asia,Japan,Higashihiroshima,False,196608
+Asia,Japan,Higashikurume,False,115271
+Asia,Japan,Higashimurayama,False,151815
+Asia,Japan,Higashiomi,False,112819
+Asia,Japan,Higashiosaka,False,493940
+Asia,Japan,Hikone,False,113647
+Asia,Japan,Himeji,False,530495
+Asia,Japan,Hino,False,190435
+Asia,Japan,Hirakata,False,397289
+Asia,Japan,Hiratsuka,False,258422
+Asia,Japan,Hirosaki,False,168466
+Asia,Japan,Hiroshima,False,1200754
+Asia,Japan,Hitachi,False,174508
+Asia,Japan,Hitachinaka,False,156581
+Asia,Japan,Hofu,False,113979
+Asia,Japan,Ibaraki,False,287730
+Asia,Japan,Ichihara,False,269524
+Asia,Japan,Ichikawa,False,496676
+Asia,Japan,Ichinomiya,False,380073
+Asia,Japan,Ichinoseki,False,111932
+Asia,Japan,Iizuka,False,126364
+Asia,Japan,Ikeda,False,104993
+Asia,Japan,Ikoma,False,116675
+Asia,Japan,Imabari,False,151672
+Asia,Japan,Inazawa,False,134751
+Asia,Japan,Inzai,False,102609
+Asia,Japan,Iruma,False,145651
+Asia,Japan,Isahaya,False,133852
+Asia,Japan,Ise,False,122765
+Asia,Japan,Isehara,False,101780
+Asia,Japan,Isesaki,False,211850
+Asia,Japan,Ishinomaki,False,140151
+Asia,Japan,Itami,False,198138
+Asia,Japan,Iwaki,False,332931
+Asia,Japan,Iwakuni,False,129125
+Asia,Japan,Iwata,False,166672
+Asia,Japan,Izumi,False,184495
+Asia,Japan,Izumisano,False,100131
+Asia,Japan,Izumo,False,172775
+Asia,Japan,Joetsu,False,188047
+Asia,Japan,Kadoma,False,119764
+Asia,Japan,Kagoshima,False,593128
+Asia,Japan,Kakamigahara,False,144521
+Asia,Japan,Kakegawa,False,114954
+Asia,Japan,Kakogawa,False,260878
+Asia,Japan,Kamagaya,False,109932
+Asia,Japan,Kamakura,False,172710
+Asia,Japan,Kanazawa,False,463254
+Asia,Japan,Kanoya,False,101096
+Asia,Japan,Karatsu,False,117373
+Asia,Japan,Kariya,False,153834
+Asia,Japan,Kashihara,False,120922
+Asia,Japan,Kashiwa,False,426468
+Asia,Japan,Kasuga,False,111023
+Asia,Japan,Kasugai,False,308681
+Asia,Japan,Kasukabe,False,229792
+Asia,Japan,Kawachinagano,False,101692
+Asia,Japan,Kawagoe,False,354571
+Asia,Japan,Kawaguchi,False,594274
+Asia,Japan,Kawanishi,False,152321
+Asia,Japan,Kawasaki,False,1538262
+Asia,Japan,Kazo,False,111623
+Asia,Japan,Kirishima,False,123135
+Asia,Japan,Kiryu,False,106445
+Asia,Japan,Kisarazu,False,136166
+Asia,Japan,Kishiwada,False,190658
+Asia,Japan,Kitakyushu,False,939029
+Asia,Japan,Kitami,False,115480
+Asia,Japan,Kobe,False,1525152
+Asia,Japan,Kochi,False,326545
+Asia,Japan,Kodaira,False,198739
+Asia,Japan,Kofu,False,189591
+Asia,Japan,Koga,False,139344
+Asia,Japan,Koganei,False,126074
+Asia,Japan,Kokubunji,False,129242
+Asia,Japan,Komaki,False,148831
+Asia,Japan,Komatsu,False,106216
+Asia,Japan,Konosu,False,116828
+Asia,Japan,Koriyama,False,327692
+Asia,Japan,Koshigaya,False,341621
+Asia,Japan,Kuki,False,150582
+Asia,Japan,Kumagaya,False,194415
+Asia,Japan,Kumamoto,False,738865
+Asia,Japan,Kurashiki,False,474592
+Asia,Japan,Kure,False,214592
+Asia,Japan,Kurume,False,303316
+Asia,Japan,Kusatsu,False,143913
+Asia,Japan,Kushiro,False,165077
+Asia,Japan,Kuwana,False,138613
+Asia,Japan,Kyoto,False,1463723
+Asia,Japan,Machida,False,431079
+Asia,Japan,Maebashi,False,332149
+Asia,Japan,Marugame,False,109513
+Asia,Japan,Matsubara,False,117641
+Asia,Japan,Matsudo,False,498232
+Asia,Japan,Matsue,False,203616
+Asia,Japan,Matsumoto,False,241145
+Asia,Japan,Matsusaka,False,159145
+Asia,Japan,Matsuyama,False,511192
+Asia,Japan,Minoh,False,136868
+Asia,Japan,Misato,False,142145
+Asia,Japan,Mishima,False,107783
+Asia,Japan,Mitaka,False,195391
+Asia,Japan,Mito,False,270685
+Asia,Japan,Miyakonojo,False,160640
+Asia,Japan,Miyazaki,False,401339
+Asia,Japan,Moriguchi,False,143096
+Asia,Japan,Morioka,False,289731
+Asia,Japan,Musashino,False,150149
+Asia,Japan,Nagahama,False,113636
+Asia,Japan,Nagano,False,372760
+Asia,Japan,Nagaoka,False,266936
+Asia,Japan,Nagareyama,False,199849
+Asia,Japan,Nagasaki,False,409118
+Asia,Japan,Nagoya,False,2332176
+Asia,Japan,Naha,False,317625
+Asia,Japan,Nara,False,354630
+Asia,Japan,Narashino,False,176197
+Asia,Japan,Narita,False,132906
+Asia,Japan,Nasushiobara,False,115210
+Asia,Japan,Neyagawa,False,229733
+Asia,Japan,Niigata,False,789275
+Asia,Japan,Niihama,False,115938
+Asia,Japan,Niiza,False,166017
+Asia,Japan,Nishinomiya,False,485587
+Asia,Japan,Nishio,False,169046
+Asia,Japan,Nishitokyo,False,207388
+Asia,Japan,Nobeoka,False,118394
+Asia,Japan,Noda,False,152638
+Asia,Japan,Numazu,False,189386
+Asia,Japan,Obihiro,False,166536
+Asia,Japan,Odawara,False,188856
+Asia,Japan,Ogaki,False,158286
+Asia,Japan,Oita,False,475614
+Asia,Japan,Okayama,False,724691
+Asia,Japan,Okazaki,False,384654
+Asia,Japan,Okinawa,False,142752
+Asia,Japan,Ome,False,133535
+Asia,Japan,Omuta,False,111281
+Asia,Japan,Onojo,False,102085
+Asia,Japan,Onomichi,False,131170
+Asia,Japan,Osaka,False,2752412
+Asia,Japan,Osaki,False,127330
+Asia,Japan,Oshu,False,112937
+Asia,Japan,Ota,False,223014
+Asia,Japan,Otaru,False,111299
+Asia,Japan,Otsu,False,345070
+Asia,Japan,Oyama,False,166666
+Asia,Japan,Saga,False,233301
+Asia,Japan,Sagamihara,False,725493
+Asia,Japan,Saijo,False,104791
+Asia,Japan,Saitama,False,1324025
+Asia,Japan,Sakado,False,100275
+Asia,Japan,Sakai,False,826161
+Asia,Japan,Sakata,False,100273
+Asia,Japan,Sakura,False,168743
+Asia,Japan,Sanda,False,109238
+Asia,Japan,Sano,False,116228
+Asia,Japan,Sapporo,False,1973395
+Asia,Japan,Sasebo,False,243223
+Asia,Japan,Sayama,False,148699
+Asia,Japan,Sendai,False,1096704
+Asia,Japan,Seto,False,127792
+Asia,Japan,Shimonoseki,False,255051
+Asia,Japan,Shizuoka,False,693389
+Asia,Japan,Shunan,False,137540
+Asia,Japan,Soka,False,248304
+Asia,Japan,Suita,False,385567
+Asia,Japan,Suzuka,False,195670
+Asia,Japan,Tachikawa,False,183581
+Asia,Japan,Tajimi,False,106732
+Asia,Japan,Takamatsu,False,417496
+Asia,Japan,Takaoka,False,166393
+Asia,Japan,Takarazuka,False,226432
+Asia,Japan,Takasaki,False,372973
+Asia,Japan,Takatsuki,False,352698
+Asia,Japan,Tama,False,146951
+Asia,Japan,Tochigi,False,155549
+Asia,Japan,Toda,False,140899
+Asia,Japan,Tokai,False,113787
+Asia,Japan,Tokorozawa,False,342464
+Asia,Japan,Tokushima,False,252391
+Asia,Japan,Tokyo,True,9733276
+Asia,Japan,Tomakomai,False,170113
+Asia,Japan,Tondabayashi,False,108699
+Asia,Japan,Toride,False,104524
+Asia,Japan,Tottori,False,188465
+Asia,Japan,Toyama,False,413938
+Asia,Japan,Toyohashi,False,371920
+Asia,Japan,Toyokawa,False,184661
+Asia,Japan,Toyonaka,False,401558
+Asia,Japan,Toyota,False,422330
+Asia,Japan,Tsu,False,274537
+Asia,Japan,Tsuchiura,False,142074
+Asia,Japan,Tsukuba,False,241656
+Asia,Japan,Tsuruoka,False,122347
+Asia,Japan,Ube,False,162570
+Asia,Japan,Ueda,False,154055
+Asia,Japan,Uji,False,179630
+Asia,Japan,Urasoe,False,115690
+Asia,Japan,Urayasu,False,171362
+Asia,Japan,Uruma,False,125303
+Asia,Japan,Utsunomiya,False,518757
+Asia,Japan,Wakayama,False,356729
+Asia,Japan,Yachiyo,False,199498
+Asia,Japan,Yaizu,False,136845
+Asia,Japan,Yamagata,False,247590
+Asia,Japan,Yamaguchi,False,193966
+Asia,Japan,Yamato,False,239169
+Asia,Japan,Yao,False,264642
+Asia,Japan,Yatsushiro,False,123067
+Asia,Japan,Yokkaichi,False,305424
+Asia,Japan,Yokohama,False,3777491
+Asia,Japan,Yokosuka,False,388078
+Asia,Japan,Yonago,False,147317
+Asia,Japan,Zama,False,132325
+Asia,Jordan,Amman,True,4087483
+Asia,Jordan,Aqaba,False,175719
+Asia,Jordan,Irbid,False,595162
+Asia,Jordan,Madaba,False,124736
+Asia,Jordan,Mafraq,False,125502
+Asia,Jordan,Mukhayyam Al-Za'Tary,False,133926
+Asia,Jordan,Ramtha,False,184324
+Asia,Jordan,Russiefa,False,559554
+Asia,Jordan,Salt,False,118252
+Asia,Jordan,Zarqa,False,752033
+Asia,Kazakhstan,Aktau,False,271731
+Asia,Kazakhstan,Aktobe,False,559911
+Asia,Kazakhstan,Almaty,False,2161797
+Asia,Kazakhstan,Astana,True,1354507
+Asia,Kazakhstan,Atirau,False,401648
+Asia,Kazakhstan,Ekibastuz,False,145509
+Asia,Kazakhstan,Karaganda,False,515835
+Asia,Kazakhstan,Koktshetau,False,191105
+Asia,Kazakhstan,Kustanai,False,264466
+Asia,Kazakhstan,Kyzylorda,False,350049
+Asia,Kazakhstan,Pavlodar,False,367254
+Asia,Kazakhstan,Petropavlovsk,False,222076
+Asia,Kazakhstan,Rudni,False,123891
+Asia,Kazakhstan,Semipalatinsk,False,328782
+Asia,Kazakhstan,Shimkent,False,1192120
+Asia,Kazakhstan,Taldykorgan,False,201651
+Asia,Kazakhstan,Taraz,False,427356
+Asia,Kazakhstan,Temirtau,False,177630
+Asia,Kazakhstan,Turkestan,False,220159
+Asia,Kazakhstan,Uralsk,False,356520
+Asia,Kazakhstan,Ust-Kamenogorsk,False,372694
+Asia,Kazakhstan,Zhanaozen,False,147941
+Asia,Kuwait,Farwanyiah,False,101867
+Asia,Kuwait,Hawalli,False,127982
+Asia,Kuwait,Jaleeb Al-Shuykh,False,219629
+Asia,Kuwait,Salmiya,False,177008
+Asia,Kuwait,South Kheetan,False,113425
+Asia,Kyrgyzstan,Bishkek,True,1071261
+Asia,Kyrgyzstan,Jalal-Abad,False,114038
+Asia,Kyrgyzstan,Osh,False,298454
+Asia,Lao People'S Democratic Republic,Vientiane,True,985402
+Asia,Lebanon,Beirut,True,363033
+Asia,Malaysia,D.B. Kota Kinabalu,False,500425
+Asia,Malaysia,D.B. Kuala Lumpur,True,1982112
+Asia,Malaysia,D.B. Kuching Utara,False,174522
+Asia,Malaysia,L.K. Bintulu,False,240172
+Asia,Malaysia,M.B. Alor Setar,False,423868
+Asia,Malaysia,M.B. Ipoh,False,759952
+Asia,Malaysia,M.B. Iskandar Puteri,False,575977
+Asia,Malaysia,M.B. Johor Bahru,False,858118
+Asia,Malaysia,M.B. Kuala Terengganu,False,375424
+Asia,Malaysia,M.B. Kuantan,False,548014
+Asia,Malaysia,M.B. Kuching Selatan,False,174625
+Asia,Malaysia,M.B. Melaka Bersejarah,False,453904
+Asia,Malaysia,M.B. Miri,False,248877
+Asia,Malaysia,M.B. Pasir Gudang,False,312437
+Asia,Malaysia,M.B. Petaling Jaya,False,771687
+Asia,Malaysia,M.B. Pulau Pinang,False,794313
+Asia,Malaysia,M.B. Seberang Perai,False,946092
+Asia,Malaysia,M.B. Seremban,False,681541
+Asia,Malaysia,M.B. Shah Alam,False,812327
+Asia,Malaysia,M.B. Subang Jaya,False,902086
+Asia,Malaysia,M.D. Bachok,False,157291
+Asia,Malaysia,M.D. Baling,False,142530
+Asia,Malaysia,M.D. Batu Gajah,False,126024
+Asia,Malaysia,M.D. Besut,False,154168
+Asia,Malaysia,M.D. Gua Musang,False,112495
+Asia,Malaysia,M.D. Keningau,False,150927
+Asia,Malaysia,M.D. Kerian,False,166352
+Asia,Malaysia,M.D. Ketereh,False,159560
+Asia,Malaysia,M.D. Kinabatangan,False,143112
+Asia,Malaysia,M.D. Kota Belud,False,107243
+Asia,Malaysia,M.D. Kota Tinggi,False,130756
+Asia,Malaysia,M.D. Lahad Datu,False,229138
+Asia,Malaysia,M.D. Machang,False,110008
+Asia,Malaysia,M.D. Maran,False,112330
+Asia,Malaysia,M.D. Marang,False,116606
+Asia,Malaysia,M.D. Papar,False,150667
+Asia,Malaysia,M.D. Pasir Mas,False,230424
+Asia,Malaysia,M.D. Pasir Puteh,False,136157
+Asia,Malaysia,M.D. Pekan,False,121158
+Asia,Malaysia,M.D. Penampang,False,162174
+Asia,Malaysia,M.D. Sabak Bernam,False,107059
+Asia,Malaysia,M.D. Semporna,False,166587
+Asia,Malaysia,M.D. Serian,False,110577
+Asia,Malaysia,M.D. Tanah Merah,False,150766
+Asia,Malaysia,M.D. Tangkak,False,163449
+Asia,Malaysia,M.D. Tapah,False,122655
+Asia,Malaysia,M.D. Tuaran,False,135665
+Asia,Malaysia,M.D. Tumpat,False,179944
+Asia,Malaysia,M.P. Alor Gajah,False,219210
+Asia,Malaysia,M.P. Ampang Jaya,False,531904
+Asia,Malaysia,M.P. Batu Pahat,False,401210
+Asia,Malaysia,M.P. Bentong,False,116799
+Asia,Malaysia,M.P. Dungun,False,158128
+Asia,Malaysia,M.P. Hang Tuah Jaya,False,188857
+Asia,Malaysia,M.P. Hulu Selangor,False,241932
+Asia,Malaysia,M.P. Jasin,False,136457
+Asia,Malaysia,M.P. Kajang,False,1047356
+Asia,Malaysia,M.P. Kangar,False,284853
+Asia,Malaysia,M.P. Kemaman,False,215582
+Asia,Malaysia,M.P. Klang,False,902025
+Asia,Malaysia,M.P. Kluang,False,235715
+Asia,Malaysia,M.P. Kota Bharu Bandaraya Islam,False,396193
+Asia,Malaysia,M.P. Kota Samarahan,False,161890
+Asia,Malaysia,M.P. Kuala Kangsar,False,125999
+Asia,Malaysia,M.P. Kuala Langat,False,307418
+Asia,Malaysia,M.P. Kuala Selangor,False,281717
+Asia,Malaysia,M.P. Kubang Pasu,False,237759
+Asia,Malaysia,M.P. Kulai,False,294156
+Asia,Malaysia,M.P. Kulim,False,319056
+Asia,Malaysia,M.P. Manjung,False,246978
+Asia,Malaysia,M.P. Muar,False,314776
+Asia,Malaysia,M.P. Padawan,False,260058
+Asia,Malaysia,M.P. Pontian,False,173318
+Asia,Malaysia,M.P. Port Dickson,False,113738
+Asia,Malaysia,M.P. Sandakan,False,439050
+Asia,Malaysia,M.P. Segamat,False,152458
+Asia,Malaysia,M.P. Selayang,False,764327
+Asia,Malaysia,M.P. Sepang,False,324585
+Asia,Malaysia,M.P. Sibu,False,170404
+Asia,Malaysia,M.P. Sungai Petani,False,545053
+Asia,Malaysia,M.P. Taiping,False,241517
+Asia,Malaysia,M.P. Tawau,False,420806
+Asia,Malaysia,M.P. Teluk Intan,False,172505
+Asia,Malaysia,M.P. Temerloh,False,169023
+Asia,Malaysia,Perbadanan Putrajaya,False,109202
+Asia,Maldives,Malé,True,211908
+Asia,Mongolia,Bayan-Olgii,False,113806
+Asia,Mongolia,Darkhan-Uul,False,107842
+Asia,Mongolia,Hovsgol,False,136714
+Asia,Mongolia,Orkhon,False,108919
+Asia,Mongolia,Ovorhangay,False,115347
+Asia,Mongolia,Selenge,False,108110
+Asia,Mongolia,Ulaanbaatar,True,1665469
+Asia,Myanmar,Bago,False,491434
+Asia,Myanmar,Dawei,False,125605
+Asia,Myanmar,Hpa-An,False,421575
+Asia,Myanmar,Loikaw,False,128401
+Asia,Myanmar,Magway,False,289247
+Asia,Myanmar,Mandalay,False,1225546
+Asia,Myanmar,Mawlamyine,False,289388
+Asia,Myanmar,Monywa,False,372095
+Asia,Myanmar,Myitkyina,False,306949
+Asia,Myanmar,Nay Pyi Taw,True,1160242
+Asia,Myanmar,Pathein,False,287071
+Asia,Myanmar,Sittway,False,147899
+Asia,Myanmar,Taunggyi,False,381639
+Asia,Myanmar,Yangon,False,5211431
+Asia,Nepal,Bharatpur,False,369268
+Asia,Nepal,Bhimdutta,False,122320
+Asia,Nepal,Biratnagar,False,243927
+Asia,Nepal,Birendranagar,False,153863
+Asia,Nepal,Birgunj,False,272382
+Asia,Nepal,Birtamod,False,116192
+Asia,Nepal,Budhanilkhantha,False,177557
+Asia,Nepal,Butwal,False,194335
+Asia,Nepal,Chandragiri,False,136860
+Asia,Nepal,Damak,False,107227
+Asia,Nepal,Dhangadhi,False,198792
+Asia,Nepal,Dharan,False,166531
+Asia,Nepal,Ghorahi,False,200530
+Asia,Nepal,Gokarneshwor,False,149366
+Asia,Nepal,Hetauda,False,193576
+Asia,Nepal,Itahari,False,197241
+Asia,Nepal,Janakpurdham,False,194556
+Asia,Nepal,Jitpur Simara,False,127307
+Asia,Nepal,Kageshwori Manahara,False,130433
+Asia,Nepal,Kalaiya,False,136222
+Asia,Nepal,Kathmandu,True,862400
+Asia,Nepal,Kohalpur,False,101667
+Asia,Nepal,Lahan,False,102031
+Asia,Nepal,Lalitpur,False,294098
+Asia,Nepal,Madhyapur Thimi,False,119756
+Asia,Nepal,Mahalaxmi,False,123116
+Asia,Nepal,Mechinagar,False,133073
+Asia,Nepal,Nagarjun,False,115437
+Asia,Nepal,Nepalganj,False,164444
+Asia,Nepal,Pokhara,False,513504
+Asia,Nepal,Sundarharaicha,False,120213
+Asia,Nepal,Suryabinayak,False,140085
+Asia,Nepal,Tarakeshwor,False,151479
+Asia,Nepal,Tilottama,False,149479
+Asia,Nepal,Tokha,False,133755
+Asia,Nepal,Triyuga,False,102725
+Asia,Nepal,Tulsipur,False,179755
+Asia,Oman,Al Amrat,False,139755
+Asia,Oman,Al Buraymi,False,113488
+Asia,Oman,Al Mussanah,False,108812
+Asia,Oman,Al Rustaq,False,129050
+Asia,Oman,As Seeb,False,524696
+Asia,Oman,As Suwayq,False,200994
+Asia,Oman,Barka,False,205175
+Asia,Oman,Bawshar,False,412544
+Asia,Oman,Ibri,False,178234
+Asia,Oman,Jaalan Bani Bu Ali,False,117730
+Asia,Oman,Muscat,True,37865
+Asia,Oman,Mutrah,False,223590
+Asia,Oman,Nizwa,False,139267
+Asia,Oman,Saham,False,165546
+Asia,Oman,Salalah,False,388841
+Asia,Oman,Sohar,False,263894
+Asia,Oman,Sur,False,122527
+Asia,Pakistan,Abbotabad,False,245057
+Asia,Pakistan,Attock,False,121054
+Asia,Pakistan,Badin,False,112393
+Asia,Pakistan,Bahawalnagar,False,160883
+Asia,Pakistan,Bahawalpur,False,762774
+Asia,Pakistan,Bhakkar,False,112807
+Asia,Pakistan,Chakwal,False,138214
+Asia,Pakistan,Charsadda,False,114558
+Asia,Pakistan,Chiniot,False,278528
+Asia,Pakistan,Dadu,False,171319
+Asia,Pakistan,Dera Ghazi Khan,False,218018
+Asia,Pakistan,Faisalabad,False,3203846
+Asia,Pakistan,Ghotki,False,111398
+Asia,Pakistan,Gujranwala,False,2027001
+Asia,Pakistan,Gujrat,False,390758
+Asia,Pakistan,Hafizabad,False,245057
+Asia,Pakistan,Hyderabad,False,1732693
+Asia,Pakistan,Islamabad,True,1014825
+Asia,Pakistan,Jacobabad,False,191098
+Asia,Pakistan,Jamshoro,False,158239
+Asia,Pakistan,Jhang,False,414309
+Asia,Pakistan,Jhelum,False,190471
+Asia,Pakistan,Kambar Shahdad Kot,False,118935
+Asia,Pakistan,Kamoke,False,100850
+Asia,Pakistan,Karachi,False,14910352
+Asia,Pakistan,Kasur,False,358296
+Asia,Pakistan,Kech,False,213831
+Asia,Pakistan,Khairpur,False,183120
+Asia,Pakistan,Khanewal,False,249916
+Asia,Pakistan,Khushab,False,119426
+Asia,Pakistan,Khuzdar,False,182444
+Asia,Pakistan,Killa Abdullah,False,149330
+Asia,Pakistan,Kohat,False,228555
+Asia,Pakistan,Lahore,False,11126285
+Asia,Pakistan,Larkana,False,488006
+Asia,Pakistan,Lasbela,False,177823
+Asia,Pakistan,Layyah,False,126055
+Asia,Pakistan,Lodhran,False,117762
+Asia,Pakistan,Mandi Bahauddin,False,198643
+Asia,Pakistan,Mansehra,False,127645
+Asia,Pakistan,Mardan,False,359024
+Asia,Pakistan,Mianwali,False,118865
+Asia,Pakistan,Mirpur Khas,False,234133
+Asia,Pakistan,Multan,False,1871843
+Asia,Pakistan,Muzaffargharh,False,209902
+Asia,Pakistan,Narowal,False,103128
+Asia,Pakistan,Nowshera,False,120275
+Asia,Pakistan,Okara,False,358146
+Asia,Pakistan,Pakpattan,False,176686
+Asia,Pakistan,Peshawar,False,1970042
+Asia,Pakistan,Quetta,False,1001205
+Asia,Pakistan,Rahimyar Khan,False,659276
+Asia,Pakistan,Rawalpindi,False,2098231
+Asia,Pakistan,Sahiwal,False,388795
+Asia,Pakistan,Sanghar,False,152025
+Asia,Pakistan,Sargodha,False,658208
+Asia,Pakistan,Shaheed Benazirabad,False,279338
+Asia,Pakistan,Sheikhu Pura,False,473269
+Asia,Pakistan,Shikarpur,False,196158
+Asia,Pakistan,Sialkote,False,656730
+Asia,Pakistan,Sukkur,False,500401
+Asia,Pakistan,Swabi,False,123402
+Asia,Pakistan,Swat,False,331377
+Asia,Pakistan,Tando Allahyar,False,162826
+Asia,Pakistan,Tando Muhammad Khan,False,101868
+Asia,Pakistan,Toba Tek Singh,False,174831
+Asia,Pakistan,Umer Kot,False,134196
+Asia,Pakistan,Vehari,False,232030
+Asia,Philippines,Angeles,False,462928
+Asia,Philippines,Angono,False,130494
+Asia,Philippines,Antipolo,False,887399
+Asia,Philippines,Apalit,False,117160
+Asia,Philippines,Arayat,False,144875
+Asia,Philippines,Bacolod,False,600783
+Asia,Philippines,Bacoor City,False,664625
+Asia,Philippines,Bago,False,191210
+Asia,Philippines,Baguio,False,366358
+Asia,Philippines,Balanga,False,104173
+Asia,Philippines,Baliuag,False,168470
+Asia,Philippines,Batangas,False,351437
+Asia,Philippines,Bayambang,False,129011
+Asia,Philippines,Bayawan,False,122747
+Asia,Philippines,Baybay,False,111848
+Asia,Philippines,Bayugan,False,109499
+Asia,Philippines,Biñan,False,407437
+Asia,Philippines,Binangonan,False,313631
+Asia,Philippines,Bocaue,False,141412
+Asia,Philippines,Butuan,False,372910
+Asia,Philippines,Cabanatuan,False,327325
+Asia,Philippines,Cabuyao,False,355330
+Asia,Philippines,Cadiz,False,158544
+Asia,Philippines,Cagayan De Oro,False,728402
+Asia,Philippines,Cainta,False,376933
+Asia,Philippines,Calamba,False,539671
+Asia,Philippines,Calapan,False,145786
+Asia,Philippines,Calbayog,False,186960
+Asia,Philippines,Caloocan,False,1661584
+Asia,Philippines,Calumpit,False,118471
+Asia,Philippines,Candaba,False,119497
+Asia,Philippines,Candelaria,False,137881
+Asia,Philippines,Capas,False,156056
+Asia,Philippines,Carcar,False,136453
+Asia,Philippines,Catbalogan,False,106440
+Asia,Philippines,Cauayan,False,143403
+Asia,Philippines,Cavite City,False,100674
+Asia,Philippines,Cebu,False,964169
+Asia,Philippines,Concepcion,False,169953
+Asia,Philippines,Consolacion,False,148012
+Asia,Philippines,Cotabato,False,325079
+Asia,Philippines,Dagupan,False,174302
+Asia,Philippines,Danao City,False,156321
+Asia,Philippines,Daraga,False,133893
+Asia,Philippines,Dasmariñas,False,703141
+Asia,Philippines,Davao,False,1776949
+Asia,Philippines,Digos,False,188376
+Asia,Philippines,Dipolog,False,138141
+Asia,Philippines,Dumaguete,False,134103
+Asia,Philippines,Floridablanca,False,135542
+Asia,Philippines,Gapan,False,122968
+Asia,Philippines,Gen. Mariano Alvarez,False,172433
+Asia,Philippines,General Santos,False,697315
+Asia,Philippines,General Trias,False,450583
+Asia,Philippines,Gingoog,False,136698
+Asia,Philippines,Glan,False,109547
+Asia,Philippines,Guagua,False,128893
+Asia,Philippines,Guiguinto,False,113415
+Asia,Philippines,Guihulngan,False,102656
+Asia,Philippines,Guimba,False,127653
+Asia,Philippines,Hagonoy,False,133448
+Asia,Philippines,Himamaylan,False,116240
+Asia,Philippines,Ilagan,False,158218
+Asia,Philippines,Iligan,False,363115
+Asia,Philippines,Iloilo,False,457626
+Asia,Philippines,Imus City,False,496794
+Asia,Philippines,Iriga,False,114457
+Asia,Philippines,Isabela,False,130379
+Asia,Philippines,Island Garden City Of Samal,False,116771
+Asia,Philippines,Jolo,False,137266
+Asia,Philippines,Kabankalan,False,200198
+Asia,Philippines,Kidapawan,False,160791
+Asia,Philippines,Koronadal,False,195398
+Asia,Philippines,La Trinidad,False,137404
+Asia,Philippines,Lamitan,False,100150
+Asia,Philippines,Laoag,False,111651
+Asia,Philippines,Lapu-Lapu,False,497604
+Asia,Philippines,Las Piñas,False,606293
+Asia,Philippines,Legazpi,False,209533
+Asia,Philippines,Libmanan,False,112994
+Asia,Philippines,Ligao,False,118096
+Asia,Philippines,Liloan,False,153197
+Asia,Philippines,Lipa,False,372931
+Asia,Philippines,Los Baños,False,115353
+Asia,Philippines,Lubao,False,173502
+Asia,Philippines,Lucena City,False,278924
+Asia,Philippines,Mabalacat,False,293244
+Asia,Philippines,Magalang,False,124188
+Asia,Philippines,Makati,False,629616
+Asia,Philippines,Malabon,False,380522
+Asia,Philippines,Malasiqui,False,143094
+Asia,Philippines,Malaybalay,False,190712
+Asia,Philippines,Malita,False,118197
+Asia,Philippines,Malolos,False,261189
+Asia,Philippines,Mandaluyong,False,425758
+Asia,Philippines,Mandaue,False,364116
+Asia,Philippines,Manila,True,1846513
+Asia,Philippines,Marawi,False,207010
+Asia,Philippines,Marikina,False,456059
+Asia,Philippines,Marilao,False,254453
+Asia,Philippines,Mariveles,False,149879
+Asia,Philippines,Masbate,False,104522
+Asia,Philippines,Mati,False,147547
+Asia,Philippines,Mexico,False,173403
+Asia,Philippines,Meycauayan,False,225673
+Asia,Philippines,Midsayap,False,117365
+Asia,Philippines,Minglanilla,False,151002
+Asia,Philippines,Muntinlupa,False,543445
+Asia,Philippines,Naga,False,133184
+Asia,Philippines,Naga,False,209170
+Asia,Philippines,Naic,False,160987
+Asia,Philippines,Nasugbu,False,136524
+Asia,Philippines,Navotas,False,247543
+Asia,Philippines,Norzagaray,False,136064
+Asia,Philippines,Olongapo,False,260317
+Asia,Philippines,Ormoc,False,230998
+Asia,Philippines,Ozamis,False,140334
+Asia,Philippines,Pagadian,False,210452
+Asia,Philippines,Panabo,False,209230
+Asia,Philippines,Pandi,False,155115
+Asia,Philippines,Paranaque,False,689992
+Asia,Philippines,Pasay,False,440656
+Asia,Philippines,Pasig,False,803159
+Asia,Philippines,Plaridel,False,114432
+Asia,Philippines,Polomolok,False,172605
+Asia,Philippines,Porac,False,140751
+Asia,Philippines,Puerto Princesa,False,307079
+Asia,Philippines,Quezon City,False,2960048
+Asia,Philippines,Rodriguez,False,443954
+Asia,Philippines,Rosario,False,128352
+Asia,Philippines,Roxas,False,179292
+Asia,Philippines,Sagay City,False,148894
+Asia,Philippines,San Carlos,False,132650
+Asia,Philippines,San Carlos,False,205424
+Asia,Philippines,San Fernando,False,125640
+Asia,Philippines,San Fernando,False,354666
+Asia,Philippines,San Jose,False,153267
+Asia,Philippines,San Jose City,False,150917
+Asia,Philippines,San Jose Del Monte,False,651813
+Asia,Philippines,San Juan,False,126347
+Asia,Philippines,San Mateo,False,273306
+Asia,Philippines,San Miguel,False,172073
+Asia,Philippines,San Pablo,False,285348
+Asia,Philippines,San Pedro,False,326001
+Asia,Philippines,Santa Cruz,False,123574
+Asia,Philippines,Santa Maria,False,289820
+Asia,Philippines,Santa Rosa,False,414812
+Asia,Philippines,Santiago,False,148580
+Asia,Philippines,Santo Tomas,False,128667
+Asia,Philippines,Santo Tomas,False,218500
+Asia,Philippines,Sariaya,False,161868
+Asia,Philippines,Silang,False,295644
+Asia,Philippines,Silay,False,130478
+Asia,Philippines,Sorsogon,False,182237
+Asia,Philippines,Surigao,False,171107
+Asia,Philippines,Tabaco,False,140961
+Asia,Philippines,Tabuk,False,121033
+Asia,Philippines,Tacloban,False,251881
+Asia,Philippines,Tacurong,False,109319
+Asia,Philippines,Tagbilaran,False,104976
+Asia,Philippines,Taguig,False,886722
+Asia,Philippines,Tagum,False,296202
+Asia,Philippines,Talavera,False,132338
+Asia,Philippines,Talisay,False,263048
+Asia,Philippines,Talisay,False,108909
+Asia,Philippines,Tanauan,False,193936
+Asia,Philippines,Tanay,False,139420
+Asia,Philippines,Tanza,False,312116
+Asia,Philippines,Tarlac,False,385398
+Asia,Philippines,Taytay,False,386451
+Asia,Philippines,Toledo,False,207314
+Asia,Philippines,Trece Martires,False,210503
+Asia,Philippines,Tuguegarao,False,166334
+Asia,Philippines,Urdaneta,False,144577
+Asia,Philippines,Valencia,False,216546
+Asia,Philippines,Valenzuela,False,714978
+Asia,Philippines,Zamboanga,False,977234
+Asia,Qatar,Al-Khoor,False,140453
+Asia,Qatar,Al-Rayyan,False,826786
+Asia,Qatar,Al-Wakrah,False,265102
+Asia,Qatar,Doha,True,1186023
+Asia,Republic Of Korea,Busan,False,3355632
+Asia,Republic Of Korea,Daegu,False,2414262
+Asia,Republic Of Korea,Daejeon,False,1491876
+Asia,Republic Of Korea,Gwangju,False,1479550
+Asia,Republic Of Korea,Incheon,False,2951065
+Asia,Republic Of Korea,Jeju,False,668699
+Asia,Republic Of Korea,Sejong,False,348302
+Asia,Republic Of Korea,Seoul,True,9617795
+Asia,Republic Of Korea,Ulsan,False,1139069
+Asia,Saudi Arabia,Abha,False,236157
+Asia,Saudi Arabia,Ad-Dammam,False,903312
+Asia,Saudi Arabia,Al-Hawiyah,False,148151
+Asia,Saudi Arabia,Al-Hufuf,False,660788
+Asia,Saudi Arabia,Al-Jubayl,False,337778
+Asia,Saudi Arabia,Al-Khubar,False,219679
+Asia,Saudi Arabia,Al-Madinah,False,1100093
+Asia,Saudi Arabia,Al-Qatif,False,118327
+Asia,Saudi Arabia,Al-Qurrayyat,False,116162
+Asia,Saudi Arabia,Al-Seeh,False,234607
+Asia,Saudi Arabia,Ar'Ar,False,167057
+Asia,Saudi Arabia,Ath-Thuqbah,False,238066
+Asia,Saudi Arabia,At-Ta'If,False,579970
+Asia,Saudi Arabia,Buraydah,False,467410
+Asia,Saudi Arabia,Dhahran,False,120521
+Asia,Saudi Arabia,Hafar Al-Batin,False,271642
+Asia,Saudi Arabia,Ha'Il,False,310897
+Asia,Saudi Arabia,Jiddah,False,3430697
+Asia,Saudi Arabia,Jizan,False,127743
+Asia,Saudi Arabia,Khamis Mushayt,False,430828
+Asia,Saudi Arabia,Makkah,False,1534731
+Asia,Saudi Arabia,Najran,False,298288
+Asia,Saudi Arabia,Riyadh,True,5188286
+Asia,Saudi Arabia,Sekaka,False,150257
+Asia,Saudi Arabia,Tabuk,False,512629
+Asia,Saudi Arabia,Unayzah,False,152895
+Asia,Saudi Arabia,Yanbu Al-Bahr,False,233236
+Asia,Singapore,Singapore,True,5637022
+Asia,State Of Palestine,East Jerusalem - Jérusalem-Est,True,304444
+Asia,State Of Palestine,Gaza,False,645576
+Asia,State Of Palestine,Hebron,False,221136
+Asia,State Of Palestine,Jabalya,False,195137
+Asia,State Of Palestine,Khan Yunis,False,228972
+Asia,State Of Palestine,Nablus,False,167931
+Asia,State Of Palestine,Rafah,False,191185
+Asia,Syrian Arab Republic,Aleppo,False,4450000
+Asia,Syrian Arab Republic,Al-Hasakeh,False,1392000
+Asia,Syrian Arab Republic,Al-Raqqah,False,865000
+Asia,Syrian Arab Republic,Al-Sweida,False,349000
+Asia,Syrian Arab Republic,Damascus,True,1680000
+Asia,Syrian Arab Republic,Damasus Rural,False,2529000
+Asia,Syrian Arab Republic,Deir El-Zor,False,1111000
+Asia,Syrian Arab Republic,Dra'A,False,930000
+Asia,Syrian Arab Republic,Hama,False,1508000
+Asia,Syrian Arab Republic,Homs,False,1667000
+Asia,Syrian Arab Republic,Idleb,False,1376000
+Asia,Syrian Arab Republic,Lattakia,False,951000
+Asia,Syrian Arab Republic,Tartous,False,756000
+Asia,Tajikistan,Dushanbe,True,823787
+Asia,Tajikistan,Khujand,False,176710
+Asia,Thailand,Amnat Charoen,False,280805
+Asia,Thailand,Ang Thong,False,243110
+Asia,Thailand,Bangkok,True,8421212
+Asia,Thailand,Bungkan,False,355682
+Asia,Thailand,Buri Ram,False,1191015
+Asia,Thailand,Chachoengsao,False,815203
+Asia,Thailand,Chai Nat,False,286692
+Asia,Thailand,Chaiyaphum,False,919539
+Asia,Thailand,Chanthaburi,False,537937
+Asia,Thailand,Chiang Mai,False,1678792
+Asia,Thailand,Chiang Rai,False,1102489
+Asia,Thailand,Chon Buri,False,1773715
+Asia,Thailand,Chumphon,False,453360
+Asia,Thailand,Kalasin,False,783031
+Asia,Thailand,Kamphaeng Phet,False,775277
+Asia,Thailand,Kanchanaburi,False,812647
+Asia,Thailand,Khon Kaen,False,1699335
+Asia,Thailand,Krabi,False,405073
+Asia,Thailand,Lampang,False,688721
+Asia,Thailand,Lamphun,False,369840
+Asia,Thailand,Loei,False,530591
+Asia,Thailand,Lop Buri,False,756516
+Asia,Thailand,Mae Hong Son,False,233573
+Asia,Thailand,Maha Sarakham,False,768221
+Asia,Thailand,Mukdahan,False,425744
+Asia,Thailand,Nakhon Nayok,False,254172
+Asia,Thailand,Nakhon Pathom,False,1071551
+Asia,Thailand,Nakhon Phanom,False,542116
+Asia,Thailand,Nakhon Ratchasima,False,2472945
+Asia,Thailand,Nakhon Sawan,False,898002
+Asia,Thailand,Nakhon Si Thammarat,False,1495351
+Asia,Thailand,Nan,False,436333
+Asia,Thailand,Narathiwat,False,734911
+Asia,Thailand,Nong Bua Lam Phu,False,469990
+Asia,Thailand,Nong Khai,False,448893
+Asia,Thailand,Nonthaburi,False,1670143
+Asia,Thailand,Pathum Thani,False,1628463
+Asia,Thailand,Pattani,False,643062
+Asia,Thailand,Phangnga,False,227858
+Asia,Thailand,Phatthalung,False,490597
+Asia,Thailand,Phayao,False,360417
+Asia,Thailand,Phetchabun,False,892208
+Asia,Thailand,Phetchaburi,False,479891
+Asia,Thailand,Phichit,False,499761
+Asia,Thailand,Phitsanulok,False,889632
+Asia,Thailand,Phra Nakhon Si Ayutthaya,False,879658
+Asia,Thailand,Phrae,False,366109
+Asia,Thailand,Phuket,False,543980
+Asia,Thailand,Prachin Buri,False,637718
+Asia,Thailand,Prachuap Khiri Khan,False,452533
+Asia,Thailand,Ranong,False,247102
+Asia,Thailand,Ratchaburi,False,773799
+Asia,Thailand,Rayong,False,971215
+Asia,Thailand,Roi Et,False,1043639
+Asia,Thailand,Sa Kaeo,False,643922
+Asia,Thailand,Sakon Nakhon,False,908885
+Asia,Thailand,Samut Prakan,False,2189192
+Asia,Thailand,Samut Sakhon,False,801426
+Asia,Thailand,Samut Songkhram,False,165554
+Asia,Thailand,Saraburi,False,740757
+Asia,Thailand,Satun,False,295209
+Asia,Thailand,Si Sa Ket,False,931632
+Asia,Thailand,Sing Buri,False,182932
+Asia,Thailand,Songkhla,False,1623871
+Asia,Thailand,Sukhothai,False,604970
+Asia,Thailand,Suphan Buri,False,835863
+Asia,Thailand,Surat Thani,False,1055522
+Asia,Thailand,Surin,False,1038133
+Asia,Thailand,Tak,False,511421
+Asia,Thailand,Trang,False,616868
+Asia,Thailand,Trat,False,265799
+Asia,Thailand,Ubon Ratchathani,False,1725666
+Asia,Thailand,Udon Thani,False,1242406
+Asia,Thailand,Uthai Thani,False,270916
+Asia,Thailand,Uttaradit,False,400492
+Asia,Thailand,Yala,False,478432
+Asia,Thailand,Yasothon,False,447168
+Asia,Timor-Leste,Dili,True,222323
+Asia,Türkiye,Adana,False,2263373
+Asia,Türkiye,Adıyaman,False,267131
+Asia,Türkiye,Afyonkarahisar,False,251799
+Asia,Türkiye,Ağrı,False,120390
+Asia,Türkiye,Aksaray,False,247147
+Asia,Türkiye,Amasya,False,114921
+Asia,Türkiye,Ankara,True,5747325
+Asia,Türkiye,Antalya,False,2619832
+Asia,Türkiye,Aydın,False,1134031
+Asia,Türkiye,Balıkesir,False,1250610
+Asia,Türkiye,Batman,False,452157
+Asia,Türkiye,Bingöl,False,128935
+Asia,Türkiye,Bolu,False,184682
+Asia,Türkiye,Bursa,False,3147818
+Asia,Türkiye,Çanakkale,False,143622
+Asia,Türkiye,Cizre Merkez,False,130190
+Asia,Türkiye,Çorum,False,267396
+Asia,Türkiye,Denizli,False,1051056
+Asia,Türkiye,Diyarbakir,False,1791373
+Asia,Türkiye,Düzce,False,188928
+Asia,Türkiye,Edirne,False,174662
+Asia,Türkiye,Elazığ,False,381158
+Asia,Türkiye,Ereğli Merkez,False,121439
+Asia,Türkiye,Erzincan,False,149272
+Asia,Türkiye,Erzurum,False,756893
+Asia,Türkiye,Eskișehir,False,898369
+Asia,Türkiye,Gaziantep,False,2130432
+Asia,Türkiye,Giresun,False,122787
+Asia,Türkiye,Hatay,False,1670712
+Asia,Türkiye,Isparta,False,245784
+Asia,Türkiye,İstanbul,False,15840900
+Asia,Türkiye,İzmir,False,4425789
+Asia,Türkiye,Kahramanmaraș,False,1171298
+Asia,Türkiye,Karabük,False,123309
+Asia,Türkiye,Karaman,False,172683
+Asia,Türkiye,Kastamonu,False,125622
+Asia,Türkiye,Kayseri,False,1434357
+Asia,Türkiye,Kilis,False,108984
+Asia,Türkiye,Kırıkkale,False,188769
+Asia,Türkiye,Kırșehir,False,148207
+Asia,Türkiye,Kocaeli,False,2033441
+Asia,Türkiye,Konya,False,2277017
+Asia,Türkiye,Kütahya,False,258592
+Asia,Türkiye,Lüleburgaz Merkez,False,123889
+Asia,Türkiye,Malatya,False,808692
+Asia,Türkiye,Manisa,False,1456626
+Asia,Türkiye,Mardin,False,862757
+Asia,Türkiye,Mersin,False,1891145
+Asia,Türkiye,Muğla,False,1021141
+Asia,Türkiye,Muș,False,116070
+Asia,Türkiye,Nevșehir,False,120599
+Asia,Türkiye,Niğde,False,166511
+Asia,Türkiye,Ordu,False,760872
+Asia,Türkiye,Osmaniye,False,247276
+Asia,Türkiye,Rize,False,119828
+Asia,Türkiye,Sakarya,False,1060876
+Asia,Türkiye,Samsun,False,1371274
+Asia,Türkiye,Șanlıurfa,False,2143020
+Asia,Türkiye,Siirt,False,160340
+Asia,Türkiye,Silopi Merkez,False,103831
+Asia,Türkiye,Sivas,False,362002
+Asia,Türkiye,Tekirdağ,False,1113400
+Asia,Türkiye,Tokat,False,161169
+Asia,Türkiye,Trabzon,False,816684
+Asia,Türkiye,Ușak,False,232819
+Asia,Türkiye,Van,False,1141015
+Asia,Türkiye,Yalova,False,135355
+Asia,Türkiye,Zonguldak,False,103079
+Asia,Uzbekistan,Almalyk,False,135228
+Asia,Uzbekistan,Andizhan,False,458506
+Asia,Uzbekistan,Angren,False,174436
+Asia,Uzbekistan,Bukhara,False,283822
+Asia,Uzbekistan,Chirchik,False,164822
+Asia,Uzbekistan,Fergana,False,299150
+Asia,Uzbekistan,Jizzax,False,186870
+Asia,Uzbekistan,Karshi,False,283146
+Asia,Uzbekistan,Kokand,False,259699
+Asia,Uzbekistan,Margilan,False,242536
+Asia,Uzbekistan,Namangan,False,661060
+Asia,Uzbekistan,Navoi,False,150611
+Asia,Uzbekistan,Nukus,False,329030
+Asia,Uzbekistan,Samarkand,False,561754
+Asia,Uzbekistan,Shahrisabz,False,142671
+Asia,Uzbekistan,Tashkent,True,2862420
+Asia,Uzbekistan,Termez,False,189497
+Asia,Uzbekistan,Urgentch,False,146721
+Asia,Viet Nam,Can Tho,False,1252348
+Asia,Viet Nam,Da Nang,False,1220187
+Asia,Viet Nam,Ha Noi,True,8435651
+Asia,Viet Nam,Hai Phong,False,2088022
+Asia,Viet Nam,Ho Chi Minh,False,9389717
+Asia,Yemen,Adan,False,1020000
+Asia,Yemen,Sana'A,True,1201000
+Europe,Åland Islands,Mariehamn,True,11750
+Europe,Albania,Durrës,False,113249
+Europe,Albania,Tirana,True,418495
+Europe,Andorra,Andorra La Vella,True,22205
+Europe,Austria,Graz,False,288806
+Europe,Austria,Innsbruck,False,132110
+Europe,Austria,Klagenfurt,False,100817
+Europe,Austria,Linz,False,205726
+Europe,Austria,Salzburg,False,154211
+Europe,Austria,Wien,True,1897491
+Europe,Belarus,Baranovichi,False,175050
+Europe,Belarus,Bobruisk,False,212217
+Europe,Belarus,Borisov,False,140678
+Europe,Belarus,Brest,False,339519
+Europe,Belarus,Gomel,False,510243
+Europe,Belarus,Grodno,False,356686
+Europe,Belarus,Lida,False,102794
+Europe,Belarus,Minsk,True,2020133
+Europe,Belarus,Mogilev,False,357184
+Europe,Belarus,Mozir,False,105690
+Europe,Belarus,Orsha,False,107645
+Europe,Belarus,Pinsk,False,126289
+Europe,Belarus,Soligorsk,False,101525
+Europe,Belarus,Vitebsk,False,364862
+Europe,Belgium,Anderlecht,False,108940
+Europe,Belgium,Antwerpen,False,498473
+Europe,Belgium,Brugge,False,117260
+Europe,Belgium,Bruxelles,True,174383
+Europe,Belgium,Charleroi,False,204150
+Europe,Belgium,Gent,False,248358
+Europe,Belgium,Liège,False,195965
+Europe,Belgium,Namur,False,110175
+Europe,Belgium,Schaerbeek,False,127525
+Europe,Bulgaria,Burgas,False,198593
+Europe,Bulgaria,Plovdiv,False,342048
+Europe,Bulgaria,Ruse,False,135440
+Europe,Bulgaria,Sofia,True,1221785
+Europe,Bulgaria,Stara Zagora,False,125732
+Europe,Bulgaria,Varna,False,332394
+Europe,Croatia,Osijek,False,108048
+Europe,Croatia,Rijeka,False,128624
+Europe,Croatia,Split,False,178102
+Europe,Croatia,Zagreb,True,790017
+Europe,Czechia,Brno,False,398510
+Europe,Czechia,Liberec,False,104340
+Europe,Czechia,Olomouc,False,106063
+Europe,Czechia,Ostrava,False,282450
+Europe,Czechia,Plzen,False,174007
+Europe,Czechia,Praha,True,1301432
+Europe,Denmark,Ålborg,False,219476
+Europe,Denmark,Århus,False,352315
+Europe,Denmark,Esbjerg,False,115529
+Europe,Denmark,Frederiksberg,False,102940
+Europe,Denmark,Kobenhavn,True,638790
+Europe,Denmark,Odense,False,204795
+Europe,Denmark,Vejle,False,118028
+Europe,Estonia,Tallinn,True,437817
+Europe,Faroe Islands,Tórshavn,True,13888
+Europe,Finland,Espoo,False,292796
+Europe,Finland,Helsinki,True,656920
+Europe,Finland,Jyvaskyla,False,143420
+Europe,Finland,Kuopio,False,120210
+Europe,Finland,Lahti,False,119984
+Europe,Finland,Oulu,False,207327
+Europe,Finland,Tampere,False,241009
+Europe,Finland,Turku,False,194391
+Europe,Finland,Vantaa,False,237231
+Europe,France,Aix-En-Provence,False,142668
+Europe,France,Amiens,False,132874
+Europe,France,Angers,False,151520
+Europe,France,Argenteuil,False,110388
+Europe,France,Besançon,False,116676
+Europe,France,Bordeaux,False,249712
+Europe,France,Boulogne-Billancourt,False,117931
+Europe,France,Brest,False,139163
+Europe,France,Caen,False,106260
+Europe,France,Clermont-Ferrand,False,141398
+Europe,France,Dijon,False,155114
+Europe,France,Grenoble,False,160649
+Europe,France,Le Havre,False,172366
+Europe,France,Le Mans,False,143325
+Europe,France,Lille,False,232741
+Europe,France,Limoges,False,133627
+Europe,France,Lyon,False,513275
+Europe,France,Marseille,False,861635
+Europe,France,Metz,False,117492
+Europe,France,Montpellier,False,277639
+Europe,France,Montreuil,False,106691
+Europe,France,Mulhouse,False,110370
+Europe,France,Nancy,False,105162
+Europe,France,Nantes,False,303382
+Europe,France,Nice,False,342522
+Europe,France,Nîmes,False,150672
+Europe,France,Orléans,False,114644
+Europe,France,Paris,True,2206488
+Europe,France,Perpignan,False,121934
+Europe,France,Reims,False,184076
+Europe,France,Rennes,False,215366
+Europe,France,Rouen,False,110169
+Europe,France,Saint-Denis,False,111103
+Europe,France,Saint-Étienne,False,171057
+Europe,France,Strasbourg,False,277270
+Europe,France,Toulon,False,167479
+Europe,France,Toulouse,False,471941
+Europe,France,Tours,False,136252
+Europe,France,Villeurbanne,False,148665
+Europe,Germany,Aachen,False,247380
+Europe,Germany,Augsburg,False,295135
+Europe,Germany,Bergisch Gladbach,False,111966
+Europe,Germany,Berlin,True,3644826
+Europe,Germany,Bielefeld,False,333786
+Europe,Germany,Bochum,False,364628
+Europe,Germany,Bonn,False,327258
+Europe,Germany,Bottrop,False,117383
+Europe,Germany,Braunschweig,False,248292
+Europe,Germany,Bremen,False,569352
+Europe,Germany,Bremerhaven,False,113634
+Europe,Germany,Chemnitz,False,247237
+Europe,Germany,Cottbus,False,100219
+Europe,Germany,Darmstadt,False,159207
+Europe,Germany,Dortmund,False,587010
+Europe,Germany,Dresden,False,554649
+Europe,Germany,Duisburg,False,498590
+Europe,Germany,Düsseldorf,False,619294
+Europe,Germany,Erfurt,False,213699
+Europe,Germany,Erlangen,False,111962
+Europe,Germany,Essen,False,583109
+Europe,Germany,Frankfurt Am Main,False,753056
+Europe,Germany,Freiburg Im Breisgau,False,230241
+Europe,Germany,Fürth,False,127748
+Europe,Germany,Gelsenkirchen,False,260654
+Europe,Germany,Göttingen,False,119801
+Europe,Germany,Gütersloh,False,100194
+Europe,Germany,Hagen,False,188814
+Europe,Germany,Halle,False,239257
+Europe,Germany,Hamburg,False,1841179
+Europe,Germany,Hamm,False,179111
+Europe,Germany,Hannover,False,538068
+Europe,Germany,Heidelberg,False,160355
+Europe,Germany,Heilbronn,False,125960
+Europe,Germany,Herne,False,156374
+Europe,Germany,Hildesheim,False,101990
+Europe,Germany,Ingolstadt,False,136981
+Europe,Germany,Jena,False,111407
+Europe,Germany,Karlsruhe,False,313092
+Europe,Germany,Kassel,False,201585
+Europe,Germany,Kiel,False,247548
+Europe,Germany,Koblenz,False,114024
+Europe,Germany,Köln,False,1085664
+Europe,Germany,Krefeld,False,227020
+Europe,Germany,Leipzig,False,587857
+Europe,Germany,Leverkusen,False,163838
+Europe,Germany,Lübeck,False,217198
+Europe,Germany,Ludwigshafen Am Rhein,False,171061
+Europe,Germany,Magdeburg,False,238697
+Europe,Germany,Mainz,False,217118
+Europe,Germany,Mannheim,False,309370
+Europe,Germany,Moers,False,103725
+Europe,Germany,Mönchengladbach,False,261454
+Europe,Germany,Mülheim An Der Ruhr,False,170880
+Europe,Germany,München,False,1471508
+Europe,Germany,Münster,False,314319
+Europe,Germany,Neuss,False,153796
+Europe,Germany,Nürnberg,False,518365
+Europe,Germany,Oberhausen,False,210829
+Europe,Germany,Offenbach Am Main,False,128744
+Europe,Germany,Oldenburg,False,168210
+Europe,Germany,Osnabrück,False,164748
+Europe,Germany,Paderborn,False,150580
+Europe,Germany,Pforzheim,False,125542
+Europe,Germany,Potsdam,False,178089
+Europe,Germany,Recklinghausen,False,112267
+Europe,Germany,Regensburg,False,152610
+Europe,Germany,Remscheid,False,110994
+Europe,Germany,Reutlingen,False,115966
+Europe,Germany,Rostock,False,208886
+Europe,Germany,Saarbrücken,False,180741
+Europe,Germany,Salzgitter,False,104948
+Europe,Germany,Siegen,False,102836
+Europe,Germany,Solingen,False,159360
+Europe,Germany,Stuttgart,False,634830
+Europe,Germany,Trier,False,110636
+Europe,Germany,Ulm,False,126329
+Europe,Germany,Wiesbaden,False,278342
+Europe,Germany,Wolfsburg,False,124151
+Europe,Germany,Wuppertal,False,354382
+Europe,Germany,Würzburg,False,127880
+Europe,Gibraltar,Gibraltar,True,34003
+Europe,Greece,Athinai,True,664046
+Europe,Greece,Calithèa,False,100641
+Europe,Greece,Iraclion,False,140730
+Europe,Greece,Larissa,False,144651
+Europe,Greece,Patrai,False,167446
+Europe,Greece,Pésterion,False,139981
+Europe,Greece,Pireas,False,163688
+Europe,Greece,Thessaloniki,False,315196
+Europe,Guernsey,St. Peter Port,True,19354
+Europe,Holy See,Vatican City,True,451
+Europe,Hungary,Budapest,True,1737026
+Europe,Hungary,Debrecen,False,201043
+Europe,Hungary,Györ,False,133340
+Europe,Hungary,Kecskemét,False,110012
+Europe,Hungary,Miskolc,False,151798
+Europe,Hungary,Nyiregyhaza,False,116684
+Europe,Hungary,Pécs,False,141040
+Europe,Hungary,Szeged,False,159666
+Europe,Iceland,Reykjavik,True,129964
+Europe,Ireland,Cork,False,124391
+Europe,Ireland,Dublin,True,544107
+Europe,Isle Of Man,Douglas,True,26677
+Europe,Italy,Bari,False,316577
+Europe,Italy,Bergamo,False,119735
+Europe,Italy,Bologna,False,389764
+Europe,Italy,Bolzano,False,107034
+Europe,Italy,Brescia,False,196605
+Europe,Italy,Cagliari,False,149332
+Europe,Italy,Catania,False,300730
+Europe,Italy,Ferrara,False,130771
+Europe,Italy,Firenze,False,365019
+Europe,Italy,Foggia,False,147135
+Europe,Italy,Forli,False,116983
+Europe,Italy,Genova,False,563807
+Europe,Italy,Giugliano In Campania,False,123061
+Europe,Italy,Latina,False,127711
+Europe,Italy,Livorno,False,154927
+Europe,Italy,Messina,False,221788
+Europe,Italy,Milano,False,1362256
+Europe,Italy,Modena,False,185693
+Europe,Italy,Monza,False,122253
+Europe,Italy,Napoli,False,921618
+Europe,Italy,Novara,False,101796
+Europe,Italy,Padova,False,208191
+Europe,Italy,Palermo,False,636662
+Europe,Italy,Parma,False,195717
+Europe,Italy,Perugia,False,163542
+Europe,Italy,Pescara,False,118879
+Europe,Italy,Piacenza,False,102548
+Europe,Italy,Prato,False,198312
+Europe,Italy,Ravenna,False,156150
+Europe,Italy,Reggio Di Calabria,False,172753
+Europe,Italy,Reggio Nell'Emilia,False,170255
+Europe,Italy,Rimini,False,149705
+Europe,Italy,Roma,True,2759629
+Europe,Italy,Salerno,False,128671
+Europe,Italy,Sassari,False,122333
+Europe,Italy,Siracusa,False,117054
+Europe,Italy,Taranto,False,190089
+Europe,Italy,Terni,False,107574
+Europe,Italy,Torino,False,853477
+Europe,Italy,Trento,False,118363
+Europe,Italy,Trieste,False,199812
+Europe,Italy,Venezia,False,254014
+Europe,Italy,Verona,False,257008
+Europe,Italy,Vicenza,False,110703
+Europe,Jersey,St. Helier,True,35822
+Europe,Latvia,Riga,True,614618
+Europe,Liechtenstein,Vaduz,True,5774
+Europe,Lithuania,Kaunas,False,298753
+Europe,Lithuania,Klaipeda,False,152008
+Europe,Lithuania,Shauliai,False,100653
+Europe,Lithuania,Vilnius,True,546155
+Europe,Luxembourg,Luxembourg-Ville,True,128494
+Europe,Malta,Valletta,True,5876
+Europe,Monaco,Monaco,True,31109
+Europe,Montenegro,Podgorica,True,185937
+Europe,Netherlands (Kingdom Of The),Alkmaar,False,107106
+Europe,Netherlands (Kingdom Of The),Almere,False,196932
+Europe,Netherlands (Kingdom Of The),Alphen Aan Den,False,107396
+Europe,Netherlands (Kingdom Of The),Amersfoort,False,152481
+Europe,Netherlands (Kingdom Of The),Amsterdam,True,821752
+Europe,Netherlands (Kingdom Of The),Apeldoorn,False,158099
+Europe,Netherlands (Kingdom Of The),Arnhem,False,152293
+Europe,Netherlands (Kingdom Of The),Breda,False,180937
+Europe,Netherlands (Kingdom Of The),Delft,False,101030
+Europe,Netherlands (Kingdom Of The),Dordrecht,False,118899
+Europe,Netherlands (Kingdom Of The),Ede,False,111575
+Europe,Netherlands (Kingdom Of The),Eindhoven,False,223209
+Europe,Netherlands (Kingdom Of The),Emmen,False,107775
+Europe,Netherlands (Kingdom Of The),Enschede,False,158553
+Europe,Netherlands (Kingdom Of The),Groningen,False,200336
+Europe,Netherlands (Kingdom Of The),Haarlem,False,156645
+Europe,Netherlands (Kingdom Of The),Haarlemmermeer,False,144152
+Europe,Netherlands (Kingdom Of The),Leeuwarden,False,107691
+Europe,Netherlands (Kingdom Of The),Leiden,False,121562
+Europe,Netherlands (Kingdom Of The),Maastricht,False,122397
+Europe,Netherlands (Kingdom Of The),Nijmegen,False,170681
+Europe,Netherlands (Kingdom Of The),Rotterdam,False,623652
+Europe,Netherlands (Kingdom Of The),S-Gravenhage,False,514861
+Europe,Netherlands (Kingdom Of The),S-Hertogenbosch,False,150889
+Europe,Netherlands (Kingdom Of The),Tilburg,False,211648
+Europe,Netherlands (Kingdom Of The),Utrecht,False,334176
+Europe,Netherlands (Kingdom Of The),Venlo,False,100536
+Europe,Netherlands (Kingdom Of The),Westland,False,104302
+Europe,Netherlands (Kingdom Of The),Zaanstad,False,151418
+Europe,Netherlands (Kingdom Of The),Zoetermeer,False,124025
+Europe,Netherlands (Kingdom Of The),Zwolle,False,123861
+Europe,North Macedonia,Skopje,True,546824
+Europe,Norway,Oslo,True,681067
+Europe,Poland,Bialystok,False,295092
+Europe,Poland,Bielsko-Biala,False,168499
+Europe,Poland,Bydgoszcz,False,347716
+Europe,Poland,Bytom,False,162766
+Europe,Poland,Chorzów,False,106717
+Europe,Poland,Czestochowa,False,218812
+Europe,Poland,Dabrowa Górnicza,False,118003
+Europe,Poland,Elblag,False,117164
+Europe,Poland,Gdansk,False,472094
+Europe,Poland,Gdynia,False,243124
+Europe,Poland,Gliwice,False,177056
+Europe,Poland,Gorzów Wielkopolski,False,121878
+Europe,Poland,Katowice,False,296468
+Europe,Poland,Kielce,False,192650
+Europe,Poland,Koszalin,False,105714
+Europe,Poland,Kraków,False,777520
+Europe,Poland,Lódz,False,677864
+Europe,Poland,Lublin,False,341591
+Europe,Poland,Olsztyn,False,173624
+Europe,Poland,Opole,False,127198
+Europe,Poland,Plock,False,117771
+Europe,Poland,Poznan,False,533773
+Europe,Poland,Radom,False,208587
+Europe,Poland,Ruda Slaska,False,135965
+Europe,Poland,Rybnik,False,136299
+Europe,Poland,Rzeszów,False,194775
+Europe,Poland,Sosnowiec,False,197563
+Europe,Poland,Szczecin,False,399831
+Europe,Poland,Tarnów,False,105101
+Europe,Poland,Torun,False,198628
+Europe,Poland,Tychy,False,125892
+Europe,Poland,Walbrzych,False,109252
+Europe,Poland,Warszawa,True,1792692
+Europe,Poland,Wloclawek,False,107796
+Europe,Poland,Wroclaw,False,642473
+Europe,Poland,Zabrze,False,169736
+Europe,Poland,Zielona Góra,False,141631
+Europe,Portugal,Amadora,False,171454
+Europe,Portugal,Braga,False,148977
+Europe,Portugal,Coimbra,False,106768
+Europe,Portugal,Funchal,False,105701
+Europe,Portugal,Lisboa,True,545142
+Europe,Portugal,Porto,False,231800
+Europe,Portugal,Vila Nova De Gaia,False,188421
+Europe,Republic Of Moldova,Chișinău,True,339079
+Europe,Romania,Bucuresti,True,1722865
+Europe,Russian Federation,Abakan,False,168655
+Europe,Russian Federation,Achinsk,False,107943
+Europe,Russian Federation,Almetievsk,False,148384
+Europe,Russian Federation,Anapa,False,156928
+Europe,Russian Federation,Angarsk,False,231944
+Europe,Russian Federation,Arkhangelsk,False,350258
+Europe,Russian Federation,Armavir,False,190831
+Europe,Russian Federation,Artem,False,102605
+Europe,Russian Federation,Arzamas,False,105506
+Europe,Russian Federation,Astrakhan,False,526363
+Europe,Russian Federation,Balakovo,False,196918
+Europe,Russian Federation,Balashikha,False,228567
+Europe,Russian Federation,Barnaul,False,625679
+Europe,Russian Federation,Bataisk,False,115016
+Europe,Russian Federation,Belgorod,False,369815
+Europe,Russian Federation,Belovo,False,132144
+Europe,Russian Federation,Berezniki,False,153806
+Europe,Russian Federation,Biisk,False,206327
+Europe,Russian Federation,Blagoveshchensk,False,216691
+Europe,Russian Federation,Bor,False,122201
+Europe,Russian Federation,Bratsk,False,242604
+Europe,Russian Federation,Bryansk,False,411798
+Europe,Russian Federation,Cheboksary,False,462669
+Europe,Russian Federation,Chelyabinsk,False,1149829
+Europe,Russian Federation,Cherepovets,False,315186
+Europe,Russian Federation,Cherkessk,False,126884
+Europe,Russian Federation,Chita,False,329391
+Europe,Russian Federation,Derbent,False,119647
+Europe,Russian Federation,Dimitrovgrad,False,120750
+Europe,Russian Federation,Domodedovo,False,142743
+Europe,Russian Federation,Dzerzhinsk,False,238327
+Europe,Russian Federation,Ekaterinburg,False,1386909
+Europe,Russian Federation,Elektrostal,False,156136
+Europe,Russian Federation,Elets,False,107347
+Europe,Russian Federation,Elista,False,104177
+Europe,Russian Federation,Engels,False,210190
+Europe,Russian Federation,Esentuky,False,101851
+Europe,Russian Federation,Groznyi,False,276524
+Europe,Russian Federation,Hasaviurt,False,133188
+Europe,Russian Federation,Irkutsk,False,601993
+Europe,Russian Federation,Ivanovo,False,408952
+Europe,Russian Federation,Izhevsk,False,631182
+Europe,Russian Federation,Kaliningrad,False,437456
+Europe,Russian Federation,Kaluga,False,328871
+Europe,Russian Federation,Kamensk-Uralsky,False,172639
+Europe,Russian Federation,Kamyshin,False,117352
+Europe,Russian Federation,Kaspiysk,False,102421
+Europe,Russian Federation,Kazan,False,1168745
+Europe,Russian Federation,Kemerovo,False,538188
+Europe,Russian Federation,Khabarovsk,False,589596
+Europe,Russian Federation,Khimki,False,218275
+Europe,Russian Federation,Kirov,False,480594
+Europe,Russian Federation,Kiselevsk,False,101180
+Europe,Russian Federation,Kislovodsk,False,129313
+Europe,Russian Federation,Kolomna,False,144838
+Europe,Russian Federation,Komsomolsk-Na-Amure,False,259081
+Europe,Russian Federation,Kopeysk,False,139161
+Europe,Russian Federation,Korolev,False,186460
+Europe,Russian Federation,Kostroma,False,270366
+Europe,Russian Federation,Kovrov,False,346922
+Europe,Russian Federation,Krasnodar,False,773970
+Europe,Russian Federation,Krasnogorsk,False,125198
+Europe,Russian Federation,Krasnoyarsk,False,1006856
+Europe,Russian Federation,Kurgan,False,326729
+Europe,Russian Federation,Kursk,False,425950
+Europe,Russian Federation,Kyzyl,False,112659
+Europe,Russian Federation,Leninsk-Kuznetsky,False,100073
+Europe,Russian Federation,Lipetsk,False,508585
+Europe,Russian Federation,Lyubertsy,False,178884
+Europe,Russian Federation,Magadan,False,95263
+Europe,Russian Federation,Magnitogorsk,False,410733
+Europe,Russian Federation,Maikop,False,144579
+Europe,Russian Federation,Makhachkala,False,575243
+Europe,Russian Federation,Mezhdurechensk,False,100278
+Europe,Russian Federation,Miass,False,150806
+Europe,Russian Federation,Moskva,True,11918057
+Europe,Russian Federation,Murmansk,False,303754
+Europe,Russian Federation,Murom,False,113330
+Europe,Russian Federation,Mytishchi,False,176825
+Europe,Russian Federation,Naberezhnye Tchelny,False,517831
+Europe,Russian Federation,Nakhodka,False,158649
+Europe,Russian Federation,Naltchik,False,239230
+Europe,Russian Federation,Nazran,False,100574
+Europe,Russian Federation,Neftekamsk,False,123202
+Europe,Russian Federation,Nefteyugansk,False,125528
+Europe,Russian Federation,Nevinnomyssk,False,117949
+Europe,Russian Federation,Nizhnekamsk,False,235179
+Europe,Russian Federation,Nizhnevartovsk,False,261011
+Europe,Russian Federation,Nizhny Novgorod,False,1257260
+Europe,Russian Federation,Nizhny Tagil,False,358651
+Europe,Russian Federation,Noginsk,False,101779
+Europe,Russian Federation,Norilsk,False,177506
+Europe,Russian Federation,Novocheboksarsk,False,124288
+Europe,Russian Federation,Novocherkassk,False,171081
+Europe,Russian Federation,Novokuybishevsk,False,107244
+Europe,Russian Federation,Novokuznetsk,False,549383
+Europe,Russian Federation,Novomoskovsk,False,129555
+Europe,Russian Federation,Novorossiysk,False,248857
+Europe,Russian Federation,Novoshakhtinsk,False,110243
+Europe,Russian Federation,Novosibirsk,False,1511369
+Europe,Russian Federation,Novotroitsk,False,103061
+Europe,Russian Federation,Novy Urengoy,False,114332
+Europe,Russian Federation,Noyabrsk,False,108662
+Europe,Russian Federation,Obninsk,False,105722
+Europe,Russian Federation,Odintsovo,False,137706
+Europe,Russian Federation,Oktyabrsky,False,111109
+Europe,Russian Federation,Omsk,False,1158627
+Europe,Russian Federation,Orekhovo-Zuevo,False,121341
+Europe,Russian Federation,Orel,False,318642
+Europe,Russian Federation,Orenburg,False,555420
+Europe,Russian Federation,Orsk,False,237194
+Europe,Russian Federation,Penza,False,519948
+Europe,Russian Federation,Perm,False,1007272
+Europe,Russian Federation,Pervouralsk,False,125421
+Europe,Russian Federation,Petropavlovsk-Kamchatsky,False,180702
+Europe,Russian Federation,Petrozavodsk,False,267102
+Europe,Russian Federation,Podolsk,False,200059
+Europe,Russian Federation,Prokopyevsk,False,206023
+Europe,Russian Federation,Pskov,False,205062
+Europe,Russian Federation,Pushkino,False,104020
+Europe,Russian Federation,Pyatigorsk,False,144603
+Europe,Russian Federation,Rostov-Na-Donu,False,1100091
+Europe,Russian Federation,Rubtsovsk,False,146075
+Europe,Russian Federation,Ryazan,False,526919
+Europe,Russian Federation,Rybinsk,False,197359
+Europe,Russian Federation,Salavat,False,155174
+Europe,Russian Federation,Samara,False,1170381
+Europe,Russian Federation,Saransk,False,298103
+Europe,Russian Federation,Sarapyul,False,100362
+Europe,Russian Federation,Saratov,False,838321
+Europe,Russian Federation,Sergiev Posad,False,109076
+Europe,Russian Federation,Serov,False,107904
+Europe,Russian Federation,Serpukhov,False,126729
+Europe,Russian Federation,Severodvinsk,False,189313
+Europe,Russian Federation,Seversk,False,109630
+Europe,Russian Federation,Shakhty,False,238031
+Europe,Russian Federation,Shchelkovo,False,111406
+Europe,Russian Federation,Smolensk,False,330451
+Europe,Russian Federation,Sochi,False,364171
+Europe,Russian Federation,St. Petersburg,False,4990602
+Europe,Russian Federation,Stary Oskol,False,220719
+Europe,Russian Federation,Stavropol,False,408361
+Europe,Russian Federation,Sterlitamak,False,275087
+Europe,Russian Federation,Surgut,False,321062
+Europe,Russian Federation,Syktivkar,False,239341
+Europe,Russian Federation,Syzran,False,177404
+Europe,Russian Federation,Taganrog,False,255671
+Europe,Russian Federation,Tambov,False,281348
+Europe,Russian Federation,Tobolsk,False,101955
+Europe,Russian Federation,Tolyatti,False,719363
+Europe,Russian Federation,Tomsk,False,543596
+Europe,Russian Federation,Tula,False,496656
+Europe,Russian Federation,Tver,False,407896
+Europe,Russian Federation,Tyumen,False,621918
+Europe,Russian Federation,Ufa,False,1075007
+Europe,Russian Federation,Uhta,False,99680
+Europe,Russian Federation,Ulan-Ude,False,413850
+Europe,Russian Federation,Ulyanovsk,False,614878
+Europe,Russian Federation,Ussuriisk,False,163465
+Europe,Russian Federation,Velikiy Novgorod,False,219941
+Europe,Russian Federation,Vladikavkaz,False,309173
+Europe,Russian Federation,Vladimir,False,346922
+Europe,Russian Federation,Vladivostok,False,598927
+Europe,Russian Federation,Volgodonsk,False,170189
+Europe,Russian Federation,Volgograd,False,1018762
+Europe,Russian Federation,Vologda,False,305397
+Europe,Russian Federation,Volzhsky,False,320761
+Europe,Russian Federation,Voronezh,False,997447
+Europe,Russian Federation,Yakutsk,False,282419
+Europe,Russian Federation,Yaroslavl,False,597161
+Europe,Russian Federation,Yoshkar-Ola,False,254987
+Europe,Russian Federation,Yuzhno-Sakhalinsk,False,188242
+Europe,Russian Federation,Zheleznodorozhny,False,138814
+Europe,Russian Federation,Zhukovsky,False,106555
+Europe,Russian Federation,Zlatoust,False,172972
+Europe,San Marino,San Marino,True,4127
+Europe,Serbia,Beograd,True,1382045
+Europe,Serbia,Čačak,False,70675
+Europe,Serbia,Kragujevac,False,147786
+Europe,Serbia,Kraljevo,False,64150
+Europe,Serbia,Kruševac,False,55189
+Europe,Serbia,Leskovac,False,61581
+Europe,Serbia,Niš,False,183202
+Europe,Serbia,Novi Pazar,False,75166
+Europe,Serbia,Novi Sad,False,298469
+Europe,Serbia,Pancevo,False,87815
+Europe,Serbia,Šabac,False,51380
+Europe,Serbia,Smederevo,False,60263
+Europe,Serbia,Subotica,False,101920
+Europe,Serbia,Zrenjanin,False,71724
+Europe,Slovakia,Bratislava,True,435296
+Europe,Slovakia,Kosice,False,238676
+Europe,Slovenia,Ljubljana,True,285604
+Europe,Slovenia,Maribor,False,97019
+Europe,Spain,A Coruña,False,245541
+Europe,Spain,Albacete,False,172806
+Europe,Spain,Alcalá De Henares,False,195570
+Europe,Spain,Alcobendas,False,116895
+Europe,Spain,Alcorcón,False,171575
+Europe,Spain,Algeciras,False,123435
+Europe,Spain,Alicante/Alacant,False,338768
+Europe,Spain,Almería,False,200273
+Europe,Spain,Badajoz,False,151048
+Europe,Spain,Badalona,False,221750
+Europe,Spain,Barakaldo,False,100847
+Europe,Spain,Barcelona,False,1627559
+Europe,Spain,Bilbao,False,345749
+Europe,Spain,Burgos,False,174154
+Europe,Spain,Cádiz,False,114442
+Europe,Spain,Cartagena,False,215826
+Europe,Spain,Castelló De La Plana,False,172637
+Europe,Spain,Córdoba,False,322327
+Europe,Spain,Donostia/San Sebastián,False,187892
+Europe,Spain,Dos Hermanas,False,136296
+Europe,Spain,Elche/Elx,False,235566
+Europe,Spain,Fuenlabrada,False,192612
+Europe,Spain,Getafe,False,183872
+Europe,Spain,Gijón,False,269311
+Europe,Spain,Girona,False,101648
+Europe,Spain,Granada,False,233680
+Europe,Spain,Huelva,False,142668
+Europe,Spain,Jaén,False,111915
+Europe,Spain,Jerez De La Frontera,False,213616
+Europe,Spain,Las Palmas De Gran Canaria,False,380667
+Europe,Spain,Leganés,False,188687
+Europe,Spain,León,False,122398
+Europe,Spain,L'Hospitalet De Llobregat,False,265003
+Europe,Spain,Lleida,False,138933
+Europe,Spain,Logroño,False,150596
+Europe,Spain,Madrid,True,3277451
+Europe,Spain,Málaga,False,578063
+Europe,Spain,Marbella,False,149032
+Europe,Spain,Mataró,False,129749
+Europe,Spain,Móstoles,False,208632
+Europe,Spain,Murcia,False,459778
+Europe,Spain,Ourense,False,104578
+Europe,Spain,Oviedo,False,217164
+Europe,Spain,Palma,False,424837
+Europe,Spain,Pamplona/Iruña,False,203596
+Europe,Spain,Parla,False,130550
+Europe,Spain,Reus,False,105981
+Europe,Spain,Sabadell,False,216759
+Europe,Spain,Salamanca,False,143549
+Europe,Spain,San Cristóbal De La Laguna,False,158117
+Europe,Spain,Santa Coloma De Gramenet,False,118489
+Europe,Spain,Santa Cruz De Tenerife,False,208103
+Europe,Spain,Santander,False,172000
+Europe,Spain,Sevilla,False,684340
+Europe,Spain,Tarragona,False,136150
+Europe,Spain,Telde,False,103175
+Europe,Spain,Terrassa,False,222576
+Europe,Spain,Torrejón De Ardoz,False,133377
+Europe,Spain,València,False,788842
+Europe,Spain,Valladolid,False,297370
+Europe,Spain,Vigo,False,294650
+Europe,Spain,Vitoria-Gasteiz,False,252953
+Europe,Spain,Zaragoza,False,681430
+Europe,Sweden,Göteborg,False,491629
+Europe,Sweden,Helsingborg,False,124187
+Europe,Sweden,Jönköping,False,122951
+Europe,Sweden,Linköping,False,139473
+Europe,Sweden,Malmö,False,278522
+Europe,Sweden,Norrköping,False,126071
+Europe,Sweden,Orebro,False,129703
+Europe,Sweden,Stockholm,True,789024
+Europe,Sweden,Umeå,False,111503
+Europe,Sweden,Uppsala,False,186364
+Europe,Sweden,Västerås,False,133324
+Europe,Switzerland,Baden-Brugg,False,32566
+Europe,Switzerland,Bâle,False,173064
+Europe,Switzerland,Berne,True,134290
+Europe,Switzerland,Biel/Bienne,False,55140
+Europe,Switzerland,Fribourg,False,37645
+Europe,Switzerland,Genève,False,203401
+Europe,Switzerland,Lausanne,False,140619
+Europe,Switzerland,Lugano,False,62123
+Europe,Switzerland,Luzern,False,82922
+Europe,Switzerland,Olten-Zofingen,False,30678
+Europe,Switzerland,St. Gallen,False,76328
+Europe,Switzerland,Winterthur,False,115129
+Europe,Switzerland,Zug,False,31345
+Europe,Switzerland,Zürich,False,423193
+Europe,Ukraine,Alchevsk,False,105580
+Europe,Ukraine,Berdyansk,False,106526
+Europe,Ukraine,Bila Tserkva,False,203344
+Europe,Ukraine,Brovary,False,109154
+Europe,Ukraine,Cherkasy,False,267361
+Europe,Ukraine,Chernihiv,False,276927
+Europe,Ukraine,Chernivtsi,False,260540
+Europe,Ukraine,Dnipro,False,958377
+Europe,Ukraine,Donets'K,False,892980
+Europe,Ukraine,Gorlivka,False,237640
+Europe,Ukraine,Ivano-Frankivsk,False,235343
+Europe,Ukraine,Kamenets Podolsky,False,226295
+Europe,Ukraine,Kamyanske,False,226295
+Europe,Ukraine,Kharkiv,False,1401558
+Europe,Ukraine,Kherson,False,275529
+Europe,Ukraine,Khmelnitsky,False,271618
+Europe,Ukraine,Kramatorsk,False,146693
+Europe,Ukraine,Krementchug,False,214291
+Europe,Ukraine,Krivoy Rog,False,602390
+Europe,Ukraine,Kropyvnytskyi,False,216535
+Europe,Ukraine,Kyiv,True,2910994
+Europe,Ukraine,Lugansk,False,394202
+Europe,Ukraine,Luts'K,False,212903
+Europe,Ukraine,Lviv,False,710606
+Europe,Ukraine,Makijivka,False,337277
+Europe,Ukraine,Mariupol,False,422286
+Europe,Ukraine,Melitopol,False,148698
+Europe,Ukraine,Nikolaev,False,465516
+Europe,Ukraine,Nikopol,False,107214
+Europe,Ukraine,Odessa,False,992874
+Europe,Ukraine,Pavlograd,False,102373
+Europe,Ukraine,Poltava,False,272572
+Europe,Ukraine,Rivne,False,240451
+Europe,Ukraine,Slovyansk,False,103029
+Europe,Ukraine,Sumy,False,255672
+Europe,Ukraine,Ternopil,False,223522
+Europe,Ukraine,Uzhhorod,False,113889
+Europe,Ukraine,Vinnitsa,False,367901
+Europe,Ukraine,Zaporozhye,False,706116
+Europe,Ukraine,Zhytomyr,False,260367
+Europe,United Kingdom Of Great Britain And Northern Ireland,Aberdeen,False,207932
+Europe,United Kingdom Of Great Britain And Northern Ireland,Belfast,False,280211
+Europe,United Kingdom Of Great Britain And Northern Ireland,Birmingham,False,1085810
+Europe,United Kingdom Of Great Britain And Northern Ireland,Bolton,False,194189
+Europe,United Kingdom Of Great Britain And Northern Ireland,Bournemouth,False,187503
+Europe,United Kingdom Of Great Britain And Northern Ireland,Bradford,False,349561
+Europe,United Kingdom Of Great Britain And Northern Ireland,Brighton And Hove,False,229700
+Europe,United Kingdom Of Great Britain And Northern Ireland,Bristol,False,535907
+Europe,United Kingdom Of Great Britain And Northern Ireland,Cardiff,False,335145
+Europe,United Kingdom Of Great Britain And Northern Ireland,Coventry,False,325949
+Europe,United Kingdom Of Great Britain And Northern Ireland,Derby,False,255394
+Europe,United Kingdom Of Great Britain And Northern Ireland,Edinburgh,False,482005
+Europe,United Kingdom Of Great Britain And Northern Ireland,Glasgow,False,1209143
+Europe,United Kingdom Of Great Britain And Northern Ireland,Kingston-Upon-Hull,False,284321
+Europe,United Kingdom Of Great Britain And Northern Ireland,Leeds,False,474632
+Europe,United Kingdom Of Great Britain And Northern Ireland,Leicester,False,443760
+Europe,United Kingdom Of Great Britain And Northern Ireland,Liverpool,False,552267
+Europe,United Kingdom Of Great Britain And Northern Ireland,London,True,8135667
+Europe,United Kingdom Of Great Britain And Northern Ireland,Luton,False,211228
+Europe,United Kingdom Of Great Britain And Northern Ireland,Manchester,False,510746
+Europe,United Kingdom Of Great Britain And Northern Ireland,Newcastle-Upon-Tyne,False,268064
+Europe,United Kingdom Of Great Britain And Northern Ireland,Northampton,False,215173
+Europe,United Kingdom Of Great Britain And Northern Ireland,Nottingham,False,289301
+Europe,United Kingdom Of Great Britain And Northern Ireland,Plymouth,False,234982
+Europe,United Kingdom Of Great Britain And Northern Ireland,Portsmouth,False,238137
+Europe,United Kingdom Of Great Britain And Northern Ireland,Reading,False,218705
+Europe,United Kingdom Of Great Britain And Northern Ireland,Sheffield,False,518090
+Europe,United Kingdom Of Great Britain And Northern Ireland,Southampton,False,253651
+Europe,United Kingdom Of Great Britain And Northern Ireland,Stoke-On-Trent,False,270726
+Europe,United Kingdom Of Great Britain And Northern Ireland,Wolverhampton,False,210319
+Oceania,American Samoa,Pago Pago,True,3656
+Oceania,Australia,Adelaide,False,1245011
+Oceania,Australia,Ballarat,False,105348
+Oceania,Australia,Bendigo,False,100649
+Oceania,Australia,Brisbane,False,2287896
+Oceania,Australia,Cairns,False,153181
+Oceania,Australia,Canberra,True,452670
+Oceania,Australia,Canberra-Queanbeyan,False,490179
+Oceania,Australia,Central Coast,False,325255
+Oceania,Australia,Darwin,False,122207
+Oceania,Australia,Geelong,False,180239
+Oceania,Australia,Gold Coast,False,607665
+Oceania,Australia,Gold Coast-Tweed Heads,False,671385
+Oceania,Australia,Greater Adelaide,False,1387290
+Oceania,Australia,Greater Brisbane,False,2526238
+Oceania,Australia,Greater Darwin,False,139902
+Oceania,Australia,Greater Hobart,False,247086
+Oceania,Australia,Greater Melbourne,False,4917750
+Oceania,Australia,Greater Perth,False,2116647
+Oceania,Australia,Greater Sydney,False,5231147
+Oceania,Australia,Hobart,False,197451
+Oceania,Australia,Melbourne,False,4585537
+Oceania,Australia,Newcastle,False,348539
+Oceania,Australia,Perth,False,2043762
+Oceania,Australia,Sunshine Coast,False,284131
+Oceania,Australia,Sydney,False,4698656
+Oceania,Australia,Toowoomba,False,108398
+Oceania,Australia,Townsville,False,173724
+Oceania,Australia,Wollongong,False,280153
+Oceania,Cook Islands,Rarotonga,True,13007
+Oceania,Fiji,Suva,True,74481
+Oceania,French Polynesia,Papeete,True,26925
+Oceania,Guam,Agana,True,1051
+Oceania,Kiribati,Tarawa,True,63017
+Oceania,Marshall Islands,Majuro,True,27797
+Oceania,New Caledonia,Noumea,True,94285
+Oceania,New Zealand,Auckland,False,1715600
+Oceania,New Zealand,Christchurch,False,392100
+Oceania,New Zealand,Dunedin,False,133300
+Oceania,New Zealand,Hamilton,False,178500
+Oceania,New Zealand,Lower Hutt,False,112800
+Oceania,New Zealand,Napier-Hastings,False,156800
+Oceania,New Zealand,Tauranga,False,155200
+Oceania,New Zealand,Wellington,True,217000
+Oceania,Niue,Alofi,True,610
+Oceania,Northern Mariana Islands,Garapan,True,3983
+Oceania,Palau,Koror,True,11754
+Oceania,Papua New Guinea,Port Moresby,True,364125
+Oceania,Pitcairn,Adamstown,True,49
+Oceania,Samoa,Apia,True,35974
+Oceania,Solomon Islands,Honiara,True,64609
+Oceania,Tonga,Nuku'Alofa,True,34142
+Oceania,Tuvalu,Funafuti,True,6320
+Oceania,Vanuatu,Port Vila,True,49034
+Oceania,Wallis And Futuna Islands,Meta-Utu,True,1126

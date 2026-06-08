@@ -1,0 +1,34 @@
+# Core geo/spatial
+geopandas>=0.14
+osmnx>=1.9.4
+rasterio
+contextily
+momepy
+geojson
+haversine
+
+# Graph
+python-igraph
+
+# Jupyter
+jupyter
+jupyterlab
+ipywidgets
+ipykernel
+
+# Data / utils
+matplotlib
+tqdm
+watermark
+
+# Testing / dev
+pytest
+pre-commit
+
+# CV / text
+opencv-python
+python-slugify
+pycountry
+
+# Project-specific
+growbikenet

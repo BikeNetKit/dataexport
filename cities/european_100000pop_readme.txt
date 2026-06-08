@@ -1,0 +1,2 @@
+No autonomous regions, crown dependencies, or similar, Moscow, Monaco, San Marino, Vaduz, Valletta, or Vatican City
+Source: https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants
