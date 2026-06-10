@@ -1,8 +1,6 @@
 city,city_eng
-Mariehamn,Mariehamn
 Durrës,Durrës
 Tirana,Tirana
-Andorra La Vella,Andorra La Vella
 Graz,Graz
 Innsbruck,Innsbruck
 Klagenfurt,Klagenfurt
@@ -56,7 +54,6 @@ Kobenhavn,Copenhagen
 Odense,Odense
 Vejle,Vejle
 Tallinn,Tallinn
-Tórshavn,Tórshavn
 Espoo,Espoo
 Helsinki,Helsinki
 Jyvaskyla,Jyvaskyla
@@ -73,7 +70,6 @@ Argenteuil,Argenteuil
 Besançon,Besançon
 Bordeaux,Bordeaux
 Boulogne-Billancourt,Boulogne-Billancourt
-Brest,Brest
 Caen,Caen
 Clermont-Ferrand,Clermont-Ferrand
 Dijon,Dijon
@@ -186,7 +182,6 @@ Wiesbaden,Wiesbaden
 Wolfsburg,Wolfsburg
 Wuppertal,Wuppertal
 Würzburg,Würzburg
-Gibraltar,Gibraltar
 Athinai,Athens
 Calithèa,Calithèa
 Iraclion,Heraklion
@@ -195,8 +190,6 @@ Patrai,Patras
 Pésterion,Pésterion
 Pireas,Piraeus
 Thessaloniki,Thessaloniki
-St. Peter Port,St. Peter Port
-Vatican City,Vatican City
 Budapest,Budapest
 Debrecen,Debrecen
 Györ,Györ
@@ -208,7 +201,6 @@ Szeged,Szeged
 Reykjavik,Reykjavik
 Cork,Cork
 Dublin,Dublin
-Douglas,Douglas
 Bari,Bari
 Bergamo,Bergamo
 Bologna,Bologna
@@ -253,16 +245,12 @@ Trieste,Trieste
 Venezia,Venice
 Verona,Verona
 Vicenza,Vicenza
-St. Helier,St. Helier
 Riga,Riga
-Vaduz,Vaduz
 Kaunas,Kaunas
 Klaipeda,Klaipeda
 Shauliai,Shauliai
 Vilnius,Vilnius
 Luxembourg-Ville,Luxembourg City
-Valletta,Valletta
-Monaco,Monaco
 Podgorica,Podgorica
 Alkmaar,Alkmaar
 Almere,Almere
@@ -412,7 +400,6 @@ Kyzyl,Kyzyl
 Leninsk-Kuznetsky,Leninsk-Kuznetsky
 Lipetsk,Lipetsk
 Lyubertsy,Lyubertsy
-Magadan,Magadan
 Magnitogorsk,Magnitogorsk
 Maikop,Maikop
 Makhachkala,Makhachkala
@@ -498,7 +485,6 @@ Tula,Tula
 Tver,Tver
 Tyumen,Tyumen
 Ufa,Ufa
-Uhta,Uhta
 Ulan-Ude,Ulan-Ude
 Ulyanovsk,Ulyanovsk
 Ussuriisk,Ussuriisk
@@ -518,25 +504,14 @@ Yuzhno-Sakhalinsk,Yuzhno-Sakhalinsk
 Zheleznodorozhny,Zheleznodorozhny
 Zhukovsky,Zhukovsky
 Zlatoust,Zlatoust
-San Marino,San Marino
 Beograd,Belgrade
-Čačak,Čačak
 Kragujevac,Kragujevac
-Kraljevo,Kraljevo
-Kruševac,Kruševac
-Leskovac,Leskovac
 Niš,Nis
-Novi Pazar,Novi Pazar
 Novi Sad,Novi Sad
-Pancevo,Pancevo
-Šabac,Šabac
-Smederevo,Smederevo
 Subotica,Subotica
-Zrenjanin,Zrenjanin
 Bratislava,Bratislava
 Kosice,Kosice
 Ljubljana,Ljubljana
-Maribor,Maribor
 A Coruña,A Coruña
 Albacete,Albacete
 Alcalá De Henares,Alcalá De Henares
@@ -611,19 +586,11 @@ Stockholm,Stockholm
 Umeå,Umeå
 Uppsala,Uppsala
 Västerås,Västerås
-Baden-Brugg,Baden-Brugg
 Bâle,Basel
 Berne,Bern
-Biel/Bienne,Biel/Bienne
-Fribourg,Fribourg
 Genève,Geneva
 Lausanne,Lausanne
-Lugano,Lugano
-Luzern,Lucerne
-Olten-Zofingen,Olten-Zofingen
-St. Gallen,St. Gallen
 Winterthur,Winterthur
-Zug,Zug
 Zürich,Zurich
 Alchevsk,Alchevsk
 Berdyansk,Berdyansk

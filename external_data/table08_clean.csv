@@ -104,7 +104,6 @@ Africa,Equatorial Guinea,Ebibeyín,False,115518
 Africa,Equatorial Guinea,Malabo,True,332980
 Africa,Equatorial Guinea,Mongomo,False,108523
 Africa,Eritrea,Asmara,True,545959
-Africa,Eswatini,Mbabane,True,60691
 Africa,Ethiopia,Addis Ababa,True,3860000
 Africa,Ethiopia,Adigrat,False,121776
 Africa,Ethiopia,Arba Minch,False,201049
@@ -266,7 +265,6 @@ Africa,Republic Of South Sudan,Wau,False,118331
 Africa,Reunion,Saint-Denis,True,146985
 Africa,Reunion,Saint-Paul,False,105967
 Africa,Rwanda,Kigali,True,859332
-Africa,Saint Helena Ex. Dep.,Jamestown,True,625
 Africa,Senegal,Dagana,False,148380
 Africa,Senegal,Dakar,True,1457697
 Africa,Senegal,Diourbel,False,174109
@@ -279,10 +277,7 @@ Africa,Senegal,Pikine,False,1489164
 Africa,Senegal,Rufisque,False,624129
 Africa,Senegal,Saint Louis,False,272150
 Africa,Senegal,Tambacounda,False,144978
-Africa,Senegal,Thiès,False,79142
 Africa,Senegal,Tivaouane,False,151229
-Africa,Senegal,Ziguinchor,False,55109
-Africa,Seychelles,Victoria,True,26450
 Africa,Sierra Leone,Bo,False,199897
 Africa,Sierra Leone,Freetown,True,1200230
 Africa,Sierra Leone,Kenema,False,231131
@@ -329,16 +324,11 @@ Africa,Zimbabwe,Harare,True,1698122
 Africa,Zimbabwe,Kadoma,False,117381
 Africa,Zimbabwe,Kwekwe,False,119863
 Africa,Zimbabwe,Mutare,False,224804
-America North,Anguilla,The Valley,True,2812
-America North,Aruba,Oranjestad,True,28295
 America North,Bahamas,Nassau,True,266100
-America North,Belize,Belmopan,True,28264
-America North,Bermuda,Hamilton,True,854
 America North,Canada,Abbotsford,False,168478
 America North,Canada,Abbotsford-Mission,False,208961
 America North,Canada,Ajax,False,135180
 America North,Canada,Barrie,False,157194
-America North,Canada,Belleville,False,57363
 America North,Canada,Brampton,False,745557
 America North,Canada,Brantford,False,110617
 America North,Canada,Burlington,False,194175
@@ -346,7 +336,6 @@ America North,Canada,Burnaby,False,270264
 America North,Canada,Calgary,False,1413800
 America North,Canada,Cambridge,False,146566
 America North,Canada,Chatham-Kent,False,108689
-America North,Canada,Chilliwack,False,97174
 America North,Canada,Coquitlam,False,159285
 America North,Canada,Delta,False,113347
 America North,Canada,Edmonton,False,1087172
@@ -369,14 +358,12 @@ America North,Canada,Longueuil,False,253413
 America North,Canada,Markham,False,352404
 America North,Canada,Milton,False,142279
 America North,Canada,Mississauga,False,771891
-America North,Canada,Moncton,False,85802
 America North,Canada,Montréal,False,1791508
 America North,Canada,Nanaimo,False,104064
 America North,Canada,Oakville,False,224781
 America North,Canada,Oshawa,False,187813
 America North,Canada,Ottawa,True,1071868
 America North,Canada,Ottawa - Gatineau,False,1498610
-America North,Canada,Peterborough,False,87552
 America North,Canada,Québec,False,557390
 America North,Canada,Red Deer,False,105883
 America North,Canada,Regina,False,242685
@@ -384,7 +371,6 @@ America North,Canada,Richmond,False,222954
 America North,Canada,Richmond Hill,False,211494
 America North,Canada,Saanich,False,125853
 America North,Canada,Saguenay,False,148254
-America North,Canada,Saint John,False,73611
 America North,Canada,Saskatoon,False,288311
 America North,Canada,Sherbrooke,False,175684
 America North,Canada,St. Catharines,False,144829
@@ -401,7 +387,6 @@ America North,Canada,Waterloo,False,129054
 America North,Canada,Whitby,False,149907
 America North,Canada,Windsor,False,236789
 America North,Canada,Winnipeg,False,783096
-America North,Cayman Islands,George Town,True,34921
 America North,Costa Rica,Alajuela,False,321872
 America North,Costa Rica,Cartago,False,166204
 America North,Costa Rica,Desamparados,False,249367
@@ -457,8 +442,6 @@ America North,El Salvador,San Salvador,True,200319
 America North,El Salvador,Santa Ana,False,278743
 America North,El Salvador,Santa Tecla,False,140144
 America North,El Salvador,Soyapango,False,284347
-America North,Greenland,Nuuk,True,19394
-America North,Grenada,St. George'S,True,36586
 America North,Guatemala,Cuidad De Guatemala,True,923392
 America North,Honduras,Choloma,False,163817
 America North,Honduras,El Progreso,False,114934
@@ -469,7 +452,6 @@ America North,Jamaica,Kingston,True,592291
 America North,Jamaica,Montego Bay,False,111037
 America North,Jamaica,Portmore,False,182800
 America North,Jamaica,Spanish Town,False,149479
-America North,Martinique,Fort-De-France,True,82502
 America North,Mexico,Acapulco,False,850423
 America North,Mexico,Acayucan,False,114709
 America North,Mexico,Aguascalientes,False,1189107
@@ -584,10 +566,6 @@ America North,Puerto Rico,Caguas,False,126756
 America North,Puerto Rico,Carolina,False,152993
 America North,Puerto Rico,Ponce,False,135084
 America North,Puerto Rico,San Juan,True,337300
-America North,Saint Lucia,Castries,True,3661
-America North,Saint Pierre And Miquelon,Saint-Pierre,True,5415
-America North,Trinidad And Tobago,Port-Of-Spain,True,37074
-America North,Turks And Caicos Islands,Grand Turk,True,4831
 America North,United States Of America,Abilene,False,127385
 America North,United States Of America,Akron,False,188509
 America North,United States Of America,Albany,False,100826
@@ -918,7 +896,6 @@ America North,United States Of America,Wilmington,False,120324
 America North,United States Of America,Winston-Salem,False,251350
 America North,United States Of America,Worcester,False,205319
 America North,United States Of America,Yonkers,False,208121
-America North,United States Virgin Islands,Charlotte Amalie,True,10354
 America South,Argentina,Bahía Blanca-Cerri,False,317942
 America South,Argentina,Buenos Aires,True,15716718
 America South,Argentina,Catamarca,False,227826
@@ -1427,9 +1404,6 @@ America South,Ecuador,Quito,True,1836779
 America South,Ecuador,Riobamba,False,174193
 America South,Ecuador,RumiñAhui,False,104782
 America South,Ecuador,Santo Domingo De Los Colorados,False,355772
-America South,Falkland Islands (Malvinas),Stanley,True,2460
-America South,French Guiana,Cayenne,True,57614
-America South,Guyana,Georgetown,True,24849
 America South,Paraguay,Asunción,True,512919
 America South,Paraguay,Capiatá,False,257115
 America South,Paraguay,Ciudad Del Este,False,317524
@@ -2787,7 +2761,6 @@ Asia,Oman,Barka,False,205175
 Asia,Oman,Bawshar,False,412544
 Asia,Oman,Ibri,False,178234
 Asia,Oman,Jaalan Bani Bu Ali,False,117730
-Asia,Oman,Muscat,True,37865
 Asia,Oman,Mutrah,False,223590
 Asia,Oman,Nizwa,False,139267
 Asia,Oman,Saham,False,165546
@@ -3273,10 +3246,8 @@ Asia,Viet Nam,Hai Phong,False,2088022
 Asia,Viet Nam,Ho Chi Minh,False,9389717
 Asia,Yemen,Adan,False,1020000
 Asia,Yemen,Sana'A,True,1201000
-Europe,Åland Islands,Mariehamn,True,11750
 Europe,Albania,Durrës,False,113249
 Europe,Albania,Tirana,True,418495
-Europe,Andorra,Andorra La Vella,True,22205
 Europe,Austria,Graz,False,288806
 Europe,Austria,Innsbruck,False,132110
 Europe,Austria,Klagenfurt,False,100817
@@ -3330,7 +3301,6 @@ Europe,Denmark,Kobenhavn,True,638790
 Europe,Denmark,Odense,False,204795
 Europe,Denmark,Vejle,False,118028
 Europe,Estonia,Tallinn,True,437817
-Europe,Faroe Islands,Tórshavn,True,13888
 Europe,Finland,Espoo,False,292796
 Europe,Finland,Helsinki,True,656920
 Europe,Finland,Jyvaskyla,False,143420
@@ -3460,7 +3430,6 @@ Europe,Germany,Wiesbaden,False,278342
 Europe,Germany,Wolfsburg,False,124151
 Europe,Germany,Wuppertal,False,354382
 Europe,Germany,Würzburg,False,127880
-Europe,Gibraltar,Gibraltar,True,34003
 Europe,Greece,Athinai,True,664046
 Europe,Greece,Calithèa,False,100641
 Europe,Greece,Iraclion,False,140730
@@ -3469,8 +3438,6 @@ Europe,Greece,Patrai,False,167446
 Europe,Greece,Pésterion,False,139981
 Europe,Greece,Pireas,False,163688
 Europe,Greece,Thessaloniki,False,315196
-Europe,Guernsey,St. Peter Port,True,19354
-Europe,Holy See,Vatican City,True,451
 Europe,Hungary,Budapest,True,1737026
 Europe,Hungary,Debrecen,False,201043
 Europe,Hungary,Györ,False,133340
@@ -3482,7 +3449,6 @@ Europe,Hungary,Szeged,False,159666
 Europe,Iceland,Reykjavik,True,129964
 Europe,Ireland,Cork,False,124391
 Europe,Ireland,Dublin,True,544107
-Europe,Isle Of Man,Douglas,True,26677
 Europe,Italy,Bari,False,316577
 Europe,Italy,Bergamo,False,119735
 Europe,Italy,Bologna,False,389764
@@ -3527,16 +3493,12 @@ Europe,Italy,Trieste,False,199812
 Europe,Italy,Venezia,False,254014
 Europe,Italy,Verona,False,257008
 Europe,Italy,Vicenza,False,110703
-Europe,Jersey,St. Helier,True,35822
 Europe,Latvia,Riga,True,614618
-Europe,Liechtenstein,Vaduz,True,5774
 Europe,Lithuania,Kaunas,False,298753
 Europe,Lithuania,Klaipeda,False,152008
 Europe,Lithuania,Shauliai,False,100653
 Europe,Lithuania,Vilnius,True,546155
 Europe,Luxembourg,Luxembourg-Ville,True,128494
-Europe,Malta,Valletta,True,5876
-Europe,Monaco,Monaco,True,31109
 Europe,Montenegro,Podgorica,True,185937
 Europe,Netherlands (Kingdom Of The),Alkmaar,False,107106
 Europe,Netherlands (Kingdom Of The),Almere,False,196932
@@ -3686,7 +3648,6 @@ Europe,Russian Federation,Kyzyl,False,112659
 Europe,Russian Federation,Leninsk-Kuznetsky,False,100073
 Europe,Russian Federation,Lipetsk,False,508585
 Europe,Russian Federation,Lyubertsy,False,178884
-Europe,Russian Federation,Magadan,False,95263
 Europe,Russian Federation,Magnitogorsk,False,410733
 Europe,Russian Federation,Maikop,False,144579
 Europe,Russian Federation,Makhachkala,False,575243
@@ -3772,7 +3733,6 @@ Europe,Russian Federation,Tula,False,496656
 Europe,Russian Federation,Tver,False,407896
 Europe,Russian Federation,Tyumen,False,621918
 Europe,Russian Federation,Ufa,False,1075007
-Europe,Russian Federation,Uhta,False,99680
 Europe,Russian Federation,Ulan-Ude,False,413850
 Europe,Russian Federation,Ulyanovsk,False,614878
 Europe,Russian Federation,Ussuriisk,False,163465
@@ -3792,25 +3752,14 @@ Europe,Russian Federation,Yuzhno-Sakhalinsk,False,188242
 Europe,Russian Federation,Zheleznodorozhny,False,138814
 Europe,Russian Federation,Zhukovsky,False,106555
 Europe,Russian Federation,Zlatoust,False,172972
-Europe,San Marino,San Marino,True,4127
 Europe,Serbia,Beograd,True,1382045
-Europe,Serbia,Čačak,False,70675
 Europe,Serbia,Kragujevac,False,147786
-Europe,Serbia,Kraljevo,False,64150
-Europe,Serbia,Kruševac,False,55189
-Europe,Serbia,Leskovac,False,61581
 Europe,Serbia,Niš,False,183202
-Europe,Serbia,Novi Pazar,False,75166
 Europe,Serbia,Novi Sad,False,298469
-Europe,Serbia,Pancevo,False,87815
-Europe,Serbia,Šabac,False,51380
-Europe,Serbia,Smederevo,False,60263
 Europe,Serbia,Subotica,False,101920
-Europe,Serbia,Zrenjanin,False,71724
 Europe,Slovakia,Bratislava,True,435296
 Europe,Slovakia,Kosice,False,238676
 Europe,Slovenia,Ljubljana,True,285604
-Europe,Slovenia,Maribor,False,97019
 Europe,Spain,A Coruña,False,245541
 Europe,Spain,Albacete,False,172806
 Europe,Spain,Alcalá De Henares,False,195570
@@ -3885,19 +3834,11 @@ Europe,Sweden,Stockholm,True,789024
 Europe,Sweden,Umeå,False,111503
 Europe,Sweden,Uppsala,False,186364
 Europe,Sweden,Västerås,False,133324
-Europe,Switzerland,Baden-Brugg,False,32566
 Europe,Switzerland,Bâle,False,173064
 Europe,Switzerland,Berne,True,134290
-Europe,Switzerland,Biel/Bienne,False,55140
-Europe,Switzerland,Fribourg,False,37645
 Europe,Switzerland,Genève,False,203401
 Europe,Switzerland,Lausanne,False,140619
-Europe,Switzerland,Lugano,False,62123
-Europe,Switzerland,Luzern,False,82922
-Europe,Switzerland,Olten-Zofingen,False,30678
-Europe,Switzerland,St. Gallen,False,76328
 Europe,Switzerland,Winterthur,False,115129
-Europe,Switzerland,Zug,False,31345
 Europe,Switzerland,Zürich,False,423193
 Europe,Ukraine,Alchevsk,False,105580
 Europe,Ukraine,Berdyansk,False,106526
@@ -3969,7 +3910,6 @@ Europe,United Kingdom Of Great Britain And Northern Ireland,Sheffield,False,5180
 Europe,United Kingdom Of Great Britain And Northern Ireland,Southampton,False,253651
 Europe,United Kingdom Of Great Britain And Northern Ireland,Stoke-On-Trent,False,270726
 Europe,United Kingdom Of Great Britain And Northern Ireland,Wolverhampton,False,210319
-Oceania,American Samoa,Pago Pago,True,3656
 Oceania,Australia,Adelaide,False,1245011
 Oceania,Australia,Ballarat,False,105348
 Oceania,Australia,Bendigo,False,100649
@@ -3998,13 +3938,6 @@ Oceania,Australia,Sydney,False,4698656
 Oceania,Australia,Toowoomba,False,108398
 Oceania,Australia,Townsville,False,173724
 Oceania,Australia,Wollongong,False,280153
-Oceania,Cook Islands,Rarotonga,True,13007
-Oceania,Fiji,Suva,True,74481
-Oceania,French Polynesia,Papeete,True,26925
-Oceania,Guam,Agana,True,1051
-Oceania,Kiribati,Tarawa,True,63017
-Oceania,Marshall Islands,Majuro,True,27797
-Oceania,New Caledonia,Noumea,True,94285
 Oceania,New Zealand,Auckland,False,1715600
 Oceania,New Zealand,Christchurch,False,392100
 Oceania,New Zealand,Dunedin,False,133300
@@ -4013,14 +3946,4 @@ Oceania,New Zealand,Lower Hutt,False,112800
 Oceania,New Zealand,Napier-Hastings,False,156800
 Oceania,New Zealand,Tauranga,False,155200
 Oceania,New Zealand,Wellington,True,217000
-Oceania,Niue,Alofi,True,610
-Oceania,Northern Mariana Islands,Garapan,True,3983
-Oceania,Palau,Koror,True,11754
 Oceania,Papua New Guinea,Port Moresby,True,364125
-Oceania,Pitcairn,Adamstown,True,49
-Oceania,Samoa,Apia,True,35974
-Oceania,Solomon Islands,Honiara,True,64609
-Oceania,Tonga,Nuku'Alofa,True,34142
-Oceania,Tuvalu,Funafuti,True,6320
-Oceania,Vanuatu,Port Vila,True,49034
-Oceania,Wallis And Futuna Islands,Meta-Utu,True,1126
