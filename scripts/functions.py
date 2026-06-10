@@ -1,6 +1,8 @@
 import os
 import csv
 from tqdm import tqdm
+import time
+import copy
 import numpy as np
 import pandas as pd
 import geopandas as gpd
@@ -28,6 +30,7 @@ from matplotlib.ticker import MaxNLocator
 import re
 import subprocess
 import pycountry
+import openpyxl
 
 
 
@@ -159,3 +162,24 @@ def get_alpha2(country_name):
         return pycountry.countries.search_fuzzy(country_name)[0].alpha_2
     except LookupError:
         return None
+    
+def analyse_polygon(mp):
+    is_poly = True
+    geoms = 1
+    poly = None
+    if isinstance(mp, shapely.geometry.polygon.Polygon):
+        poly = copy.deepcopy(mp)
+    elif isinstance(mp, shapely.geometry.multipolygon.MultiPolygon):
+        geoms = len(mp.geoms)
+        largest_poly = max(mp.geoms, key=lambda a: a.area)
+        poly = copy.deepcopy(largest_poly)
+    else:
+        return False, 0, False, None
+
+
+    has_holes = False
+    poly_filled = fill_holes(poly)
+    if poly_filled != poly:
+        has_holes = True
+    
+    return is_poly, geoms, has_holes, poly_filled
