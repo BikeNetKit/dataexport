@@ -1,6 +1,6 @@
 name_en;country_en;nominatim_query
 Amsterdam;Netherlands;Amsterdam, North Holland
-Andorra la Vella;Andorra;Andorra
+Andorra la Vella;Andorra;Andorra la Vella
 Athens;Greece;Municipality of Athens
 Belgrade;Serbia;Belgrade
 Berlin;Germany;Berlin
@@ -17,7 +17,7 @@ Kyiv;Ukraine;Kyiv
 Lisbon;Portugal;Lisbon
 Ljubljana;Slovenia;Ljubljana
 London;United Kingdom;London
-Luxembourg;Luxembourg;Canton Luxembourg
+Luxembourg;Luxembourg;Luxembourg, Luxembourg
 Madrid;Spain;Madrid
 Minsk;Belarus;Minsk
 Oslo;Norway;Oslo
@@ -37,4 +37,4 @@ Tirana;Albania;Tirana
 Vienna;Austria;Vienna
 Vilnius;Lithuania;Vilnius
 Warsaw;Poland;Warsaw
-Zagreb;Croatia;Zagreb
+Zagreb;Croatia;Zagreb city
