@@ -1,0 +1,400 @@
+name_en;country_en;nominatim_query;alpha-2;population
+Aachen;Germany;Aachen;DE;247380.0
+Aix-En-Provence;France;Aix-En-Provence;FR;142668.0
+Alcalá De Henares;Spain;Alcalá De Henares;ES;195570.0
+Alchevsk;Ukraine;Alchevsk;UA;105580.0
+Alcobendas;Spain;Alcobendas;ES;116895.0
+Alcorcón;Spain;Alcorcón;ES;171575.0
+Alkmaar;Netherlands;Alkmaar;NL;107106.0
+Almere;Netherlands;Almere;NL;196932.0
+Almería;Spain;Almería;ES;200273.0
+Alphen Aan Den;Netherlands;Alphen Aan Den;NL;107396.0
+Amadora;Portugal;Amadora;PT;171454.0
+Amersfoort;Netherlands;Amersfoort 16;NL;152481.0
+Amiens;France;Amiens;FR;132874.0
+Amsterdam;Netherlands;Amsterdam, North Holland;NL;821752.0
+Anderlecht;Belgium;Anderlecht;BE;108940.0
+Andorra la Vella;Andorra;Andorra la Vella;AD;22205.0
+Angers;France;Angers;FR;151520.0
+Antwerp;Belgium;Antwerp;BE;498473.0
+Apeldoorn;Netherlands;Apeldoorn;NL;158099.0
+Argenteuil;France;Argenteuil;FR;110388.0
+Arnhem;Netherlands;Arnhem;NL;152293.0
+Athens;Greece;Municipality of Athens;GR;664046.0
+Augsburg;Germany;Augsburg;DE;295135.0
+Badalona;Spain;Badalona;ES;221750.0
+Banja Luka;Bosnia And Herzegovina;Banja Luka;BA;135059.0
+Baranovichi;Belarus;Baranovichi;BY;175050.0
+Barcelona;Spain;Barcelona;ES;1627559.0
+Bari;Italy;Bari;IT;316577.0
+Basel;Switzerland;Basel;CH;173064.0
+Belfast;United Kingdom;Belfast City District;GB;280211.0
+Belgrade;Serbia;Belgrade;RS;1382045.0
+Berdyansk;Ukraine;Berdyansk;UA;106526.0
+Bergamo;Italy;Bergamo;IT;119735.0
+Bergisch Gladbach;Germany;Bergisch Gladbach;DE;111966.0
+Berlin;Germany;Berlin;DE;3644826.0
+Bern;Switzerland;Bern;CH;134290.0
+Besançon;France;Besançon;FR;116676.0
+Bialystok;Poland;Bialystok;PL;295092.0
+Bielefeld;Germany;Bielefeld;DE;333786.0
+Bielsko-Biala;Poland;Bielsko-Biala;PL;168499.0
+Bila Tserkva;Ukraine;Bila Tserkva;UA;203344.0
+Birmingham;United Kingdom;Birmingham;GB;1085810.0
+Bobruisk;Belarus;Bobruisk;BY;212217.0
+Bochum;Germany;Bochum;DE;364628.0
+Bologna;Italy;Bologna;IT;389764.0
+Bonn;Germany;Bonn;DE;327258.0
+Bordeaux;France;Bordeaux;FR;249712.0
+Borisov;Belarus;Borisov;BY;140678.0
+Bottrop;Germany;Bottrop;DE;117383.0
+Boulogne-Billancourt;France;Boulogne-Billancourt;FR;117931.0
+Bournemouth;United Kingdom;Bournemouth;GB;187503.0
+Bratislava;Slovakia;Bratislava;SK;435296.0
+Braunschweig;Germany;Braunschweig;DE;248292.0
+Breda;Netherlands;Breda;NL;180937.0
+Bremen;Germany;Bremen;DE;569352.0
+Bremerhaven;Germany;Bremerhaven;DE;113634.0
+Brescia;Italy;Brescia, Brescia;IT;196605.0
+Brest;France;Brest;FR;139163.0
+Brest;Belarus;Brest, Belarus;BY;339519.0
+Brighton And Hove;United Kingdom;Brighton And Hove;GB;229700.0
+Bristol;United Kingdom;Bristol;GB;535907.0
+Brno;Czech Republic;Brno;CZ;398510.0
+Brovary;Ukraine;Brovary;UA;109154.0
+Bruges;Belgium;Bruges;BE;117260.0
+Brussels;Belgium;Brussels;BE;174383.0
+Bucharest;Romania;Bucharest;RO;1722865.0
+Budapest;Hungary;Budapest;HU;1737026.0
+Bydgoszcz;Poland;Bydgoszcz;PL;347716.0
+Bytom;Poland;Bytom;PL;162766.0
+Caen;France;Caen;FR;106260.0
+Cagliari;Italy;Cagliari;IT;149332.0
+Castelló De La Plana;Spain;Castelló De La Plana;ES;172637.0
+Charleroi;Belgium;Charleroi;BE;204150.0
+Chemnitz;Germany;Chemnitz;DE;247237.0
+Cherkasy;Ukraine;Cherkasy, Cherkasy;UA;267361.0
+Chernihiv;Ukraine;Chernihiv, Chernihiv;UA;276927.0
+Chernivtsi;Ukraine;Chernivtsi;UA;260540.0
+Chișinău;Moldova;Chișinău;MD;339079.0
+Chorzów;Poland;Chorzów;PL;106717.0
+Clermont-Ferrand;France;Clermont-Ferrand;FR;141398.0
+Cologne;Germany;Cologne;DE;1085664.0
+Copenhagen;Denmark;;DK;638790.0
+Cork;Ireland;Cork;IE;124391.0
+Cottbus;Germany;Cottbus;DE;100219.0
+Coventry;United Kingdom;Coventry, United Kingdom;GB;325949.0
+Czestochowa;Poland;Czestochowa;PL;218812.0
+Dabrowa Górnicza;Poland;Dabrowa Górnicza;PL;118003.0
+Darmstadt;Germany;Darmstadt;DE;159207.0
+Debrecen;Hungary;Debrecen;HU;201043.0
+Delft;Netherlands;Delft;NL;101030.0
+Derby;United Kingdom;Derby;GB;255394.0
+Dijon;France;Dijon;FR;155114.0
+Dnipro;Ukraine;Dnipro;UA;958377.0
+Donetsk;Ukraine;Donetsk, Donetsk;UA;892980.0
+Dordrecht;Netherlands;Dordrecht;NL;118899.0
+Dortmund;Germany;Dortmund;DE;587010.0
+Dresden;Germany;Dresden;DE;554649.0
+Dublin;Ireland;Dublin;IE;544107.0
+Duisburg;Germany;Duisburg;DE;498590.0
+Durrës;Albania;Durrës, Bashkia Durrës, Northern Albania;AL;113249.0
+Düsseldorf;Germany;Düsseldorf;DE;619294.0
+Ede;Netherlands;Ede 16, Netherlands;NL;111575.0
+Eindhoven;Netherlands;Eindhoven;NL;223209.0
+Elblag;Poland;Elblag;PL;117164.0
+Emmen;Netherlands;Emmen 16;NL;107775.0
+Enschede;Netherlands;Enschede;NL;158553.0
+Erfurt;Germany;Erfurt;DE;213699.0
+Erlangen;Germany;Erlangen;DE;111962.0
+Espoo;Finland;Espoo;FI;292796.0
+Essen;Germany;Essen;DE;583109.0
+Florence;Italy;Florence;IT;365019.0
+Frankfurt Am Main;Germany;Frankfurt Am Main;DE;753056.0
+Frederiksberg;Denmark;Frederiksberg Municipality;DK;102940.0
+Freiburg Im Breisgau;Germany;Freiburg Im Breisgau;DE;230241.0
+Funchal;Portugal;Funchal;PT;105701.0
+Fürth;Germany;Fürth;DE;127748.0
+Gdansk;Poland;Gdansk;PL;472094.0
+Gdynia;Poland;Gdynia;PL;243124.0
+Gelsenkirchen;Germany;Gelsenkirchen;DE;260654.0
+Geneva;Switzerland;Geneva;CH;203401.0
+Ghent;Belgium;Ghent;BE;248358.0
+Glasgow;United Kingdom;Glasgow City;GB;1209143.0
+Gliwice;Poland;Gliwice;PL;177056.0
+Gomel;Belarus;Gomel;BY;510243.0
+Gorzów Wielkopolski;Poland;Gorzów Wielkopolski;PL;121878.0
+Gothenburg;Sweden;Göteborg;SE;491629.0
+Graz;Austria;Graz;AT;288806.0
+Grenoble;France;Grenoble;FR;160649.0
+Grodno;Belarus;Grodno;BY;356686.0
+Groningen;Netherlands;Groningen;NL;200336.0
+Györ;Hungary;Györ;HU;133340.0
+Göttingen;Germany;Göttingen;DE;119801.0
+Gütersloh;Germany;Gütersloh;DE;100194.0
+Haarlem;Netherlands;Haarlem;NL;156645.0
+Haarlemmermeer;Netherlands;Haarlemmermeer;NL;144152.0
+Hagen;Germany;Hagen;DE;188814.0
+Halle;Germany;Halle;DE;239257.0
+Hamburg;Germany;Hamburg;DE;1841179.0
+Hamm;Germany;Hamm;DE;179111.0
+Hanover;Germany;Hanover;DE;538068.0
+Heidelberg;Germany;Heidelberg;DE;160355.0
+Heilbronn;Germany;Heilbronn;DE;125960.0
+Helsinki;Finland;Helsinki;FI;656920.0
+Herne;Germany;Herne;DE;156374.0
+Hildesheim;Germany;Hildesheim;DE;101990.0
+Horlivka;Ukraine;Horlivka;UA;237640.0
+Ingolstadt;Germany;Ingolstadt;DE;136981.0
+Innsbruck;Austria;Innsbruck;AT;132110.0
+Ivano-Frankivsk;Ukraine;Ivano-Frankivsk, Ivano-Frankivsk;UA;235343.0
+Jena;Germany;Jena;DE;111407.0
+Jyvaskyla;Finland;Jyvaskyla;FI;143420.0
+Kallithea;Greece;Καλλιθέα;GR;100641.0
+Kamenets Podolsky;Ukraine;Kamenets Podolsky;UA;226295.0
+Kamyanske;Ukraine;Kamyanske;UA;226295.0
+Karlsruhe;Germany;Karlsruhe;DE;313092.0
+Kassel;Germany;Kassel;DE;201585.0
+Katowice;Poland;Katowice;PL;296468.0
+Kaunas;Lithuania;Kaunas;LT;298753.0
+Kecskemét;Hungary;Kecskemét;HU;110012.0
+Kharkiv;Ukraine;Kharkiv;UA;1401558.0
+Kherson;Ukraine;Kherson, Kherson;UA;275529.0
+Khmelnitsky;Ukraine;Khmelnytskyi, Khmelnytskyi;UA;271618.0
+Kiel;Germany;Kiel;DE;247548.0
+Kielce;Poland;Kielce;PL;192650.0
+Kingston-Upon-Hull;United Kingdom;Kingston-Upon-Hull;GB;284321.0
+Klagenfurt;Austria;Klagenfurt;AT;100817.0
+Klaipeda;Lithuania;Klaipeda;LT;152008.0
+Koblenz;Germany;Koblenz;DE;114024.0
+Kosice;Slovakia;Kosice;SK;238676.0
+Koszalin;Poland;Koszalin;PL;105714.0
+Kragujevac;Serbia;Kragujevac;RS;147786.0
+Krakow;Poland;Krakow;PL;777520.0
+Kramatorsk;Ukraine;Kramatorsk;UA;146693.0
+Krefeld;Germany;Krefeld;DE;227020.0
+Kremenchuk;Ukraine;Kremenchuk;UA;214291.0
+Kropyvnytskyi;Ukraine;Kropyvnytskyi;UA;216535.0
+Kryvyi Rih;Ukraine;Kryvyi Rih;UA;602390.0
+Kuopio;Finland;Kuopio;FI;120210.0
+Kyiv;Ukraine;Kyiv;UA;2910994.0
+L'Hospitalet De Llobregat;Spain;L'Hospitalet De Llobregat;ES;265003.0
+Lahti;Finland;Lahti;FI;119984.0
+Lausanne;Switzerland;Lausanne;CH;140619.0
+Le Havre;France;Le Havre;FR;172366.0
+Le Mans;France;Le Mans;FR;143325.0
+Leeuwarden;Netherlands;Leeuwarden;NL;107691.0
+Leicester;United Kingdom;Leicester City;GB;443760.0
+Leiden;Netherlands;Leiden;NL;121562.0
+Leipzig;Germany;Leipzig;DE;587857.0
+Leverkusen;Germany;Leverkusen;DE;163838.0
+León;Spain;León 16, Spain;ES;122398.0
+Liberec;Czech Republic;Liberec;CZ;104340.0
+Lida;Belarus;Lida, Belarus;BY;102794.0
+Lille;France;Lille;FR;232741.0
+Limoges;France;Limoges;FR;133627.0
+Linz;Austria;Linz;AT;205726.0
+Lisbon;Portugal;Lisbon;PT;545142.0
+Liverpool;United Kingdom;Liverpool;GB;552267.0
+Livorno;Italy;Livorno, Livorno;IT;154927.0
+Liège;Belgium;Liège;BE;195965.0
+Ljubljana;Slovenia;Ljubljana;SI;285604.0
+Lodz;Poland;Lodz;PL;677864.0
+London;United Kingdom;London;GB;8135667.0
+Lublin;Poland;Lublin, Lublin Voivodeship;PL;341591.0
+Ludwigshafen Am Rhein;Germany;Ludwigshafen Am Rhein;DE;171061.0
+Luhansk;Ukraine;Luhansk, Luhansk;UA;394202.0
+Luton;United Kingdom;Luton;GB;211228.0
+Luts'K;Ukraine;Lutsk;UA;212903.0
+Luxembourg;Luxembourg;Luxembourg, Luxembourg;LU;128494.0
+Lviv;Ukraine;Lviv;UA;710606.0
+Lyon;France;Lyon;FR;513275.0
+Lübeck;Germany;Lübeck;DE;217198.0
+Maastricht;Netherlands;Maastricht;NL;122397.0
+Madrid;Spain;Madrid;ES;3277451.0
+Magdeburg;Germany;Magdeburg;DE;238697.0
+Mainz;Germany;Mainz;DE;217118.0
+Makijivka;Ukraine;Makijivka;UA;337277.0
+Malmo;Sweden;Malmo;SE;278522.0
+Manchester;United Kingdom;Manchester;GB;510746.0
+Mannheim;Germany;Mannheim;DE;309370.0
+Marbella;Spain;Marbella;ES;149032.0
+Mariupol;Ukraine;Mariupol;UA;422286.0
+Marseille;France;Marseille;FR;861635.0
+Melitopol;Ukraine;Melitopol;UA;148698.0
+Messina;Italy;Messina;IT;221788.0
+Metz;France;Metz;FR;117492.0
+Milan;Italy;Milan;IT;1362256.0
+Minsk;Belarus;Minsk;BY;2020133.0
+Miskolc;Hungary;Miskolc;HU;151798.0
+Moers;Germany;Moers;DE;103725.0
+Mogilev;Belarus;Mogilev;BY;357184.0
+Montpellier;France;Montpellier;FR;277639.0
+Montreuil;France;Montreuil, Ile-de-France;FR;106691.0
+Monza;Italy;Monza, Monza;IT;122253.0
+Mozir;Belarus;Mozir;BY;105690.0
+Mulhouse;France;Mulhouse;FR;110370.0
+Munich;Germany;Munich;DE;1471508.0
+Mykolaiv;Ukraine;Mykolaiv;UA;465516.0
+Mönchengladbach;Germany;Mönchengladbach;DE;261454.0
+Mülheim An Der Ruhr;Germany;Mülheim An Der Ruhr;DE;170880.0
+Münster;Germany;Münster;DE;314319.0
+Namur;Belgium;Namur;BE;110175.0
+Nancy;France;Nancy;FR;105162.0
+Nantes;France;Nantes;FR;303382.0
+Naples;Italy;Naples;IT;921618.0
+Neuss;Germany;Neuss;DE;153796.0
+Newcastle-Upon-Tyne;United Kingdom;Newcastle-Upon-Tyne;GB;268064.0
+Nice;France;Nice;FR;342522.0
+Nijmegen;Netherlands;Nijmegen;NL;170681.0
+Nikopol;Ukraine;Nikopol;UA;107214.0
+Nis;Serbia;Nis, Serbia;RS;183202.0
+Northampton;United Kingdom;Northampton;GB;215173.0
+Nottingham;United Kingdom;Nottingham;GB;289301.0
+Novi Sad;Serbia;Novi Sad;RS;298469.0
+Nuremberg;Germany;Nuremberg;DE;518365.0
+Nyiregyhaza;Hungary;Nyiregyhaza;HU;116684.0
+Nîmes;France;Nîmes, France;FR;150672.0
+Oberhausen;Germany;Oberhausen;DE;210829.0
+Odense;Denmark;Odense Municipality;DK;204795.0
+Odessa;Ukraine;Odessa;UA;992874.0
+Offenbach Am Main;Germany;Offenbach Am Main;DE;128744.0
+Oldenburg;Germany;Oldenburg;DE;168210.0
+Olomouc;Czech Republic;Olomouc;CZ;106063.0
+Olsztyn;Poland;Olsztyn;PL;173624.0
+Opole;Poland;Opole, Opole Voivodeship;PL;127198.0
+Orléans;France;Orléans;FR;114644.0
+Orsha;Belarus;Orsha;BY;107645.0
+Osijek;Croatia;Osijek;HR;108048.0
+Oslo;Norway;Oslo;NO;681067.0
+Osnabrück;Germany;Osnabrück;DE;164748.0
+Ostrava;Czech Republic;Ostrava;CZ;282450.0
+Oulu;Finland;Oulu;FI;207327.0
+Paderborn;Germany;Paderborn;DE;150580.0
+Padua;Italy;Padua, Padua;IT;208191.0
+Pamplona/Iruña;Spain;Pamplona/Iruña;ES;203596.0
+Paris;France;Paris;FR;2206488.0
+Parla;Spain;Parla;ES;130550.0
+Pavlograd;Ukraine;Pavlograd;UA;102373.0
+Peristeri;Greece;Peristeri;GR;139981.0
+Perpignan;France;Perpignan;FR;121934.0
+Pescara;Italy;Pescara, Pescara;IT;118879.0
+Pforzheim;Germany;Pforzheim;DE;125542.0
+Pilsen;Czech Republic;Pilsen;CZ;174007.0
+Pinsk;Belarus;Pinsk;BY;126289.0
+Piraeus;Greece;Πειραιάς;GR;163688.0
+Plock;Poland;Plock;PL;117771.0
+Plovdiv;Bulgaria;Plovdiv, Plovdiv;BG;342048.0
+Plymouth;United Kingdom;Plymouth;GB;234982.0
+Podgorica;Montenegro;Podgorica;ME;185937.0
+Poltava;Ukraine;Poltava, Poltava;UA;272572.0
+Porto;Portugal;Oporto;PT;231800.0
+Portsmouth;United Kingdom;Portsmouth;GB;238137.0
+Potsdam;Germany;Potsdam;DE;178089.0
+Poznan;Poland;Poznan;PL;533773.0
+Prague;Czech Republic;Prague;CZ;1301432.0
+Prato;Italy;Prato, Prato;IT;198312.0
+Pristina;Kosovo;Pristina;RS;161751.0
+Pécs;Hungary;Pécs;HU;141040.0
+Radom;Poland;Radom;PL;208587.0
+Reading;United Kingdom;Reading;GB;218705.0
+Recklinghausen;Germany;Recklinghausen;DE;112267.0
+Regensburg;Germany;Regensburg;DE;152610.0
+Reims;France;Reims;FR;184076.0
+Remscheid;Germany;Remscheid;DE;110994.0
+Rennes;France;Rennes;FR;215366.0
+Reutlingen;Germany;Reutlingen;DE;115966.0
+Reykjavík;Iceland;Reykjavík;IS;129964.0
+Riga;Latvia;Riga;LV;614618.0
+Rijeka;Croatia;Rijeka;HR;128624.0
+Rivne;Ukraine;Rivne, Rivne;UA;240451.0
+Rome;Italy;Rome;IT;2759629.0
+Rostock;Germany;Rostock;DE;208886.0
+Rotterdam;Netherlands;Rotterdam;NL;623652.0
+Rouen;France;Rouen;FR;110169.0
+Ruda Slaska;Poland;Ruda Slaska;PL;135965.0
+Ruse;Bulgaria;Ruse;BG;135440.0
+Rybnik;Poland;Rybnik;PL;136299.0
+Rzeszów;Poland;Rzeszów;PL;194775.0
+S-Hertogenbosch;Netherlands;S-Hertogenbosch;NL;150889.0
+Saarbrücken;Germany;Saarbrücken;DE;180741.0
+Saint-Denis;France;Saint-Denis;FR;111103.0
+Saint-Étienne;France;Saint-Étienne;FR;171057.0
+Salamanca;Spain;Salamanca;ES;143549.0
+Salzburg;Austria;Salzburg;AT;154211.0
+Salzgitter;Germany;Salzgitter;DE;104948.0
+Santa Coloma De Gramenet;Spain;Santa Coloma De Gramenet;ES;118489.0
+Sarajevo;Bosnia and Herzegovina;Sarajevo;BA;348363.0
+Schaerbeek;Belgium;Schaerbeek;BE;127525.0
+Seville;Spain;Seville;ES;684340.0
+Sheffield;United Kingdom;Sheffield;GB;518090.0
+Siegen;Germany;Siegen, Germany;DE;102836.0
+Skopje;North Macedonia;Skopje;MK;546824.0
+Slovyansk;Ukraine;Slovyansk;UA;103029.0
+Sofia;Bulgaria;Sofia;BG;1221785.0
+Soligorsk;Belarus;Soligorsk;BY;101525.0
+Solingen;Germany;Solingen;DE;159360.0
+Sosnowiec;Poland;Sosnowiec;PL;197563.0
+Southampton;United Kingdom;Southampton;GB;253651.0
+Split;Croatia;Split;HR;178102.0
+Stockholm;Sweden;Stockholm;SE;789024.0
+Stoke-On-Trent;United Kingdom;Stoke-On-Trent;GB;270726.0
+Strasbourg;France;Strasbourg;FR;277270.0
+Stuttgart;Germany;Stuttgart;DE;634830.0
+Sumy;Ukraine;Sumy, Sumy;UA;255672.0
+Szczecin;Poland;Szczecin;PL;399831.0
+Szeged;Hungary;Szeged;HU;159666.0
+Tallinn;Estonia;Tallinn;EE;437817.0
+Tampere;Finland;Tampere;FI;241009.0
+Tarnów;Poland;Tarnów;PL;105101.0
+Ternopil;Ukraine;Ternopil, Ternopil;UA;223522.0
+The Hague;Netherlands;The Hague;NL;514861.0
+Thessaloniki;Greece;Thessaloniki Municipal Unit;GR;315196.0
+Tilburg;Netherlands;Tilburg;NL;211648.0
+Tirana;Albania;Tirana;AL;418495.0
+Torrejón De Ardoz;Spain;Torrejón De Ardoz;ES;133377.0
+Torun;Poland;Torun;PL;198628.0
+Toulon;France;Toulon;FR;167479.0
+Toulouse;France;Toulouse;FR;471941.0
+Tours;France;Tours;FR;136252.0
+Trier;Germany;Trier;DE;110636.0
+Turin;Italy;Turin;IT;853477.0
+Turku;Finland;Turku;FI;194391.0
+Tychy;Poland;Tychy;PL;125892.0
+Ulm;Germany;Ulm;DE;126329.0
+Umeå;Sweden;Umeå;SE;111503.0
+Utrecht;Netherlands;Utrecht;NL;334176.0
+Uzhhorod;Ukraine;Uzhhorod Urban Hromada;UA;113889.0
+Valencia;Spain;Valencia;ES;788842.0
+Valladolid;Spain;Valladolid;ES;297370.0
+Vantaa;Finland;Vantaa;FI;237231.0
+Varna;Bulgaria;Varna;BG;332394.0
+Venice;Italy;Venice;IT;254014.0
+Venlo;Netherlands;Venlo;NL;100536.0
+Vienna;Austria;Vienna;AT;1897491.0
+Vigo;Spain;Vigo;ES;294650.0
+Villeurbanne;France;Villeurbanne;FR;148665.0
+Vilnius;Lithuania;Vilnius;LT;546155.0
+Vinnytsia;Ukraine;Vinnytsia, Vinnytsia;UA;367901.0
+Vitebsk;Belarus;Vitebsk, Vitebsk;BY;364862.0
+Walbrzych;Poland;Walbrzych;PL;109252.0
+Warsaw;Poland;Warsaw;PL;1792692.0
+Westland;Netherlands;Westland, Netherlands;NL;104302.0
+Wiesbaden;Germany;Wiesbaden;DE;278342.0
+Winterthur;Switzerland;Winterthur;CH;115129.0
+Wloclawek;Poland;Wloclawek;PL;107796.0
+Wolfsburg;Germany;Wolfsburg;DE;124151.0
+Wolverhampton;United Kingdom;Wolverhampton;GB;210319.0
+Wroclaw;Poland;Wroclaw;PL;642473.0
+Wuppertal;Germany;Wuppertal;DE;354382.0
+Würzburg;Germany;Würzburg;DE;127880.0
+Zaanstad;Netherlands;Zaanstad;NL;151418.0
+Zabrze;Poland;Zabrze;PL;169736.0
+Zagreb;Croatia;Zagreb city;HR;790017.0
+Zaporizhzhia;Ukraine;Zaporizhzhia;UA;706116.0
+Zhytomyr;Ukraine;Zhytomyr, Zhytomyr;UA;260367.0
+Zielona Góra;Poland;Zielona Góra;PL;141631.0
+Zoetermeer;Netherlands;Zoetermeer;NL;124025.0
+Zurich;Switzerland;Zurich;CH;423193.0
+Zwolle;Netherlands;Zwolle;NL;123861.0
+Šiauliai;Lithuania;Šiauliai;LT;100653.0
