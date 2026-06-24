@@ -28,9 +28,9 @@ Examples
 """
 
 # WHICH DATA TO EXPORT?
-export_seed_point_type = ["grid", "rail"] # Full array: ["grid", "rail"]
+export_seed_point_type = ["grid", "rail", "school"] # Full array: ["grid", "rail", "school"]
 export_ranking = ["betweenness_centrality", "closeness_centrality"] # Full array: ["betweenness_centrality", "closeness_centrality", "random""]
-export_existing_network_spacing = [None, 500] # Full array: [None, 500]
+export_existing_network_spacing = [None, 'auto'] # Full array: [None, 'auto']
 
 # Main
 import growbikenet as gbn

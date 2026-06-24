@@ -6,7 +6,7 @@ import pandas as pd
 import os
 from slugify import slugify
 
-df = pd.read_csv('./cities/european_capitals.csv', 
+df = pd.read_csv('./cities/european_capitalsand100000pop.csv', 
                    sep = ';',)
 
 for nominatimstring, city_name in zip(list(df.nominatim_query), list(df.name_en)):
