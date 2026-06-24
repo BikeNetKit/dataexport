@@ -1,5 +1,10 @@
 import os
 import csv
+from tqdm import tqdm
+import time
+import copy
+import subprocess
+import plistlib
 import numpy as np
 import pandas as pd
 import geopandas as gpd
@@ -22,6 +27,13 @@ from matplotlib import cm
 import matplotlib
 from matplotlib.collections import PatchCollection
 from matplotlib.ticker import MaxNLocator
+
+# Data processing
+import re
+import subprocess
+import pycountry
+import openpyxl
+import shutil
 
 
 
@@ -147,3 +159,65 @@ def get_holes(cov):
     elif isinstance(cov, shapely.geometry.polygon.Polygon) and not cov.is_empty:
         holes.append(cov.interiors)
     return holes
+
+def get_alpha2(country_name):
+    try:
+        return pycountry.countries.search_fuzzy(country_name)[0].alpha_2
+    except LookupError:
+        return None
+    
+def analyse_polygon(mp):
+    is_poly = True
+    geoms = 1
+    poly = None
+    if isinstance(mp, shapely.geometry.polygon.Polygon):
+        poly = copy.deepcopy(mp)
+    elif isinstance(mp, shapely.geometry.multipolygon.MultiPolygon):
+        geoms = len(mp.geoms)
+        largest_poly = max(mp.geoms, key=lambda a: a.area)
+        poly = copy.deepcopy(largest_poly)
+    else:
+        return False, 0, False, None
+
+
+    has_holes = False
+    poly_filled = fill_holes(poly)
+    if poly_filled != poly:
+        has_holes = True
+    
+    return is_poly, geoms, has_holes, poly_filled
+
+def get_tags(filepath):
+    """
+    Returns a list of macOS Finder tags for a given file.
+    """
+    if not os.path.exists(filepath):
+        print(f"File not found: {filepath}")
+        return []
+    
+    try:
+        result = subprocess.run(
+            ['mdls', '-raw', '-name', 'kMDItemUserTags', filepath],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            check=True
+        )
+        
+        # Decode bytes to string
+        output = result.stdout.decode('utf-8').strip()
+        
+        # Handle files with no tags
+        if not output or 'null' in output or output == '()':
+            return []
+            
+        # Clean up macOS formatting characters: ( ) \n " and non-breaking spaces (\xa0)
+        output = output.replace('(', '').replace(')', '').replace('"', '')
+        
+        # Split lines, strip spaces, and filter out any empty strings
+        tags = [tag.strip() for tag in output.split('\n') if tag.strip()]
+        
+        return tags
+        
+    except Exception as e:
+        print(f"Error reading tags: {e}")
+        return []

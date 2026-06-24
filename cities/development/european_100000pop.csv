@@ -1,0 +1,361 @@
+name_en;country_en;nominatim_query;alpha-2;population
+Aachen;Germany;Aachen;DE;247380
+Aix-En-Provence;France;Aix-En-Provence;FR;142668
+Alcalá De Henares;Spain;Alcalá De Henares;ES;195570
+Alchevsk;Ukraine;Alchevsk;UA;105580
+Alcobendas;Spain;Alcobendas;ES;116895
+Alcorcón;Spain;Alcorcón;ES;171575
+Alkmaar;Netherlands;Alkmaar;NL;107106
+Almere;Netherlands;Almere;NL;196932
+Almería;Spain;Almería;ES;200273
+Alphen Aan Den;Netherlands;Alphen Aan Den;NL;107396
+Amadora;Portugal;Amadora;PT;171454
+Amersfoort;Netherlands;Amersfoort 16;NL;152481
+Amiens;France;Amiens;FR;132874
+Anderlecht;Belgium;Anderlecht;BE;108940
+Angers;France;Angers;FR;151520
+Antwerp;Belgium;Antwerp;BE;498473
+Apeldoorn;Netherlands;Apeldoorn;NL;158099
+Argenteuil;France;Argenteuil;FR;110388
+Arnhem;Netherlands;Arnhem;NL;152293
+Augsburg;Germany;Augsburg;DE;295135
+Badalona;Spain;Badalona;ES;221750
+Banja Luka;Bosnia And Herzegovina;Banja Luka;BA;135059
+Baranovichi;Belarus;Baranovichi;BY;175050
+Barcelona;Spain;Barcelona;ES;1627559
+Bari;Italy;Bari;IT;316577
+Basel;Switzerland;Basel;CH;173064
+Belfast;United Kingdom;Belfast City District;GB;280211
+Berdyansk;Ukraine;Berdyansk;UA;106526
+Bergamo;Italy;Bergamo;IT;119735
+Bergisch Gladbach;Germany;Bergisch Gladbach;DE;111966
+Besançon;France;Besançon;FR;116676
+Bialystok;Poland;Bialystok;PL;295092
+Bielefeld;Germany;Bielefeld;DE;333786
+Bielsko-Biala;Poland;Bielsko-Biala;PL;168499
+Bila Tserkva;Ukraine;Bila Tserkva;UA;203344
+Birmingham;United Kingdom;Birmingham;GB;1085810
+Bobruisk;Belarus;Bobruisk;BY;212217
+Bochum;Germany;Bochum;DE;364628
+Bologna;Italy;Bologna;IT;389764
+Bonn;Germany;Bonn;DE;327258
+Bordeaux;France;Bordeaux;FR;249712
+Borisov;Belarus;Borisov;BY;140678
+Bottrop;Germany;Bottrop;DE;117383
+Boulogne-Billancourt;France;Boulogne-Billancourt;FR;117931
+Bournemouth;United Kingdom;Bournemouth;GB;187503
+Braunschweig;Germany;Braunschweig;DE;248292
+Breda;Netherlands;Breda;NL;180937
+Bremen;Germany;Bremen;DE;569352
+Bremerhaven;Germany;Bremerhaven;DE;113634
+Brescia;Italy;Brescia, Brescia;IT;196605
+Brest;France;Brest;FR;139163
+Brest;Belarus;Brest, Belarus;BY;339519
+Brighton And Hove;United Kingdom;Brighton And Hove;GB;229700
+Bristol;United Kingdom;Bristol;GB;535907
+Brno;Czech Republic;Brno;CZ;398510
+Brovary;Ukraine;Brovary;UA;109154
+Bruges;Belgium;Bruges;BE;117260
+Bydgoszcz;Poland;Bydgoszcz;PL;347716
+Bytom;Poland;Bytom;PL;162766
+Caen;France;Caen;FR;106260
+Cagliari;Italy;Cagliari;IT;149332
+Castelló De La Plana;Spain;Castelló De La Plana;ES;172637
+Charleroi;Belgium;Charleroi;BE;204150
+Chemnitz;Germany;Chemnitz;DE;247237
+Cherkasy;Ukraine;Cherkasy, Cherkasy;UA;267361
+Chernihiv;Ukraine;Chernihiv, Chernihiv;UA;276927
+Chernivtsi;Ukraine;Chernivtsi;UA;260540
+Chorzów;Poland;Chorzów;PL;106717
+Clermont-Ferrand;France;Clermont-Ferrand;FR;141398
+Cologne;Germany;Cologne;DE;1085664
+Cork;Ireland;Cork;IE;124391
+Cottbus;Germany;Cottbus;DE;100219
+Coventry;United Kingdom;Coventry, United Kingdom;GB;325949
+Czestochowa;Poland;Czestochowa;PL;218812
+Dabrowa Górnicza;Poland;Dabrowa Górnicza;PL;118003
+Darmstadt;Germany;Darmstadt;DE;159207
+Debrecen;Hungary;Debrecen;HU;201043
+Delft;Netherlands;Delft;NL;101030
+Derby;United Kingdom;Derby;GB;255394
+Dijon;France;Dijon;FR;155114
+Dnipro;Ukraine;Dnipro;UA;958377
+Donetsk;Ukraine;Donetsk, Donetsk;UA;892980
+Dordrecht;Netherlands;Dordrecht;NL;118899
+Dortmund;Germany;Dortmund;DE;587010
+Dresden;Germany;Dresden;DE;554649
+Duisburg;Germany;Duisburg;DE;498590
+Durrës;Albania;Durrës, Bashkia Durrës, Northern Albania;AL;113249
+Düsseldorf;Germany;Düsseldorf;DE;619294
+Ede;Netherlands;Ede 16, Netherlands;NL;111575
+Eindhoven;Netherlands;Eindhoven;NL;223209
+Elblag;Poland;Elblag;PL;117164
+Emmen;Netherlands;Emmen 16;NL;107775
+Enschede;Netherlands;Enschede;NL;158553
+Erfurt;Germany;Erfurt;DE;213699
+Erlangen;Germany;Erlangen;DE;111962
+Espoo;Finland;Espoo;FI;292796
+Essen;Germany;Essen;DE;583109
+Florence;Italy;Florence;IT;365019
+Frankfurt Am Main;Germany;Frankfurt Am Main;DE;753056
+Frederiksberg;Denmark;Frederiksberg Municipality;DK;102940
+Freiburg Im Breisgau;Germany;Freiburg Im Breisgau;DE;230241
+Funchal;Portugal;Funchal;PT;105701
+Fürth;Germany;Fürth;DE;127748
+Gdansk;Poland;Gdansk;PL;472094
+Gdynia;Poland;Gdynia;PL;243124
+Gelsenkirchen;Germany;Gelsenkirchen;DE;260654
+Geneva;Switzerland;Geneva;CH;203401
+Ghent;Belgium;Ghent;BE;248358
+Glasgow;United Kingdom;Glasgow City;GB;1209143
+Gliwice;Poland;Gliwice;PL;177056
+Gomel;Belarus;Gomel;BY;510243
+Gorzów Wielkopolski;Poland;Gorzów Wielkopolski;PL;121878
+Gothenburg;Sweden;Göteborg;SE;491629
+Graz;Austria;Graz;AT;288806
+Grenoble;France;Grenoble;FR;160649
+Grodno;Belarus;Grodno;BY;356686
+Groningen;Netherlands;Groningen;NL;200336
+Györ;Hungary;Györ;HU;133340
+Göttingen;Germany;Göttingen;DE;119801
+Gütersloh;Germany;Gütersloh;DE;100194
+Haarlem;Netherlands;Haarlem;NL;156645
+Haarlemmermeer;Netherlands;Haarlemmermeer;NL;144152
+Hagen;Germany;Hagen;DE;188814
+Halle;Germany;Halle;DE;239257
+Hamburg;Germany;Hamburg;DE;1841179
+Hamm;Germany;Hamm;DE;179111
+Hanover;Germany;Hanover;DE;538068
+Heidelberg;Germany;Heidelberg;DE;160355
+Heilbronn;Germany;Heilbronn;DE;125960
+Herne;Germany;Herne;DE;156374
+Hildesheim;Germany;Hildesheim;DE;101990
+Horlivka;Ukraine;Horlivka;UA;237640
+Ingolstadt;Germany;Ingolstadt;DE;136981
+Innsbruck;Austria;Innsbruck;AT;132110
+Ivano-Frankivsk;Ukraine;Ivano-Frankivsk, Ivano-Frankivsk;UA;235343
+Jena;Germany;Jena;DE;111407
+Jyvaskyla;Finland;Jyvaskyla;FI;143420
+Kallithea;Greece;Καλλιθέα;GR;100641
+Kamenets Podolsky;Ukraine;Kamenets Podolsky;UA;226295
+Kamyanske;Ukraine;Kamyanske;UA;226295
+Karlsruhe;Germany;Karlsruhe;DE;313092
+Kassel;Germany;Kassel;DE;201585
+Katowice;Poland;Katowice;PL;296468
+Kaunas;Lithuania;Kaunas;LT;298753
+Kecskemét;Hungary;Kecskemét;HU;110012
+Kharkiv;Ukraine;Kharkiv;UA;1401558
+Kherson;Ukraine;Kherson, Kherson;UA;275529
+Khmelnitsky;Ukraine;Khmelnytskyi, Khmelnytskyi;UA;271618
+Kiel;Germany;Kiel;DE;247548
+Kielce;Poland;Kielce;PL;192650
+Kingston-Upon-Hull;United Kingdom;Kingston-Upon-Hull;GB;284321
+Klagenfurt;Austria;Klagenfurt;AT;100817
+Klaipeda;Lithuania;Klaipeda;LT;152008
+Koblenz;Germany;Koblenz;DE;114024
+Kosice;Slovakia;Kosice;SK;238676
+Koszalin;Poland;Koszalin;PL;105714
+Kragujevac;Serbia;Kragujevac;RS;147786
+Krakow;Poland;Krakow;PL;777520
+Kramatorsk;Ukraine;Kramatorsk;UA;146693
+Krefeld;Germany;Krefeld;DE;227020
+Kremenchuk;Ukraine;Kremenchuk;UA;214291
+Kropyvnytskyi;Ukraine;Kropyvnytskyi;UA;216535
+Kryvyi Rih;Ukraine;Kryvyi Rih;UA;602390
+Kuopio;Finland;Kuopio;FI;120210
+L'Hospitalet De Llobregat;Spain;L'Hospitalet De Llobregat;ES;265003
+Lahti;Finland;Lahti;FI;119984
+Lausanne;Switzerland;Lausanne;CH;140619
+Le Havre;France;Le Havre;FR;172366
+Le Mans;France;Le Mans;FR;143325
+Leeuwarden;Netherlands;Leeuwarden;NL;107691
+Leicester;United Kingdom;Leicester City;GB;443760
+Leiden;Netherlands;Leiden;NL;121562
+Leipzig;Germany;Leipzig;DE;587857
+Leverkusen;Germany;Leverkusen;DE;163838
+León;Spain;León 16, Spain;ES;122398
+Liberec;Czech Republic;Liberec;CZ;104340
+Lida;Belarus;Lida, Belarus;BY;102794
+Lille;France;Lille;FR;232741
+Limoges;France;Limoges;FR;133627
+Linz;Austria;Linz;AT;205726
+Liverpool;United Kingdom;Liverpool;GB;552267
+Livorno;Italy;Livorno, Livorno;IT;154927
+Liège;Belgium;Liège;BE;195965
+Lodz;Poland;Lodz;PL;677864
+Lublin;Poland;Lublin, Lublin Voivodeship;PL;341591
+Ludwigshafen Am Rhein;Germany;Ludwigshafen Am Rhein;DE;171061
+Luhansk;Ukraine;Luhansk, Luhansk;UA;394202
+Luton;United Kingdom;Luton;GB;211228
+Luts'K;Ukraine;Lutsk;UA;212903
+Lviv;Ukraine;Lviv;UA;710606
+Lyon;France;Lyon;FR;513275
+Lübeck;Germany;Lübeck;DE;217198
+Maastricht;Netherlands;Maastricht;NL;122397
+Magdeburg;Germany;Magdeburg;DE;238697
+Mainz;Germany;Mainz;DE;217118
+Makijivka;Ukraine;Makijivka;UA;337277
+Malmo;Sweden;Malmo;SE;278522
+Manchester;United Kingdom;Manchester;GB;510746
+Mannheim;Germany;Mannheim;DE;309370
+Marbella;Spain;Marbella;ES;149032
+Mariupol;Ukraine;Mariupol;UA;422286
+Marseille;France;Marseille;FR;861635
+Melitopol;Ukraine;Melitopol;UA;148698
+Messina;Italy;Messina;IT;221788
+Metz;France;Metz;FR;117492
+Milan;Italy;Milan;IT;1362256
+Miskolc;Hungary;Miskolc;HU;151798
+Moers;Germany;Moers;DE;103725
+Mogilev;Belarus;Mogilev;BY;357184
+Montpellier;France;Montpellier;FR;277639
+Montreuil;France;Montreuil, Ile-de-France;FR;106691
+Monza;Italy;Monza, Monza;IT;122253
+Mozir;Belarus;Mozir;BY;105690
+Mulhouse;France;Mulhouse;FR;110370
+Munich;Germany;Munich;DE;1471508
+Mykolaiv;Ukraine;Mykolaiv;UA;465516
+Mönchengladbach;Germany;Mönchengladbach;DE;261454
+Mülheim An Der Ruhr;Germany;Mülheim An Der Ruhr;DE;170880
+Münster;Germany;Münster;DE;314319
+Namur;Belgium;Namur;BE;110175
+Nancy;France;Nancy;FR;105162
+Nantes;France;Nantes;FR;303382
+Naples;Italy;Naples;IT;921618
+Neuss;Germany;Neuss;DE;153796
+Newcastle-Upon-Tyne;United Kingdom;Newcastle-Upon-Tyne;GB;268064
+Nice;France;Nice;FR;342522
+Nijmegen;Netherlands;Nijmegen;NL;170681
+Nikopol;Ukraine;Nikopol;UA;107214
+Nis;Serbia;Nis, Serbia;RS;183202
+Northampton;United Kingdom;Northampton;GB;215173
+Nottingham;United Kingdom;Nottingham;GB;289301
+Novi Sad;Serbia;Novi Sad;RS;298469
+Nuremberg;Germany;Nuremberg;DE;518365
+Nyiregyhaza;Hungary;Nyiregyhaza;HU;116684
+Nîmes;France;Nîmes, France;FR;150672
+Oberhausen;Germany;Oberhausen;DE;210829
+Odense;Denmark;Odense Municipality;DK;204795
+Odessa;Ukraine;Odessa;UA;992874
+Offenbach Am Main;Germany;Offenbach Am Main;DE;128744
+Oldenburg;Germany;Oldenburg;DE;168210
+Olomouc;Czech Republic;Olomouc;CZ;106063
+Olsztyn;Poland;Olsztyn;PL;173624
+Opole;Poland;Opole, Opole Voivodeship;PL;127198
+Orléans;France;Orléans;FR;114644
+Orsha;Belarus;Orsha;BY;107645
+Osijek;Croatia;Osijek;HR;108048
+Osnabrück;Germany;Osnabrück;DE;164748
+Ostrava;Czech Republic;Ostrava;CZ;282450
+Oulu;Finland;Oulu;FI;207327
+Paderborn;Germany;Paderborn;DE;150580
+Padua;Italy;Padua, Padua;IT;208191
+Pamplona/Iruña;Spain;Pamplona/Iruña;ES;203596
+Parla;Spain;Parla;ES;130550
+Pavlograd;Ukraine;Pavlograd;UA;102373
+Peristeri;Greece;Peristeri;GR;139981
+Perpignan;France;Perpignan;FR;121934
+Pescara;Italy;Pescara, Pescara;IT;118879
+Pforzheim;Germany;Pforzheim;DE;125542
+Pilsen;Czech Republic;Pilsen;CZ;174007
+Pinsk;Belarus;Pinsk;BY;126289
+Piraeus;Greece;Πειραιάς;GR;163688
+Plock;Poland;Plock;PL;117771
+Plovdiv;Bulgaria;Plovdiv, Plovdiv;BG;342048
+Plymouth;United Kingdom;Plymouth;GB;234982
+Poltava;Ukraine;Poltava, Poltava;UA;272572
+Porto;Portugal;Oporto;PT;231800
+Portsmouth;United Kingdom;Portsmouth;GB;238137
+Potsdam;Germany;Potsdam;DE;178089
+Poznan;Poland;Poznan;PL;533773
+Prato;Italy;Prato, Prato;IT;198312
+Pécs;Hungary;Pécs;HU;141040
+Radom;Poland;Radom;PL;208587
+Reading;United Kingdom;Reading;GB;218705
+Recklinghausen;Germany;Recklinghausen;DE;112267
+Regensburg;Germany;Regensburg;DE;152610
+Reims;France;Reims;FR;184076
+Remscheid;Germany;Remscheid;DE;110994
+Rennes;France;Rennes;FR;215366
+Reutlingen;Germany;Reutlingen;DE;115966
+Rijeka;Croatia;Rijeka;HR;128624
+Rivne;Ukraine;Rivne, Rivne;UA;240451
+Rostock;Germany;Rostock;DE;208886
+Rotterdam;Netherlands;Rotterdam;NL;623652
+Rouen;France;Rouen;FR;110169
+Ruda Slaska;Poland;Ruda Slaska;PL;135965
+Ruse;Bulgaria;Ruse;BG;135440
+Rybnik;Poland;Rybnik;PL;136299
+Rzeszów;Poland;Rzeszów;PL;194775
+S-Hertogenbosch;Netherlands;S-Hertogenbosch;NL;150889
+Saarbrücken;Germany;Saarbrücken;DE;180741
+Saint-Denis;France;Saint-Denis;FR;111103
+Saint-Étienne;France;Saint-Étienne;FR;171057
+Salamanca;Spain;Salamanca;ES;143549
+Salzburg;Austria;Salzburg;AT;154211
+Salzgitter;Germany;Salzgitter;DE;104948
+Santa Coloma De Gramenet;Spain;Santa Coloma De Gramenet;ES;118489
+Schaerbeek;Belgium;Schaerbeek;BE;127525
+Seville;Spain;Seville;ES;684340
+Sheffield;United Kingdom;Sheffield;GB;518090
+Siegen;Germany;Siegen, Germany;DE;102836
+Slovyansk;Ukraine;Slovyansk;UA;103029
+Soligorsk;Belarus;Soligorsk;BY;101525
+Solingen;Germany;Solingen;DE;159360
+Sosnowiec;Poland;Sosnowiec;PL;197563
+Southampton;United Kingdom;Southampton;GB;253651
+Split;Croatia;Split;HR;178102
+Stoke-On-Trent;United Kingdom;Stoke-On-Trent;GB;270726
+Strasbourg;France;Strasbourg;FR;277270
+Stuttgart;Germany;Stuttgart;DE;634830
+Sumy;Ukraine;Sumy, Sumy;UA;255672
+Szczecin;Poland;Szczecin;PL;399831
+Szeged;Hungary;Szeged;HU;159666
+Tampere;Finland;Tampere;FI;241009
+Tarnów;Poland;Tarnów;PL;105101
+Ternopil;Ukraine;Ternopil, Ternopil;UA;223522
+The Hague;Netherlands;The Hague;NL;514861
+Thessaloniki;Greece;Thessaloniki Municipal Unit;GR;315196
+Tilburg;Netherlands;Tilburg;NL;211648
+Torrejón De Ardoz;Spain;Torrejón De Ardoz;ES;133377
+Torun;Poland;Torun;PL;198628
+Toulon;France;Toulon;FR;167479
+Toulouse;France;Toulouse;FR;471941
+Tours;France;Tours;FR;136252
+Trier;Germany;Trier;DE;110636
+Turin;Italy;Turin;IT;853477
+Turku;Finland;Turku;FI;194391
+Tychy;Poland;Tychy;PL;125892
+Ulm;Germany;Ulm;DE;126329
+Umeå;Sweden;Umeå;SE;111503
+Utrecht;Netherlands;Utrecht;NL;334176
+Uzhhorod;Ukraine;Uzhhorod Urban Hromada;UA;113889
+Valencia;Spain;Valencia;ES;788842
+Valladolid;Spain;Valladolid;ES;297370
+Vantaa;Finland;Vantaa;FI;237231
+Varna;Bulgaria;Varna;BG;332394
+Venice;Italy;Venice;IT;254014
+Venlo;Netherlands;Venlo;NL;100536
+Vigo;Spain;Vigo;ES;294650
+Villeurbanne;France;Villeurbanne;FR;148665
+Vinnytsia;Ukraine;Vinnytsia, Vinnytsia;UA;367901
+Vitebsk;Belarus;Vitebsk, Vitebsk;BY;364862
+Walbrzych;Poland;Walbrzych;PL;109252
+Westland;Netherlands;Westland, Netherlands;NL;104302
+Wiesbaden;Germany;Wiesbaden;DE;278342
+Winterthur;Switzerland;Winterthur;CH;115129
+Wloclawek;Poland;Wloclawek;PL;107796
+Wolfsburg;Germany;Wolfsburg;DE;124151
+Wolverhampton;United Kingdom;Wolverhampton;GB;210319
+Wroclaw;Poland;Wroclaw;PL;642473
+Wuppertal;Germany;Wuppertal;DE;354382
+Würzburg;Germany;Würzburg;DE;127880
+Zaanstad;Netherlands;Zaanstad;NL;151418
+Zabrze;Poland;Zabrze;PL;169736
+Zaporizhzhia;Ukraine;Zaporizhzhia;UA;706116
+Zhytomyr;Ukraine;Zhytomyr, Zhytomyr;UA;260367
+Zielona Góra;Poland;Zielona Góra;PL;141631
+Zoetermeer;Netherlands;Zoetermeer;NL;124025
+Zurich;Switzerland;Zurich;CH;423193
+Zwolle;Netherlands;Zwolle;NL;123861
+Šiauliai;Lithuania;Šiauliai;LT;100653
