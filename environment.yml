@@ -2,24 +2,20 @@ name: bnk-dataexport
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
-  - geopandas>=0.14
+  - python>=3.12
+  - matplotlib
+  - osmnx>=2
+  - tqdm
+  - geojson
+
   - jupyter
   - jupyterlab
   - ipywidgets
   - ipykernel
-  - matplotlib
-  - osmnx>=1.9.4
-  - python-igraph
-  - watermark
-  - haversine
-  - rasterio
-  - tqdm
-  - geojson
-  - pip
-  - momepy
+
   - pytest
   - contextily
+  - pyrosm
   - pip:
     # not available via conda-forge:
     - opencv-python
