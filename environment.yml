@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python>=3.12
   - matplotlib
-  - osmnx>=2
   - tqdm
   - geojson
 
@@ -22,3 +21,5 @@ dependencies:
     - pre-commit
     - python-slugify
     - growbikenet
+    - osmnx @ git+https://github.com/gboeing/osmnx.git@pbf
+    - osmium
