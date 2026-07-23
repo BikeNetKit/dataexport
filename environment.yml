@@ -9,4 +9,5 @@ dependencies:
   - geojson
 
   - growbikenet
+  - pyrosm>=0.11
   - pre-commit
