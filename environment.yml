@@ -12,3 +12,5 @@ dependencies:
   - pyrosm>=0.11
   - jupyterlab
   - pre-commit
+  - pip:
+    - python-slugify
