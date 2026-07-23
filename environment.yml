@@ -10,4 +10,5 @@ dependencies:
 
   - growbikenet
   - pyrosm>=0.11
+  - jupyterlab
   - pre-commit

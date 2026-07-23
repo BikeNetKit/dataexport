@@ -23,6 +23,16 @@ To use latest BikeNetKit package releases, don't forget to upgrade them (example
 pixi upgrade growbikenet
 ```
 
+If you changed dependencies and/or some packages don't load, try cleaning pixi:
+
+```
+pixi clean
+rm pixi.*
+rm -r .pixi
+```
+
+and then run the setup again.
+
 ## Repository structure
 
 ```
