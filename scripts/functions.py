@@ -166,6 +166,22 @@ def get_alpha2(country_name):
     except LookupError:
         return None
     
+def geocode_cached(path, cityid, query, check_cache = True):
+    cache_file = os.path.join(path, f"{cityid}.geojson")
+
+    if check_cache and os.path.exists(cache_file):
+        gdf = gpd.read_file(cache_file)
+    else:
+        try:
+            gdf = ox.geocoder.geocode_to_gdf(query)
+        except TypeError:
+            return "no_polygon"
+        except ox._errors.InsufficientResponseError:
+            return "no_results"
+        gdf.to_file(cache_file, driver="GeoJSON")
+        
+    return shapely.geometry.shape(gdf['geometry'][0])
+    
 def analyse_polygon(mp):
     is_poly = True
     geoms = 1
