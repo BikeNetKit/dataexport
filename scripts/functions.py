@@ -166,8 +166,9 @@ def get_alpha2(country_name):
     except LookupError:
         return None
     
-def geocode_cached(path, cityid, query, check_cache = True):
-    cache_file = os.path.join(path, f"{cityid}.geojson")
+def geocode_cached(cache_path, cityid, query, check_cache = True, save_polygon = False, save_path = "../cities/boundaries/"):
+    cache_file = os.path.join(cache_path, f"{cityid}.geojson")
+    save_file = os.path.join(save_path, f"{cityid}.geojson")
 
     if check_cache and os.path.exists(cache_file):
         gdf = gpd.read_file(cache_file)
@@ -179,8 +180,15 @@ def geocode_cached(path, cityid, query, check_cache = True):
         except ox._errors.InsufficientResponseError:
             return "no_results"
         gdf.to_file(cache_file, driver="GeoJSON")
-        
-    return shapely.geometry.shape(gdf['geometry'][0])
+
+    gdf_geometry = shapely.geometry.shape(gdf['geometry'][0])
+
+    if save_polygon:
+        # Retrieve biggest polygon
+        _, _, _, poly = analyse_polygon(gdf_geometry)
+        gpd.GeoDataFrame(geometry=[poly], crs=gdf.crs).to_file(save_file, driver="GeoJSON")
+
+    return gdf_geometry
     
 def analyse_polygon(mp):
     is_poly = True
