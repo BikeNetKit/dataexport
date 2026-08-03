@@ -185,12 +185,12 @@ def geocode_cached(cache_path, cityid, query, check_cache = True, save_polygon =
 
     if save_polygon:
         # Retrieve biggest polygon
-        _, _, _, poly = analyse_polygon(gdf_geometry)
+        _, _, _, poly = analyse_polygon(gdf_geometry, cityid.split("_")[0])
         gpd.GeoDataFrame(geometry=[poly], crs=gdf.crs).to_file(save_file, driver="GeoJSON")
 
     return gdf_geometry
     
-def analyse_polygon(mp):
+def analyse_polygon(mp, placeid):
     is_poly = True
     geoms = 1
     poly = None
@@ -198,7 +198,12 @@ def analyse_polygon(mp):
         poly = copy.deepcopy(mp)
     elif isinstance(mp, shapely.geometry.multipolygon.MultiPolygon):
         geoms = len(mp.geoms)
-        largest_poly = max(mp.geoms, key=lambda a: a.area)
+        if placeid == "tokyo": # If Tokyo, take poly with most northern bound, otherwise largest
+            largest_poly = max(mp.geoms, key=lambda a: a.bounds[-1])
+        elif placeid == "reykjavik": # Southern part
+            largest_poly = min(mp.geoms, key=lambda a: a.bounds[0])
+        else:
+            largest_poly = max(mp.geoms, key=lambda a: a.area)
         poly = copy.deepcopy(largest_poly)
     else:
         return False, 0, False, None
