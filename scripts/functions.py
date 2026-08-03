@@ -166,8 +166,9 @@ def get_alpha2(country_name):
     except LookupError:
         return None
     
-def geocode_cached(path, cityid, query, check_cache = True):
-    cache_file = os.path.join(path, f"{cityid}.geojson")
+def geocode_cached(cache_path, cityid, query, check_cache = True, save_polygon = False, save_path = "../cities/boundaries/"):
+    cache_file = os.path.join(cache_path, f"{cityid}.geojson")
+    save_file = os.path.join(save_path, f"{cityid}.geojson")
 
     if check_cache and os.path.exists(cache_file):
         gdf = gpd.read_file(cache_file)
@@ -179,10 +180,17 @@ def geocode_cached(path, cityid, query, check_cache = True):
         except ox._errors.InsufficientResponseError:
             return "no_results"
         gdf.to_file(cache_file, driver="GeoJSON")
-        
-    return shapely.geometry.shape(gdf['geometry'][0])
+
+    gdf_geometry = shapely.geometry.shape(gdf['geometry'][0])
+
+    if save_polygon:
+        # Retrieve biggest polygon
+        _, _, _, poly = analyse_polygon(gdf_geometry, cityid.split("_")[0])
+        gpd.GeoDataFrame(geometry=[poly], crs=gdf.crs).to_file(save_file, driver="GeoJSON")
+
+    return gdf_geometry
     
-def analyse_polygon(mp):
+def analyse_polygon(mp, placeid):
     is_poly = True
     geoms = 1
     poly = None
@@ -190,7 +198,12 @@ def analyse_polygon(mp):
         poly = copy.deepcopy(mp)
     elif isinstance(mp, shapely.geometry.multipolygon.MultiPolygon):
         geoms = len(mp.geoms)
-        largest_poly = max(mp.geoms, key=lambda a: a.area)
+        if placeid == "tokyo": # If Tokyo, take poly with most northern bound, otherwise largest
+            largest_poly = max(mp.geoms, key=lambda a: a.bounds[-1])
+        elif placeid == "reykjavik": # Southern part
+            largest_poly = min(mp.geoms, key=lambda a: a.bounds[0])
+        else:
+            largest_poly = max(mp.geoms, key=lambda a: a.area)
         poly = copy.deepcopy(largest_poly)
     else:
         return False, 0, False, None
@@ -203,37 +216,3 @@ def analyse_polygon(mp):
     
     return is_poly, geoms, has_holes, poly_filled
 
-def get_tags(filepath):
-    """
-    Returns a list of macOS Finder tags for a given file.
-    """
-    if not os.path.exists(filepath):
-        print(f"File not found: {filepath}")
-        return []
-    
-    try:
-        result = subprocess.run(
-            ['mdls', '-raw', '-name', 'kMDItemUserTags', filepath],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            check=True
-        )
-        
-        # Decode bytes to string
-        output = result.stdout.decode('utf-8').strip()
-        
-        # Handle files with no tags
-        if not output or 'null' in output or output == '()':
-            return []
-            
-        # Clean up macOS formatting characters: ( ) \n " and non-breaking spaces (\xa0)
-        output = output.replace('(', '').replace(')', '').replace('"', '')
-        
-        # Split lines, strip spaces, and filter out any empty strings
-        tags = [tag.strip() for tag in output.split('\n') if tag.strip()]
-        
-        return tags
-        
-    except Exception as e:
-        print(f"Error reading tags: {e}")
-        return []
