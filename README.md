@@ -1,9 +1,5 @@
 # Bike Net Kit / Data export
 
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-
 Auxiliary [scripts](scripts/) for exporting data about all BikeNetKit packages, and [exported data](dataexports/), which is only needed once as preparation for the interactive visualization platform.
 
 
@@ -14,37 +10,42 @@ Installation with [`Pixi`](https://pixi.prefix.dev/latest/) is fastest and most 
 pixi init --import environment.yml
 ```
 
-At this point you can run scripts in the environment, for example as such:
+At this point, run the pixi shell to run scripts in the environment:
 
 ```
-pixi run python scripts/exportalldata_allcities.py
+pixi shell
 ```
 
 ## Update
-To use the latest growbikenet release, don't forget to:
+To use latest BikeNetKit package releases, don't forget to upgrade them (example growbikenet):
 
 ```
-pixi run pip install growbikenet --upgrade
+pixi upgrade growbikenet
 ```
+
+If you changed dependencies and/or some packages don't load, try cleaning pixi:
+
+```
+pixi clean
+rm pixi.*
+rm -r .pixi
+```
+
+and then run the setup again.
 
 ## Repository structure
 
 ```
-├── cities                  <- Information for which cities to export
-├── dataexports             <- Exported data sets, by dated subfolders
-├── scripts                 <- Export scripts
-├── .gitignore              <- Files and folders ignored by git
-├── .pre-commit-config.yaml <- Pre-commit hooks used
-├── README.md
-├── environment.yml         <- Environment file to set up the environment using conda/mamba/pixi
+├── cities           <- Exported and meta city data
+├── dataexports      <- Exported data sets
+├── scripts          <- Export scripts
+├── environment.yml  <- Environment file
 ```
 
-## Credits
+## Supported by
+Development of BikeNetKit was supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
 
-<!--Please cite as: 
->AUTHOR1, AUTHOR2, and AUTHOR3, PROJECTNAME, JOURNAL (YYYY), DOIURL  
--->
 
-Development of BikeNetKit was supported by the Danish Innovation Fund (Innovationsfonden).
+[![Innovation Fund Denmark](https://raw.githubusercontent.com/BikeNetKit/.github/refs/heads/main/profile/_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](https://raw.githubusercontent.com/BikeNetKit/.github/refs/heads/main/profile/_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](https://raw.githubusercontent.com/BikeNetKit/.github/refs/heads/main/profile/_static/logo_juststreets.png)](https://www.just-streets.eu/) 
 
 
