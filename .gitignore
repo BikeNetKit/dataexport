@@ -4,6 +4,7 @@ plots/
 cache/
 results/
 cities/cityexport/
+countries/
 *.geojson
 *.gpkg
 
