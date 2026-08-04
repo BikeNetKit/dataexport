@@ -1,4 +1,4 @@
-name_en;country_en;nominatim_query;alpha-2;population
+name_en;country_en;nominatim_query;country_code;population
 Aachen;Germany;Aachen;DE;247380
 Aalborg;Denmark;;DK;219476
 Aarhus;Denmark;;DK;352315

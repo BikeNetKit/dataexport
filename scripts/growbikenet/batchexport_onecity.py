@@ -28,7 +28,7 @@ Exports data into four files:
 
 Examples
 --------
->>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/boundaries/barcelona_es.geojson street_networks/barcelona_es.gpkg bike_networks/barcelona_es.gpkg
+>>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/boundaries/barcelona_es.geojson ../../cities/cityexport/street_networks/barcelona_es.gpkg ../../cities/cityexport/bike_networks/barcelona_es.gpkg
 """
 
 # WHICH DATA TO EXPORT?
@@ -55,7 +55,7 @@ if len(sys.argv) >= 2:
 if len(sys.argv) >= 3:
     city_name = sys.argv[2]
 if len(sys.argv) >= 4:
-    setting.export_file_format = sys.argv[3]
+    settings.export_file_format = sys.argv[3]
 if len(sys.argv) >= 5:
     city_boundary = sys.argv[4]
 if len(sys.argv) >= 6:
