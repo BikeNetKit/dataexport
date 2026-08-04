@@ -3,14 +3,18 @@ Script for exporting some growbikenet data for one city.
 
 Parameters
 ----------
-city_name : str
-    Name of the city that the analysis should be performed on. This is the query string used to fetch the data from nominatim. Overruled (for data fetching) if city_boundary_file is set.
-export_data_slug : str, optional, default None
-    If not set to None, the city_name will be slugified and used as the slug in the filename of the data export
-export_file_format : str, optional, default "geojson"
+city_query : str
+    Search string for the city that the analysis should be performed on. This is the query used to fetch the data from nominatim. Overruled for data fetching if city_boundary or street_network is set.
+city_name : str, default None
+    If set, the slugified city_name is used as the filename of the data export. For example, "Athens" will use "athens" in filenames. If set to None, the slugified city_query is used as the filename of the data export. It is useful to set city_name for cities where the city_query is not the city name, for example "Municipality of Athens" vs "Athens".
+export_file_format : str, default "geojson"
     File format for the data export. Default "geojson", also possible "gpkg". If exporting as geojson, generates extra files for seed points and city boundary. If exporting as gkpg, these are added all in one file as extra layers.
-city_boundary_file : (str | None), default None
-    If not set to None, the study area will be selected from the (Multi)Polygon provided in the city_boundary_file shape file, ideally in unprojected latitude-longitude degrees (EPSG:4326), but EPSG:3857 also works. For example, "./tests/test_data/copenhagen.shp".
+city_boundary : (str | None), default None
+    If not set to None, the study area will be selected from the (Multi)Polygon provided in the city_boundary shape or gpkg file, ideally in unprojected latitude-longitude degrees (EPSG:4326), but EPSG:3857 also works. For example, "./tests/test_data/copenhagen_city_boundary.shp".
+street_network : str
+    The street network is loaded from this file. Must be a gpkg file in unprojected crs EPSG:4326 with layers nodes and edges, with the structure that an undirected osmnx street network g has after saved via ox.io.save_graph_geopackage().
+bike_network : st
+    The existing bike network is loaded from this file. Must be a gpkg file in unprojected crs EPSG:4326 with layers nodes and edges, with the structure that an undirected osmnx bike network has after saved via ox.io.save_graph_geopackage().
 
 Notes
 -------
@@ -24,47 +28,61 @@ Exports data into four files:
 
 Examples
 --------
->>> python batchexport_onecity.py Barcelona Barcelona gpkg
+>>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/boundaries/barcelona_es.geojson ../../cities/cityexport/street_networks/barcelona_es.gpkg ../../cities/cityexport/bike_networks/barcelona_es.gpkg
 """
 
 # WHICH DATA TO EXPORT?
-export_seed_point_type = ["grid", "rail"] # Full array: ["grid", "rail"]
-export_ranking = ["betweenness_centrality", "closeness_centrality"] # Full array: ["betweenness_centrality", "closeness_centrality", "random""]
-export_existing_network_spacing = [None, 500] # Full array: [None, 500]
+export_seed_point_types = ['auto', 'rail', 'school'] # Full array: ['auto', 'rail', 'school']
+export_rankings = ['betweenness_centrality', 'closeness_centrality'] # Full array: ['betweenness_centrality', 'closeness_centrality', 'random']
+export_existing_network_spacings = [None, 'auto'] # Full array: [None, 'auto']
 
 # Main
 import growbikenet as gbn
 import sys
 from slugify import slugify
+from growbikenet import constants
+from growbikenet import settings
 
-city_name = "Barcelona"
-export_data_slug = "Barcelona"
-export_file_format = "geojson"
-city_boundary_file = None
+city_query = "Badalona"
+city_name = "badalona_es"
+settings.export_file_format = "geojson"
+city_boundary = "../../cities/boundaries/badalona_es.geojson"
+street_network = "../../cities/cityexport/street_networks/badalona_es.gpkg"
+bike_network = "../../cities/cityexport/bike_networks/badalona_es.gpkg"
 
 if len(sys.argv) >= 2:
-    city_name = sys.argv[1]
+    city_query = sys.argv[1]
 if len(sys.argv) >= 3:
-    export_data_slug = sys.argv[2]
+    city_name = sys.argv[2]
 if len(sys.argv) >= 4:
-    export_file_format = sys.argv[3]
+    settings.export_file_format = sys.argv[3]
 if len(sys.argv) >= 5:
-    city_boundary_file = sys.argv[4]
+    city_boundary = sys.argv[4]
+if len(sys.argv) >= 6:
+    street_network = sys.argv[5]
+if len(sys.argv) >= 7:
+    bike_network = sys.argv[6]
 
-export_data_slug = slugify(export_data_slug)
+city_name = slugify(city_name)
 
-for seed_point_type in export_seed_point_type:
-    for ranking in export_ranking:
-        for existing_network_spacing in export_existing_network_spacing:
+for seed_point_type in export_seed_point_types:
+    for ranking in export_rankings:
+        for existing_network_spacing in export_existing_network_spacings:
+            if seed_point_type == 'auto' and existing_network_spacing == 'auto':
+                seed_point_linking = 'triangulate_delaunay'
+            else:
+                seed_point_linking = 'auto'
             gbn.growbikenet(
-                city_name=city_name,
+                city_query,
                 ranking=ranking,
                 seed_point_type=seed_point_type,
+                seed_point_linking=seed_point_linking,
                 export_data=True,
                 export_plots=False,
-                export_video=False,
-                export_file_format=export_file_format,
                 existing_network_spacing=existing_network_spacing,
-                export_data_slug=export_data_slug,
-                city_boundary_file=city_boundary_file,
+                export_data_slug=city_name,
+                import_files={"city_boundary": city_boundary, "street_network": street_network, "bike_network": bike_network},
             )
+# Temporary hack to replace generated with real city boundary
+import shutil
+shutil.copyfile(city_boundary, "./results/"+city_name+"-city_boundary.geojson")
