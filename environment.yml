@@ -9,7 +9,7 @@ dependencies:
   - geojson
 
   - growbikenet
-  - pyrosm>=0.11
+  - pyrosm>=0.13.1
   - jupyterlab
   - pre-commit
   - pip:
