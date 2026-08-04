@@ -1,5 +1,7 @@
 name_en;country_en;nominatim_query;alpha-2;population
 Aachen;Germany;Aachen;DE;247380.0
+Aalborg;Denmark;;DK;219476.0
+Aarhus;Denmark;;DK;352315.0
 Aix-En-Provence;France;Aix-En-Provence;FR;142668.0
 Alcalá De Henares;Spain;Alcalá De Henares;ES;195570.0
 Alchevsk;Ukraine;Alchevsk;UA;105580.0
@@ -56,8 +58,8 @@ Breda;Netherlands;Breda;NL;180937.0
 Bremen;Germany;Bremen;DE;569352.0
 Bremerhaven;Germany;Bremerhaven;DE;113634.0
 Brescia;Italy;Brescia, Brescia;IT;196605.0
-Brest;France;Brest;FR;139163.0
 Brest;Belarus;Brest, Belarus;BY;339519.0
+Brest;France;Brest;FR;139163.0
 Brighton And Hove;United Kingdom;Brighton And Hove;GB;229700.0
 Bristol;United Kingdom;Bristol;GB;535907.0
 Brno;Czech Republic;Brno;CZ;398510.0
@@ -107,6 +109,7 @@ Emmen;Netherlands;Emmen 16;NL;107775.0
 Enschede;Netherlands;Enschede;NL;158553.0
 Erfurt;Germany;Erfurt;DE;213699.0
 Erlangen;Germany;Erlangen;DE;111962.0
+Esbjerg;Denmark;;DK;115529.0
 Espoo;Finland;Espoo;FI;292796.0
 Essen;Germany;Essen;DE;583109.0
 Florence;Italy;Florence;IT;365019.0
@@ -369,6 +372,7 @@ Valencia;Spain;Valencia;ES;788842.0
 Valladolid;Spain;Valladolid;ES;297370.0
 Vantaa;Finland;Vantaa;FI;237231.0
 Varna;Bulgaria;Varna;BG;332394.0
+Vejle;Denmark;;DK;118028.0
 Venice;Italy;Venice;IT;254014.0
 Venlo;Netherlands;Venlo;NL;100536.0
 Vienna;Austria;Vienna;AT;1897491.0
