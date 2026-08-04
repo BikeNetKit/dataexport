@@ -1,5 +1,7 @@
 name_en;country_en;nominatim_query;alpha-2;population
 Aachen;Germany;Aachen;DE;247380
+Aalborg;Denmark;;DK;219476
+Aarhus;Denmark;;DK;352315
 Aix-En-Provence;France;Aix-En-Provence;FR;142668
 Alcalá De Henares;Spain;Alcalá De Henares;ES;195570
 Alchevsk;Ukraine;Alchevsk;UA;105580
@@ -49,8 +51,8 @@ Breda;Netherlands;Breda;NL;180937
 Bremen;Germany;Bremen;DE;569352
 Bremerhaven;Germany;Bremerhaven;DE;113634
 Brescia;Italy;Brescia, Brescia;IT;196605
-Brest;France;Brest;FR;139163
 Brest;Belarus;Brest, Belarus;BY;339519
+Brest;France;Brest;FR;139163
 Brighton And Hove;United Kingdom;Brighton And Hove;GB;229700
 Bristol;United Kingdom;Bristol;GB;535907
 Brno;Czech Republic;Brno;CZ;398510
@@ -94,6 +96,7 @@ Emmen;Netherlands;Emmen 16;NL;107775
 Enschede;Netherlands;Enschede;NL;158553
 Erfurt;Germany;Erfurt;DE;213699
 Erlangen;Germany;Erlangen;DE;111962
+Esbjerg;Denmark;;DK;115529
 Espoo;Finland;Espoo;FI;292796
 Essen;Germany;Essen;DE;583109
 Florence;Italy;Florence;IT;365019
@@ -334,6 +337,7 @@ Valencia;Spain;Valencia;ES;788842
 Valladolid;Spain;Valladolid;ES;297370
 Vantaa;Finland;Vantaa;FI;237231
 Varna;Bulgaria;Varna;BG;332394
+Vejle;Denmark;;DK;118028
 Venice;Italy;Venice;IT;254014
 Venlo;Netherlands;Venlo;NL;100536
 Vigo;Spain;Vigo;ES;294650
