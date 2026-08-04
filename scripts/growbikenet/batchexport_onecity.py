@@ -39,7 +39,7 @@ export_existing_network_spacings = [None, 'auto'] # Full array: [None, 'auto']
 # Main
 import growbikenet as gbn
 import sys
-from growbikenet.functions import slugify
+from slugify import slugify
 from growbikenet import constants
 from growbikenet import settings
 
