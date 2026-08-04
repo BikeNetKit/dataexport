@@ -1,5 +1,7 @@
 cityid,sb,gbn,gbn+,lbn,fbn
 aachen_de,1,0,0,1,0
+aalborg_dk,1,0,0,1,0
+aarhus_dk,1,0,0,1,0
 aix-en-provence_fr,1,0,1,1,0
 alcala-de-henares_es,1,0,1,1,0
 alchevsk_ua,1,1,0,0,0
@@ -56,7 +58,7 @@ breda_nl,1,0,0,0,1
 bremen_de,1,0,0,0,1
 bremerhaven_de,1,0,0,0,1
 brescia_it,1,0,0,1,0
-brest_by,1,0,1,1,0
+brest_fr,1,0,0,1,0
 brighton-and-hove_gb,1,0,1,1,0
 bristol_gb,1,0,0,1,0
 brno_cz,1,0,1,0,0
@@ -106,6 +108,7 @@ emmen_nl,1,0,0,1,0
 enschede_nl,1,0,0,1,0
 erfurt_de,1,0,1,0,0
 erlangen_de,1,0,0,1,0
+esbjerg_dk,1,0,0,1,0
 espoo_fi,1,0,0,0,1
 essen_de,1,1,0,0,0
 florence_it,1,0,1,1,0
@@ -219,7 +222,7 @@ manchester_gb,1,0,0,1,0
 mannheim_de,1,0,0,1,0
 marbella_es,1,0,1,1,0
 mariupol_ua,1,1,0,0,0
-marseille_fr,1,0,1,1,0
+marseille_fr,1,0,1,0,0
 melitopol_ua,1,0,1,1,0
 messina_it,1,1,0,0,0
 metz_fr,1,1,0,0,0
@@ -295,7 +298,7 @@ prague_cz,1,1,0,0,0
 prato_it,1,0,0,1,0
 pristina_rs,1,0,1,1,0
 pecs_hu,1,0,1,1,0
-radom_pl,1,0,0,1,0
+radom_pl,1,0,1,1,0
 reading_gb,1,0,0,1,0
 recklinghausen_de,1,0,0,1,0
 regensburg_de,1,0,0,1,1
@@ -311,7 +314,7 @@ rome_it,1,0,1,0,0
 rostock_de,1,0,0,1,0
 rotterdam_nl,1,0,0,0,1
 rouen_fr,1,0,0,1,0
-ruda-slaska_pl,1,0,1,1,0
+ruda-slaska_pl,1,0,0,1,0
 ruse_bg,1,0,1,0,0
 rybnik_pl,1,0,0,1,0
 rzeszow_pl,1,0,1,0,1
@@ -321,7 +324,7 @@ saint-denis_fr,1,0,0,1,0
 saint-etienne_fr,1,0,1,1,0
 salamanca_es,1,0,0,0,1
 salzburg_at,1,1,0,0,0
-salzgitter_de,1,0,1,1,0
+salzgitter_de,1,0,0,1,0
 santa-coloma-de-gramenet_es,1,0,0,1,0
 sarajevo_ba,1,0,1,1,0
 schaerbeek_be,1,0,0,1,0
@@ -335,7 +338,7 @@ soligorsk_by,1,0,1,0,0
 solingen_de,1,0,0,1,0
 sosnowiec_pl,1,0,1,1,0
 southampton_gb,1,0,0,1,0
-split_hr,1,1,1,0,0
+split_hr,1,0,1,1,0
 stockholm_se,1,0,0,0,1
 stoke-on-trent_gb,1,0,0,1,0
 strasbourg_fr,1,0,0,0,1
@@ -368,6 +371,7 @@ valencia_es,1,0,0,0,1
 valladolid_es,1,0,0,1,0
 vantaa_fi,1,0,0,0,1
 varna_bg,1,0,1,1,0
+vejle_dk,1,0,0,0,1
 venice_it,1,0,0,1,0
 venlo_nl,1,0,0,1,0
 vienna_at,1,0,0,1,0
@@ -388,11 +392,11 @@ wroclaw_pl,1,0,0,1,1
 wuppertal_de,1,0,0,1,0
 wurzburg_de,1,0,0,1,0
 zaanstad_nl,1,0,0,1,1
-zabrze_pl,1,0,1,1,0
+zabrze_pl,1,0,0,1,0
 zagreb_hr,1,0,1,1,0
 zaporizhzhia_ua,1,1,1,0,0
 zhytomyr_ua,1,1,0,0,0
-zielona-gora_pl,1,0,1,1,0
+zielona-gora_pl,1,0,1,1,1
 zoetermeer_nl,1,0,0,0,1
 zurich_ch,1,1,0,0,0
 zwolle_nl,1,0,0,1,0
