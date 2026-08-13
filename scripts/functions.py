@@ -18,7 +18,7 @@ from shapely.geometry import Point, MultiPoint, LineString, Polygon, MultiLineSt
 import shapely.ops as ops
 from shapely.prepared import prep
 from itertools import combinations
-from slugify import slugify
+from growbikenet.functions import slugify
 
 # Plotting
 import contextily

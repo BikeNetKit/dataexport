@@ -4,7 +4,7 @@ Script for exporting some growbikenet data for multiple cities.
 
 import pandas as pd
 import os
-from slugify import slugify
+from growbikenet.functions import slugify
 
 df = pd.read_csv('../../cities/european_capitalsand100000pop.csv', 
                    sep = ';',)
