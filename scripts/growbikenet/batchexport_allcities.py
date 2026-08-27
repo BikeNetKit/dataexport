@@ -43,7 +43,7 @@ def export_onecity(city_query, city_id, boundary_file):
         city_query,
         city_id,
         "geojson",
-        f"../../cities/boundaries/{city_id}.{boundary_file}",
+        f"../../cities/cityexport/boundaries/{city_id}.{boundary_file}",
         f"../../cities/cityexport/growable_networks/{city_id}.gpkg",
         f"../../cities/cityexport/bike_networks/{city_id}.gpkg",
         f"../../cities/cityexport/rail_stations/{city_id}.gpkg",
@@ -72,7 +72,7 @@ for nominatimstring, city_name, country_code in zip(list(df.nominatim_query), li
         )
         
     else: # No entry is a nan in a df. Here we need to use a shape file. It must be in the folder cities/boundaries
-        if os.path.isfile("../../cities/boundaries/"+city_id+".geojson"):
+        if os.path.isfile("../../cities/cityexport/boundaries/"+city_id+".geojson"):
             export_onecity(
                 city_name, 
                 city_id,
