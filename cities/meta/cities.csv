@@ -1,0 +1,404 @@
+cityid;name_en;country_en;nominatim_query;country_code;population
+aachen_de;Aachen;Germany;Aachen;DE;247380
+aalborg_dk;Aalborg;Denmark;;DK;219476
+aarhus_dk;Aarhus;Denmark;;DK;352315
+aixenprovence_fr;Aix-En-Provence;France;Aix-En-Provence;FR;142668
+alcaladehenares_es;Alcalá De Henares;Spain;Alcalá De Henares;ES;195570
+alchevsk_ua;Alchevsk;Ukraine;Alchevsk;UA;105580
+alcobendas_es;Alcobendas;Spain;Alcobendas;ES;116895
+alcorcon_es;Alcorcón;Spain;Alcorcón;ES;171575
+alkmaar_nl;Alkmaar;Netherlands;Alkmaar;NL;107106
+almere_nl;Almere;Netherlands;Almere;NL;196932
+almeria_es;Almería;Spain;Almería;ES;200273
+alphenaanden_nl;Alphen Aan Den;Netherlands;Alphen Aan Den;NL;107396
+amadora_pt;Amadora;Portugal;Amadora;PT;171454
+amersfoort_nl;Amersfoort;Netherlands;Amersfoort 16;NL;152481
+amiens_fr;Amiens;France;Amiens;FR;132874
+amsterdam_nl;Amsterdam;Netherlands;Amsterdam, North Holland;NL;821752
+anderlecht_be;Anderlecht;Belgium;Anderlecht;BE;108940
+andorralavella_ad;Andorra la Vella;Andorra;Andorra la Vella;AD;22205
+angers_fr;Angers;France;Angers;FR;151520
+antwerp_be;Antwerp;Belgium;Antwerp;BE;498473
+apeldoorn_nl;Apeldoorn;Netherlands;Apeldoorn;NL;158099
+argenteuil_fr;Argenteuil;France;Argenteuil;FR;110388
+arnhem_nl;Arnhem;Netherlands;Arnhem;NL;152293
+athens_gr;Athens;Greece;Municipality of Athens;GR;664046
+augsburg_de;Augsburg;Germany;Augsburg;DE;295135
+badalona_es;Badalona;Spain;Badalona;ES;221750
+banjaluka_ba;Banja Luka;Bosnia And Herzegovina;Banja Luka;BA;135059
+baranovichi_by;Baranovichi;Belarus;Baranovichi;BY;175050
+barcelona_es;Barcelona;Spain;Barcelona;ES;1627559
+bari_it;Bari;Italy;Bari;IT;316577
+basel_ch;Basel;Switzerland;Basel;CH;173064
+belfast_gb;Belfast;United Kingdom;Belfast City District;GB;280211
+belgrade_rs;Belgrade;Serbia;Belgrade;RS;1382045
+berdyansk_ua;Berdyansk;Ukraine;Berdyansk;UA;106526
+bergamo_it;Bergamo;Italy;Bergamo;IT;119735
+bergischgladbach_de;Bergisch Gladbach;Germany;Bergisch Gladbach;DE;111966
+berlin_de;Berlin;Germany;Berlin;DE;3644826
+bern_ch;Bern;Switzerland;Bern;CH;134290
+besancon_fr;Besançon;France;Besançon;FR;116676
+bialystok_pl;Bialystok;Poland;Bialystok;PL;295092
+bielefeld_de;Bielefeld;Germany;Bielefeld;DE;333786
+bielskobiala_pl;Bielsko-Biala;Poland;Bielsko-Biala;PL;168499
+bilatserkva_ua;Bila Tserkva;Ukraine;Bila Tserkva;UA;203344
+birmingham_gb;Birmingham;United Kingdom;Birmingham;GB;1085810
+bobruisk_by;Bobruisk;Belarus;Bobruisk;BY;212217
+bochum_de;Bochum;Germany;Bochum;DE;364628
+bologna_it;Bologna;Italy;Bologna;IT;389764
+bonn_de;Bonn;Germany;Bonn;DE;327258
+bordeaux_fr;Bordeaux;France;Bordeaux;FR;249712
+borisov_by;Borisov;Belarus;Borisov;BY;140678
+bottrop_de;Bottrop;Germany;Bottrop;DE;117383
+boulognebillancourt_fr;Boulogne-Billancourt;France;Boulogne-Billancourt;FR;117931
+bournemouth_gb;Bournemouth;United Kingdom;Bournemouth;GB;187503
+bratislava_sk;Bratislava;Slovakia;Bratislava;SK;435296
+braunschweig_de;Braunschweig;Germany;Braunschweig;DE;248292
+breda_nl;Breda;Netherlands;Breda;NL;180937
+bremen_de;Bremen;Germany;Bremen;DE;569352
+bremerhaven_de;Bremerhaven;Germany;Bremerhaven;DE;113634
+brescia_it;Brescia;Italy;Brescia, Brescia;IT;196605
+brest_by;Brest;Belarus;Brest, Belarus;BY;339519
+brest_fr;Brest;France;Brest;FR;139163
+brightonandhove_gb;Brighton And Hove;United Kingdom;Brighton And Hove;GB;229700
+bristol_gb;Bristol;United Kingdom;Bristol;GB;535907
+brno_cz;Brno;Czech Republic;Brno;CZ;398510
+brovary_ua;Brovary;Ukraine;Brovary;UA;109154
+bruges_be;Bruges;Belgium;Bruges;BE;117260
+brussels_be;Brussels;Belgium;Brussels;BE;174383
+bucharest_ro;Bucharest;Romania;Bucharest;RO;1722865
+budapest_hu;Budapest;Hungary;Budapest;HU;1737026
+bydgoszcz_pl;Bydgoszcz;Poland;Bydgoszcz;PL;347716
+bytom_pl;Bytom;Poland;Bytom;PL;162766
+caen_fr;Caen;France;Caen;FR;106260
+cagliari_it;Cagliari;Italy;Cagliari;IT;149332
+castellodelaplana_es;Castelló De La Plana;Spain;Castelló De La Plana;ES;172637
+charleroi_be;Charleroi;Belgium;Charleroi;BE;204150
+chemnitz_de;Chemnitz;Germany;Chemnitz;DE;247237
+cherkasy_ua;Cherkasy;Ukraine;Cherkasy, Cherkasy;UA;267361
+chernihiv_ua;Chernihiv;Ukraine;Chernihiv, Chernihiv;UA;276927
+chernivtsi_ua;Chernivtsi;Ukraine;Chernivtsi;UA;260540
+chisinau_md;Chișinău;Moldova;Chișinău;MD;339079
+chorzow_pl;Chorzów;Poland;Chorzów;PL;106717
+clermontferrand_fr;Clermont-Ferrand;France;Clermont-Ferrand;FR;141398
+cologne_de;Cologne;Germany;Cologne;DE;1085664
+copenhagen_dk;Copenhagen;Denmark;;DK;638790
+cork_ie;Cork;Ireland;Cork;IE;124391
+cottbus_de;Cottbus;Germany;Cottbus;DE;100219
+coventry_gb;Coventry;United Kingdom;Coventry, United Kingdom;GB;325949
+czestochowa_pl;Czestochowa;Poland;Czestochowa;PL;218812
+dabrowagornicza_pl;Dabrowa Górnicza;Poland;Dabrowa Górnicza;PL;118003
+darmstadt_de;Darmstadt;Germany;Darmstadt;DE;159207
+debrecen_hu;Debrecen;Hungary;Debrecen;HU;201043
+delft_nl;Delft;Netherlands;Delft;NL;101030
+derby_gb;Derby;United Kingdom;Derby;GB;255394
+dijon_fr;Dijon;France;Dijon;FR;155114
+dnipro_ua;Dnipro;Ukraine;Dnipro;UA;958377
+donetsk_ua;Donetsk;Ukraine;Donetsk, Donetsk;UA;892980
+dordrecht_nl;Dordrecht;Netherlands;Dordrecht;NL;118899
+dortmund_de;Dortmund;Germany;Dortmund;DE;587010
+dresden_de;Dresden;Germany;Dresden;DE;554649
+dublin_ie;Dublin;Ireland;Dublin;IE;544107
+duisburg_de;Duisburg;Germany;Duisburg;DE;498590
+durres_al;Durrës;Albania;Durrës, Bashkia Durrës, Northern Albania;AL;113249
+dusseldorf_de;Düsseldorf;Germany;Düsseldorf;DE;619294
+ede_nl;Ede;Netherlands;Ede 16, Netherlands;NL;111575
+eindhoven_nl;Eindhoven;Netherlands;Eindhoven;NL;223209
+elblag_pl;Elblag;Poland;Elblag;PL;117164
+emmen_nl;Emmen;Netherlands;Emmen 16;NL;107775
+enschede_nl;Enschede;Netherlands;Enschede;NL;158553
+erfurt_de;Erfurt;Germany;Erfurt;DE;213699
+erlangen_de;Erlangen;Germany;Erlangen;DE;111962
+esbjerg_dk;Esbjerg;Denmark;;DK;115529
+espoo_fi;Espoo;Finland;Espoo;FI;292796
+essen_de;Essen;Germany;Essen;DE;583109
+florence_it;Florence;Italy;Florence;IT;365019
+frankfurtammain_de;Frankfurt Am Main;Germany;Frankfurt Am Main;DE;753056
+frederiksberg_dk;Frederiksberg;Denmark;Frederiksberg Municipality;DK;102940
+freiburgimbreisgau_de;Freiburg Im Breisgau;Germany;Freiburg Im Breisgau;DE;230241
+funchal_pt;Funchal;Portugal;Funchal;PT;105701
+furth_de;Fürth;Germany;Fürth;DE;127748
+gdansk_pl;Gdansk;Poland;Gdansk;PL;472094
+gdynia_pl;Gdynia;Poland;Gdynia;PL;243124
+gelsenkirchen_de;Gelsenkirchen;Germany;Gelsenkirchen;DE;260654
+geneva_ch;Geneva;Switzerland;Geneva;CH;203401
+ghent_be;Ghent;Belgium;Ghent;BE;248358
+glasgow_gb;Glasgow;United Kingdom;Glasgow City;GB;1209143
+gliwice_pl;Gliwice;Poland;Gliwice;PL;177056
+gomel_by;Gomel;Belarus;Gomel;BY;510243
+gorzowwielkopolski_pl;Gorzów Wielkopolski;Poland;Gorzów Wielkopolski;PL;121878
+gothenburg_se;Gothenburg;Sweden;Göteborg;SE;491629
+graz_at;Graz;Austria;Graz;AT;288806
+grenoble_fr;Grenoble;France;Grenoble;FR;160649
+grodno_by;Grodno;Belarus;Grodno;BY;356686
+groningen_nl;Groningen;Netherlands;Groningen;NL;200336
+gyor_hu;Györ;Hungary;Györ;HU;133340
+gottingen_de;Göttingen;Germany;Göttingen;DE;119801
+gutersloh_de;Gütersloh;Germany;Gütersloh;DE;100194
+haarlem_nl;Haarlem;Netherlands;Haarlem;NL;156645
+haarlemmermeer_nl;Haarlemmermeer;Netherlands;Haarlemmermeer;NL;144152
+hagen_de;Hagen;Germany;Hagen;DE;188814
+halle_de;Halle;Germany;Halle;DE;239257
+hamburg_de;Hamburg;Germany;Hamburg;DE;1841179
+hamm_de;Hamm;Germany;Hamm;DE;179111
+hanover_de;Hanover;Germany;Hanover;DE;538068
+heidelberg_de;Heidelberg;Germany;Heidelberg;DE;160355
+heilbronn_de;Heilbronn;Germany;Heilbronn;DE;125960
+helsinki_fi;Helsinki;Finland;Helsinki;FI;656920
+herne_de;Herne;Germany;Herne;DE;156374
+hildesheim_de;Hildesheim;Germany;Hildesheim;DE;101990
+horlivka_ua;Horlivka;Ukraine;Horlivka;UA;237640
+ingolstadt_de;Ingolstadt;Germany;Ingolstadt;DE;136981
+innsbruck_at;Innsbruck;Austria;Innsbruck;AT;132110
+ivanofrankivsk_ua;Ivano-Frankivsk;Ukraine;Ivano-Frankivsk, Ivano-Frankivsk;UA;235343
+jena_de;Jena;Germany;Jena;DE;111407
+jyvaskyla_fi;Jyvaskyla;Finland;Jyvaskyla;FI;143420
+kallithea_gr;Kallithea;Greece;Καλλιθέα;GR;100641
+kamenetspodolsky_ua;Kamenets Podolsky;Ukraine;Kamenets Podolsky;UA;226295
+kamyanske_ua;Kamyanske;Ukraine;Kamyanske;UA;226295
+karlsruhe_de;Karlsruhe;Germany;Karlsruhe;DE;313092
+kassel_de;Kassel;Germany;Kassel;DE;201585
+katowice_pl;Katowice;Poland;Katowice;PL;296468
+kaunas_lt;Kaunas;Lithuania;Kaunas;LT;298753
+kecskemet_hu;Kecskemét;Hungary;Kecskemét;HU;110012
+kharkiv_ua;Kharkiv;Ukraine;Kharkiv;UA;1401558
+kherson_ua;Kherson;Ukraine;Kherson, Kherson;UA;275529
+khmelnitsky_ua;Khmelnitsky;Ukraine;Khmelnytskyi, Khmelnytskyi;UA;271618
+kiel_de;Kiel;Germany;Kiel;DE;247548
+kielce_pl;Kielce;Poland;Kielce;PL;192650
+kingstonuponhull_gb;Kingston-Upon-Hull;United Kingdom;Kingston-Upon-Hull;GB;284321
+klagenfurt_at;Klagenfurt;Austria;Klagenfurt;AT;100817
+klaipeda_lt;Klaipeda;Lithuania;Klaipeda;LT;152008
+koblenz_de;Koblenz;Germany;Koblenz;DE;114024
+kosice_sk;Kosice;Slovakia;Kosice;SK;238676
+koszalin_pl;Koszalin;Poland;Koszalin;PL;105714
+kragujevac_rs;Kragujevac;Serbia;Kragujevac;RS;147786
+krakow_pl;Krakow;Poland;Krakow;PL;777520
+kramatorsk_ua;Kramatorsk;Ukraine;Kramatorsk;UA;146693
+krefeld_de;Krefeld;Germany;Krefeld;DE;227020
+kremenchuk_ua;Kremenchuk;Ukraine;Kremenchuk;UA;214291
+kropyvnytskyi_ua;Kropyvnytskyi;Ukraine;Kropyvnytskyi;UA;216535
+kryvyirih_ua;Kryvyi Rih;Ukraine;Kryvyi Rih;UA;602390
+kuopio_fi;Kuopio;Finland;Kuopio;FI;120210
+kyiv_ua;Kyiv;Ukraine;Kyiv;UA;2910994
+lhospitaletdellobregat_es;L'Hospitalet De Llobregat;Spain;L'Hospitalet De Llobregat;ES;265003
+lahti_fi;Lahti;Finland;Lahti;FI;119984
+lausanne_ch;Lausanne;Switzerland;Lausanne;CH;140619
+lehavre_fr;Le Havre;France;Le Havre;FR;172366
+lemans_fr;Le Mans;France;Le Mans;FR;143325
+leeuwarden_nl;Leeuwarden;Netherlands;Leeuwarden;NL;107691
+leicester_gb;Leicester;United Kingdom;Leicester City;GB;443760
+leiden_nl;Leiden;Netherlands;Leiden;NL;121562
+leipzig_de;Leipzig;Germany;Leipzig;DE;587857
+leverkusen_de;Leverkusen;Germany;Leverkusen;DE;163838
+leon_es;León;Spain;León 16, Spain;ES;122398
+liberec_cz;Liberec;Czech Republic;Liberec;CZ;104340
+lida_by;Lida;Belarus;Lida, Belarus;BY;102794
+lille_fr;Lille;France;Lille;FR;232741
+limoges_fr;Limoges;France;Limoges;FR;133627
+linz_at;Linz;Austria;Linz;AT;205726
+lisbon_pt;Lisbon;Portugal;Lisbon;PT;545142
+liverpool_gb;Liverpool;United Kingdom;Liverpool;GB;552267
+livorno_it;Livorno;Italy;Livorno, Livorno;IT;154927
+liege_be;Liège;Belgium;Liège;BE;195965
+ljubljana_si;Ljubljana;Slovenia;Ljubljana;SI;285604
+lodz_pl;Lodz;Poland;Lodz;PL;677864
+london_gb;London;United Kingdom;London;GB;8135667
+lublin_pl;Lublin;Poland;Lublin, Lublin Voivodeship;PL;341591
+ludwigshafenamrhein_de;Ludwigshafen Am Rhein;Germany;Ludwigshafen Am Rhein;DE;171061
+luhansk_ua;Luhansk;Ukraine;Luhansk, Luhansk;UA;394202
+luton_gb;Luton;United Kingdom;Luton;GB;211228
+lutsk_ua;Luts'K;Ukraine;Lutsk;UA;212903
+luxembourg_lu;Luxembourg;Luxembourg;Luxembourg, Luxembourg;LU;128494
+lviv_ua;Lviv;Ukraine;Lviv;UA;710606
+lyon_fr;Lyon;France;Lyon;FR;513275
+lubeck_de;Lübeck;Germany;Lübeck;DE;217198
+maastricht_nl;Maastricht;Netherlands;Maastricht;NL;122397
+madrid_es;Madrid;Spain;Madrid;ES;3277451
+magdeburg_de;Magdeburg;Germany;Magdeburg;DE;238697
+mainz_de;Mainz;Germany;Mainz;DE;217118
+makijivka_ua;Makijivka;Ukraine;Makijivka;UA;337277
+malmo_se;Malmo;Sweden;Malmo;SE;278522
+manchester_gb;Manchester;United Kingdom;Manchester;GB;510746
+mannheim_de;Mannheim;Germany;Mannheim;DE;309370
+marbella_es;Marbella;Spain;Marbella;ES;149032
+mariupol_ua;Mariupol;Ukraine;Mariupol;UA;422286
+marseille_fr;Marseille;France;Marseille;FR;861635
+melitopol_ua;Melitopol;Ukraine;Melitopol;UA;148698
+messina_it;Messina;Italy;Messina;IT;221788
+metz_fr;Metz;France;Metz;FR;117492
+milan_it;Milan;Italy;Milan;IT;1362256
+minsk_by;Minsk;Belarus;Minsk;BY;2020133
+miskolc_hu;Miskolc;Hungary;Miskolc;HU;151798
+moers_de;Moers;Germany;Moers;DE;103725
+mogilev_by;Mogilev;Belarus;Mogilev;BY;357184
+montpellier_fr;Montpellier;France;Montpellier;FR;277639
+montreuil_fr;Montreuil;France;Montreuil, Ile-de-France;FR;106691
+monza_it;Monza;Italy;Monza, Monza;IT;122253
+mozir_by;Mozir;Belarus;Mozir;BY;105690
+mulhouse_fr;Mulhouse;France;Mulhouse;FR;110370
+munich_de;Munich;Germany;Munich;DE;1471508
+mykolaiv_ua;Mykolaiv;Ukraine;Mykolaiv;UA;465516
+monchengladbach_de;Mönchengladbach;Germany;Mönchengladbach;DE;261454
+mulheimanderruhr_de;Mülheim An Der Ruhr;Germany;Mülheim An Der Ruhr;DE;170880
+munster_de;Münster;Germany;Münster;DE;314319
+namur_be;Namur;Belgium;Namur;BE;110175
+nancy_fr;Nancy;France;Nancy;FR;105162
+nantes_fr;Nantes;France;Nantes;FR;303382
+naples_it;Naples;Italy;Naples;IT;921618
+neuss_de;Neuss;Germany;Neuss;DE;153796
+newcastleupontyne_gb;Newcastle-Upon-Tyne;United Kingdom;Newcastle-Upon-Tyne;GB;268064
+nice_fr;Nice;France;Nice;FR;342522
+nijmegen_nl;Nijmegen;Netherlands;Nijmegen;NL;170681
+nikopol_ua;Nikopol;Ukraine;Nikopol;UA;107214
+nis_rs;Nis;Serbia;Nis, Serbia;RS;183202
+northampton_gb;Northampton;United Kingdom;Northampton;GB;215173
+nottingham_gb;Nottingham;United Kingdom;Nottingham;GB;289301
+novisad_rs;Novi Sad;Serbia;Novi Sad;RS;298469
+nuremberg_de;Nuremberg;Germany;Nuremberg;DE;518365
+nyiregyhaza_hu;Nyiregyhaza;Hungary;Nyiregyhaza;HU;116684
+nimes_fr;Nîmes;France;Nîmes, France;FR;150672
+oberhausen_de;Oberhausen;Germany;Oberhausen;DE;210829
+odense_dk;Odense;Denmark;Odense Municipality;DK;204795
+odessa_ua;Odessa;Ukraine;Odessa;UA;992874
+offenbachammain_de;Offenbach Am Main;Germany;Offenbach Am Main;DE;128744
+oldenburg_de;Oldenburg;Germany;Oldenburg;DE;168210
+olomouc_cz;Olomouc;Czech Republic;Olomouc;CZ;106063
+olsztyn_pl;Olsztyn;Poland;Olsztyn;PL;173624
+opole_pl;Opole;Poland;Opole, Opole Voivodeship;PL;127198
+orleans_fr;Orléans;France;Orléans;FR;114644
+orsha_by;Orsha;Belarus;Orsha;BY;107645
+osijek_hr;Osijek;Croatia;Osijek;HR;108048
+oslo_no;Oslo;Norway;Oslo;NO;681067
+osnabruck_de;Osnabrück;Germany;Osnabrück;DE;164748
+ostrava_cz;Ostrava;Czech Republic;Ostrava;CZ;282450
+oulu_fi;Oulu;Finland;Oulu;FI;207327
+paderborn_de;Paderborn;Germany;Paderborn;DE;150580
+padua_it;Padua;Italy;Padua, Padua;IT;208191
+pamplonairuna_es;Pamplona/Iruña;Spain;Pamplona/Iruña;ES;203596
+paris_fr;Paris;France;Paris;FR;2206488
+parla_es;Parla;Spain;Parla;ES;130550
+pavlograd_ua;Pavlograd;Ukraine;Pavlograd;UA;102373
+peristeri_gr;Peristeri;Greece;Peristeri;GR;139981
+perpignan_fr;Perpignan;France;Perpignan;FR;121934
+pescara_it;Pescara;Italy;Pescara, Pescara;IT;118879
+pforzheim_de;Pforzheim;Germany;Pforzheim;DE;125542
+pilsen_cz;Pilsen;Czech Republic;Pilsen;CZ;174007
+pinsk_by;Pinsk;Belarus;Pinsk;BY;126289
+piraeus_gr;Piraeus;Greece;Πειραιάς;GR;163688
+plock_pl;Plock;Poland;Plock;PL;117771
+plovdiv_bg;Plovdiv;Bulgaria;Plovdiv, Plovdiv;BG;342048
+plymouth_gb;Plymouth;United Kingdom;Plymouth;GB;234982
+podgorica_me;Podgorica;Montenegro;Podgorica;ME;185937
+poltava_ua;Poltava;Ukraine;Poltava, Poltava;UA;272572
+porto_pt;Porto;Portugal;Oporto;PT;231800
+portsmouth_gb;Portsmouth;United Kingdom;Portsmouth;GB;238137
+potsdam_de;Potsdam;Germany;Potsdam;DE;178089
+poznan_pl;Poznan;Poland;Poznan;PL;533773
+prague_cz;Prague;Czech Republic;Prague;CZ;1301432
+prato_it;Prato;Italy;Prato, Prato;IT;198312
+pristina_rs;Pristina;Kosovo;Pristina;RS;161751
+pecs_hu;Pécs;Hungary;Pécs;HU;141040
+radom_pl;Radom;Poland;Radom;PL;208587
+reading_gb;Reading;United Kingdom;Reading;GB;218705
+recklinghausen_de;Recklinghausen;Germany;Recklinghausen;DE;112267
+regensburg_de;Regensburg;Germany;Regensburg;DE;152610
+reims_fr;Reims;France;Reims;FR;184076
+remscheid_de;Remscheid;Germany;Remscheid;DE;110994
+rennes_fr;Rennes;France;Rennes;FR;215366
+reutlingen_de;Reutlingen;Germany;Reutlingen;DE;115966
+reykjavik_is;Reykjavík;Iceland;Reykjavík;IS;129964
+riga_lv;Riga;Latvia;Riga;LV;614618
+rijeka_hr;Rijeka;Croatia;Rijeka;HR;128624
+rivne_ua;Rivne;Ukraine;Rivne, Rivne;UA;240451
+rome_it;Rome;Italy;Rome;IT;2759629
+rostock_de;Rostock;Germany;Rostock;DE;208886
+rotterdam_nl;Rotterdam;Netherlands;Rotterdam;NL;623652
+rouen_fr;Rouen;France;Rouen;FR;110169
+rudaslaska_pl;Ruda Slaska;Poland;Ruda Slaska;PL;135965
+ruse_bg;Ruse;Bulgaria;Ruse;BG;135440
+rybnik_pl;Rybnik;Poland;Rybnik;PL;136299
+rzeszow_pl;Rzeszów;Poland;Rzeszów;PL;194775
+shertogenbosch_nl;S-Hertogenbosch;Netherlands;S-Hertogenbosch;NL;150889
+saarbrucken_de;Saarbrücken;Germany;Saarbrücken;DE;180741
+saintdenis_fr;Saint-Denis;France;Saint-Denis;FR;111103
+saintetienne_fr;Saint-Étienne;France;Saint-Étienne;FR;171057
+salamanca_es;Salamanca;Spain;Salamanca;ES;143549
+salzburg_at;Salzburg;Austria;Salzburg;AT;154211
+salzgitter_de;Salzgitter;Germany;Salzgitter;DE;104948
+santacolomadegramenet_es;Santa Coloma De Gramenet;Spain;Santa Coloma De Gramenet;ES;118489
+sarajevo_ba;Sarajevo;Bosnia and Herzegovina;Sarajevo;BA;348363
+schaerbeek_be;Schaerbeek;Belgium;Schaerbeek;BE;127525
+seville_es;Seville;Spain;Seville;ES;684340
+sheffield_gb;Sheffield;United Kingdom;Sheffield;GB;518090
+siegen_de;Siegen;Germany;Siegen, Germany;DE;102836
+skopje_mk;Skopje;North Macedonia;Skopje;MK;546824
+slovyansk_ua;Slovyansk;Ukraine;Slovyansk;UA;103029
+sofia_bg;Sofia;Bulgaria;Sofia;BG;1221785
+soligorsk_by;Soligorsk;Belarus;Soligorsk;BY;101525
+solingen_de;Solingen;Germany;Solingen;DE;159360
+sosnowiec_pl;Sosnowiec;Poland;Sosnowiec;PL;197563
+southampton_gb;Southampton;United Kingdom;Southampton;GB;253651
+split_hr;Split;Croatia;Split;HR;178102
+stockholm_se;Stockholm;Sweden;Stockholm;SE;789024
+stokeontrent_gb;Stoke-On-Trent;United Kingdom;Stoke-On-Trent;GB;270726
+strasbourg_fr;Strasbourg;France;Strasbourg;FR;277270
+stuttgart_de;Stuttgart;Germany;Stuttgart;DE;634830
+sumy_ua;Sumy;Ukraine;Sumy, Sumy;UA;255672
+szczecin_pl;Szczecin;Poland;Szczecin;PL;399831
+szeged_hu;Szeged;Hungary;Szeged;HU;159666
+tallinn_ee;Tallinn;Estonia;Tallinn;EE;437817
+tampere_fi;Tampere;Finland;Tampere;FI;241009
+tarnow_pl;Tarnów;Poland;Tarnów;PL;105101
+ternopil_ua;Ternopil;Ukraine;Ternopil, Ternopil;UA;223522
+thehague_nl;The Hague;Netherlands;The Hague;NL;514861
+thessaloniki_gr;Thessaloniki;Greece;Thessaloniki Municipal Unit;GR;315196
+tilburg_nl;Tilburg;Netherlands;Tilburg;NL;211648
+tirana_al;Tirana;Albania;Tirana;AL;418495
+torrejondeardoz_es;Torrejón De Ardoz;Spain;Torrejón De Ardoz;ES;133377
+torun_pl;Torun;Poland;Torun;PL;198628
+toulon_fr;Toulon;France;Toulon;FR;167479
+toulouse_fr;Toulouse;France;Toulouse;FR;471941
+tours_fr;Tours;France;Tours;FR;136252
+trier_de;Trier;Germany;Trier;DE;110636
+turin_it;Turin;Italy;Turin;IT;853477
+turku_fi;Turku;Finland;Turku;FI;194391
+tychy_pl;Tychy;Poland;Tychy;PL;125892
+ulm_de;Ulm;Germany;Ulm;DE;126329
+umea_se;Umeå;Sweden;Umeå;SE;111503
+utrecht_nl;Utrecht;Netherlands;Utrecht;NL;334176
+uzhhorod_ua;Uzhhorod;Ukraine;Uzhhorod Urban Hromada;UA;113889
+valencia_es;Valencia;Spain;Valencia;ES;788842
+valladolid_es;Valladolid;Spain;Valladolid;ES;297370
+vantaa_fi;Vantaa;Finland;Vantaa;FI;237231
+varna_bg;Varna;Bulgaria;Varna;BG;332394
+vejle_dk;Vejle;Denmark;;DK;118028
+venice_it;Venice;Italy;Venice;IT;254014
+venlo_nl;Venlo;Netherlands;Venlo;NL;100536
+vienna_at;Vienna;Austria;Vienna;AT;1897491
+vigo_es;Vigo;Spain;Vigo;ES;294650
+villeurbanne_fr;Villeurbanne;France;Villeurbanne;FR;148665
+vilnius_lt;Vilnius;Lithuania;Vilnius;LT;546155
+vinnytsia_ua;Vinnytsia;Ukraine;Vinnytsia, Vinnytsia;UA;367901
+vitebsk_by;Vitebsk;Belarus;Vitebsk, Vitebsk;BY;364862
+walbrzych_pl;Walbrzych;Poland;Walbrzych;PL;109252
+warsaw_pl;Warsaw;Poland;Warsaw;PL;1792692
+westland_nl;Westland;Netherlands;Westland, Netherlands;NL;104302
+wiesbaden_de;Wiesbaden;Germany;Wiesbaden;DE;278342
+winterthur_ch;Winterthur;Switzerland;Winterthur;CH;115129
+wloclawek_pl;Wloclawek;Poland;Wloclawek;PL;107796
+wolfsburg_de;Wolfsburg;Germany;Wolfsburg;DE;124151
+wolverhampton_gb;Wolverhampton;United Kingdom;Wolverhampton;GB;210319
+wroclaw_pl;Wroclaw;Poland;Wroclaw;PL;642473
+wuppertal_de;Wuppertal;Germany;Wuppertal;DE;354382
+wurzburg_de;Würzburg;Germany;Würzburg;DE;127880
+zaanstad_nl;Zaanstad;Netherlands;Zaanstad;NL;151418
+zabrze_pl;Zabrze;Poland;Zabrze;PL;169736
+zagreb_hr;Zagreb;Croatia;Zagreb city;HR;790017
+zaporizhzhia_ua;Zaporizhzhia;Ukraine;Zaporizhzhia;UA;706116
+zhytomyr_ua;Zhytomyr;Ukraine;Zhytomyr, Zhytomyr;UA;260367
+zielonagora_pl;Zielona Góra;Poland;Zielona Góra;PL;141631
+zoetermeer_nl;Zoetermeer;Netherlands;Zoetermeer;NL;124025
+zurich_ch;Zurich;Switzerland;Zurich;CH;423193
+zwolle_nl;Zwolle;Netherlands;Zwolle;NL;123861
+siauliai_lt;Šiauliai;Lithuania;Šiauliai;LT;100653
