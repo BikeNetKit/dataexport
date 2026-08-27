@@ -7,6 +7,7 @@ cities/cityexport/
 countries/
 *.geojson
 *.gpkg
+dataexports/latest/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,macos,windows
