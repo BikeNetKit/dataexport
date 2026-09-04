@@ -11,7 +11,7 @@ import numpy as np
 import datetime
 
 # Import the list of cities
-df = pd.read_csv('../../cities/european_capitalsand100000pop.csv', 
+df = pd.read_csv('../../cities/meta/cities.csv', 
                    sep = ';',)
 
 

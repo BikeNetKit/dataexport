@@ -37,6 +37,8 @@ Examples
 >>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/cityexport/boundaries/barcelona_es.geojson ../../cities/cityexport/growable_networks/barcelona_es.gpkg ../../cities/cityexport/bike_networks/barcelona_es.gpkg ../../cities/cityexport/rail_stations/barcelona_es.gpkg ../../cities/cityexport/schools/barcelona_es.gpkg False
 """
 
+
+
 # WHICH DATA TO EXPORT?
 export_seed_point_types = ['auto', 'rail', 'school'] # Full array: ['auto', 'rail', 'school']
 export_orderings = ['betweenness', 'closeness'] # Full array: ['betweenness', 'closeness', 'random']
@@ -47,6 +49,7 @@ import growbikenet as gbn
 import sys
 from growbikenet.functions import slugify
 from growbikenet import settings
+from growbikenet import constants
 import os
 import traceback
 import re
@@ -55,6 +58,7 @@ import re
 city_query = "Badalona"
 city_name = "badalona_es"
 settings.export_file_format = "geojson"
+constants._CRS_CALCULATIONS = 'auto'
 city_boundary = "../../cities/cityexport/boundaries/badalona_es.geojson"
 growable_network = "../../cities/cityexport/growable_networks/badalona_es.gpkg"
 bike_network = "../../cities/cityexport/bike_networks/badalona_es.gpkg"
@@ -171,6 +175,7 @@ for seed_point_type in export_seed_point_types: # [auto, rail , school]
                 print(f"No file for: {city_name}, {ordering}, {exnw_string}, {seed_point_type}")
 
                 try:
+                    constants._CRS_CALCULATIONS = 'auto'
                     gbn.growbikenet(
                         city_query,
                         ordering=ordering,
