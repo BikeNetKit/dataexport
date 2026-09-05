@@ -10,6 +10,9 @@ import subprocess
 import time
 import numpy as np
 import datetime
+import fixbikenet as fbn
+
+print("fixbikenet version: "+fbn.__version__)
 
 settings.silent = True
 

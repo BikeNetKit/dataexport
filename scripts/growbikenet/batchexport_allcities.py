@@ -9,6 +9,9 @@ import subprocess
 import time
 import numpy as np
 import datetime
+import growbikenet as gbn
+
+print("growbikenet version: "+gbn.__version__)
 
 # Import the list of cities
 df = pd.read_csv('../../cities/meta/cities.csv', 
