@@ -81,3 +81,11 @@ subprocess.run(
         shell = True,
         text = True
     )
+
+print("afterwards, run in the folder:")
+print("rm *street*")
+print("rm *kamenetspodolsky*")
+print("rm *soligorsk*")
+print("rm *makijivka*")
+print("rm *horlivka*")
+print("rm *alchevsk*")
