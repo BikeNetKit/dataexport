@@ -1,17 +1,20 @@
 """
-Script for exporting some growbikenet data for multiple cities.
+Script for exporting some fixbikenet data for multiple cities.
 """
 
 import pandas as pd
 import os
-from growbikenet.functions import slugify
+from fixbikenet.functions import slugify
+from fixbikenet import settings
 import subprocess
 import time
 import numpy as np
 import datetime
-import growbikenet as gbn
+import fixbikenet as fbn
 
-print("growbikenet version: "+gbn.__version__)
+print("fixbikenet version: "+fbn.__version__)
+
+settings.silent = True
 
 # Import the list of cities
 df = pd.read_csv('../../cities/meta/cities.csv', 
@@ -27,15 +30,15 @@ datestring = date.strftime("%Y%m%d_%H%M%S")
 os.makedirs(f"./{datestring}", exist_ok=True)
 STATUS_FILE = f"{datestring}/export_status.txt"
 with open(STATUS_FILE, "w", encoding="utf-8") as f:
-    f.write("city_query\t\tcity_name\t\tordering\t\texisting_network_spacing\t\tseed_point_type\t\tstatus\n")
+    f.write("cityid\t\tstatus\n")
 
 ERROR_LOG = f"{datestring}/error_log.txt"
 with open(ERROR_LOG, "w", encoding="utf-8") as f:
-    f.write("city_query\t\tcity_name\t\tordering\t\texisting_network_spacing\t\tseed_point_type\t\ttraceback\n")
+    f.write("cityid\t\ttraceback\n")
 
 
 # Define function to run batchexport_onecity.py
-def export_onecity(city_query, city_id, boundary_file):
+def export_onecity(city_id):
     """
     Run batchexport_onecity.py, with suprocess in 'return' mode
     """
@@ -43,15 +46,7 @@ def export_onecity(city_query, city_id, boundary_file):
     args = [
         "python",
         "batchexport_onecity.py",
-        city_query,
         city_id,
-        "geojson",
-        f"../../cities/cityexport/boundaries/{city_id}.{boundary_file}",
-        f"../../cities/cityexport/growable_networks/{city_id}.gpkg",
-        f"../../cities/cityexport/bike_networks/{city_id}.gpkg",
-        f"../../cities/cityexport/rail_stations/{city_id}.gpkg",
-        f"../../cities/cityexport/schools/{city_id}.gpkg",
-        "True",
         datestring
     ]
 
@@ -65,29 +60,9 @@ start = time.time()
 
 
 # Run the loop for all cities
-for nominatimstring, city_name, country_code in zip(list(df.nominatim_query), list(df.name_en), list(df.country_code)):
-    city_id = slugify(city_name)+"_"+slugify(country_code)
-    if type(nominatimstring) is str:
-        export_onecity(
-            nominatimstring,
-            city_id,
-            "geojson"
-        )
-        
-    else: # No entry is a nan in a df. Here we need to use a shape file. It must be in the folder cities/boundaries
-        if os.path.isfile("../../cities/cityexport/boundaries/"+city_id+".geojson"):
-            export_onecity(
-                city_name, 
-                city_id,
-                "geojson"
-            )
-        else:
-            export_onecity(
-                city_name, 
-                city_id,
-                "shp"
-            )
-    print()
+for city_id in list(df.cityid):
+    print(city_id)
+    export_onecity(city_id)
 
 
 # Calculate running time
@@ -109,3 +84,11 @@ subprocess.run(
         shell = True,
         text = True
     )
+
+print("afterwards, run in the folder:")
+print("rm *street*")
+print("rm *kamenetspodolsky*")
+print("rm *soligorsk*")
+print("rm *makijivka*")
+print("rm *horlivka*")
+print("rm *alchevsk*")
