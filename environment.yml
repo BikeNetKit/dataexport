@@ -12,6 +12,9 @@ dependencies:
   - pyrosm>=0.13.1
   - jupyterlab
   - pre-commit
+  - gdal
   - pip:
     - python-slugify
     - fixbikenet
+    - superblockify>=1.0.2
+    # - superblockify @ git+https://github.com/BikeNetKit/superblockify.git@101-add-a-load_graph-attribute-to-basepartitioner
