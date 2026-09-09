@@ -13,8 +13,8 @@ import superblockify as sb
 print("superblockify version: "+sb.__version__)
 
 # Import the list of cities
-df = pd.read_csv('../../cities/meta/cities.csv', 
-                   sep = ';',)
+# df = pd.read_csv('../../cities/meta/cities.csv', sep = ';')
+df = pd.read_csv('cities_manuel.csv', sep = ';')
 
 
 # Get date and hour to use for .txt files
@@ -58,9 +58,9 @@ start = time.time()
 
 # Exclude already done cities
 city_ids_done = {}
-for f in os.listdir("../../dataexports/latest/superblockify_gpkg"):
-    cityname = f.split("_", 1)[0]
-    city_ids_done[df.loc[df["name_en"] == cityname, "cityid"].iloc[0]] = cityname
+# for f in os.listdir("../../dataexports/latest/superblockify_gpkg"):
+#     cityname = f.split("_", 1)[0]
+#     city_ids_done[df.loc[df["name_en"] == cityname, "cityid"].iloc[0]] = cityname
 for f in os.listdir("./results"):
     if not f.startswith('.'):
         cid = f.split("_", 2)[0]+"_"+f.split("_", 2)[1]
