@@ -64,7 +64,10 @@ city_ids_done = {}
 for f in os.listdir("./results"):
     if not f.startswith('.'):
         cid = f.split("_", 2)[0]+"_"+f.split("_", 2)[1]
-        city_ids_done[cid] = df.loc[df["cityid"] == cid, "name_en"].iloc[0]
+        try:
+            city_ids_done[cid] = df.loc[df["cityid"] == cid, "name_en"].iloc[0]
+        except:
+            pass
 
 # Run the loop for all cities
 for city_id, city_query in zip(list(df.cityid), list(df.nominatim_query)):
