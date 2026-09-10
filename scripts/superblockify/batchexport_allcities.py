@@ -9,6 +9,7 @@ import time
 import numpy as np
 import datetime
 import superblockify as sb
+from time import sleep
 
 print("superblockify version: "+sb.__version__)
 
@@ -74,6 +75,7 @@ for city_id, city_query in zip(list(df.cityid), list(df.nominatim_query)):
     if city_id not in city_ids_done:
         print(city_id)
         export_onecity(str(city_id), str(city_query))
+        sleep(1200)
 
 
 # Calculate running time
