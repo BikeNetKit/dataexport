@@ -17,5 +17,5 @@ dependencies:
   - pip: # pip because conda takes days to update version
     - growbikenet
     - fixbikenet
-    - superblockify>=1.0.2
+    - superblockify
     - linkbikenet
