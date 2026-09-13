@@ -8,13 +8,14 @@ dependencies:
   - tqdm
   - geojson
 
-  - growbikenet
   - pyrosm>=0.13.1
   - jupyterlab
   - pre-commit
-  - gdal
-  - pip:
-    - python-slugify
+  - gdal # for superblockify
+
+  # BikeNetKit
+  - pip: # pip because conda takes days to update version
+    - growbikenet
     - fixbikenet
     - superblockify>=1.0.2
     - linkbikenet
