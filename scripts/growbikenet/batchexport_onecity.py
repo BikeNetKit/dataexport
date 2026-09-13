@@ -9,6 +9,8 @@ city_name : str, default None
     If set, the slugified city_name is used as the filename of the data export. For example, "Athens" will use "athens" in filenames. If set to None, the slugified city_query is used as the filename of the data export. It is useful to set city_name for cities where the city_query is not the city name, for example "Municipality of Athens" vs "Athens".
 export_file_format : str, default "geojson"
     File format for the data export. Default "geojson", also possible "gpkg". If exporting as geojson, generates extra files for seed points and city boundary. If exporting as gkpg, these are added all in one file as extra layers.
+import_path : str
+    Path to import files (as defined in `growbikenet`'s import_files parameter).
 city_boundary : (str | None), default None
     If not set to None, the study area will be selected from the (Multi)Polygon provided in the city_boundary gpkg file, ideally in unprojected latitude-longitude degrees (EPSG:4326), but EPSG:3857 also works.
 street_network : str
@@ -34,7 +36,7 @@ Exports data into 12 files:
 
 Examples
 --------
->>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/cityexport/boundaries/barcelona_es.geojson ../../cities/cityexport/growable_networks/barcelona_es.gpkg ../../cities/cityexport/bike_networks/barcelona_es.gpkg ../../cities/cityexport/rail_stations/barcelona_es.gpkg ../../cities/cityexport/schools/barcelona_es.gpkg False
+>>> python batchexport_onecity.py Barcelona Barcelona_es geojson ../../cities/cityexport/ boundaries/barcelona_es.geojson growable_networks/barcelona_es.gpkg bike_networks/barcelona_es.gpkg rail_stations/barcelona_es.gpkg schools/barcelona_es.gpkg False
 """
 
 
@@ -54,16 +56,19 @@ import os
 import traceback
 import re
 
+settings.silent = True
+
 # Variables
 city_query = "Badalona"
 city_name = "badalona_es"
 settings.export_file_format = "geojson"
+settings.import_path = "../../cities/cityexport/"
 constants._CRS_CALCULATIONS = 'auto'
-city_boundary = "../../cities/cityexport/boundaries/badalona_es.geojson"
-growable_network = "../../cities/cityexport/growable_networks/badalona_es.gpkg"
-bike_network = "../../cities/cityexport/bike_networks/badalona_es.gpkg"
-rail_stations = "../../cities/cityexport/rail_stations/badalona_es.gpkg"
-schools = "../../cities/cityexport/schools/badalona_es.gpkg"
+city_boundary = "boundaries/badalona_es.geojson"
+growable_network = "growable_networks/badalona_es.gpkg"
+bike_network = "bike_networks/badalona_es.gpkg"
+rail_stations = "rail_stations/badalona_es.gpkg"
+schools = "schools/badalona_es.gpkg"
 check_files = False
 
 # Variables for batch export
@@ -78,23 +83,25 @@ if len(sys.argv) >= 3:
 if len(sys.argv) >= 4:
     settings.export_file_format = sys.argv[3]
 if len(sys.argv) >= 5:
-    city_boundary = sys.argv[4]
+    settings.import_path = sys.argv[4]
 if len(sys.argv) >= 6:
-    growable_network = sys.argv[5]
+    city_boundary = sys.argv[5]
 if len(sys.argv) >= 7:
-    bike_network = sys.argv[6]
+    growable_network = sys.argv[6]
 if len(sys.argv) >= 8:
-    rail_stations = sys.argv[7]
+    bike_network = sys.argv[7]
 if len(sys.argv) >= 9:
-    schools = sys.argv[8]
+    rail_stations = sys.argv[8]
 if len(sys.argv) >= 10:
-    check_files = sys.argv[9]
+    schools = sys.argv[9]
+if len(sys.argv) >= 11:
+    check_files = sys.argv[10]
 
-# The 11th argument (date of export) is given when there is a batch export for more than 1 city
+# The 12th argument (date of export) is given when there is a batch export for more than 1 city
 # -> the files are always checked and the information is always logged into .txt files
-if len(sys.argv) >= 11: 
+if len(sys.argv) >= 12: 
     check_files = True 
-    datestring = sys.argv[10]
+    datestring = sys.argv[11]
     export_status = True
     STATUS_FILE = f"{datestring}/export_status.txt"
     ERROR_LOG = f"{datestring}/error_log.txt"
@@ -153,12 +160,12 @@ for seed_point_type in export_seed_point_types: # [auto, rail , school]
             if check_files == True:
                 if seed_point_type == "auto":
                     pattern = re.compile(
-                        rf"{re.escape(city_name)}-growbikenet-{re.escape(ordering)}-"
-                        rf"{re.escape(exnw_string)}-grid_(square|triangle)\.{re.escape(settings.export_file_format)}"
+                        rf"{re.escape(city_name)}-growbikenet-{re.escape(ordering)}-grid_(square|triangle)-"
+                        rf"{re.escape(exnw_string)}\.{re.escape(settings.export_file_format)}"
                     )
                     found_file = any(pattern.fullmatch(f) for f in generated_files)
                 else:
-                    fname = f"{city_name}-growbikenet-{ordering}-{exnw_string}-{seed_point_type}.{settings.export_file_format}"
+                    fname = f"{city_name}-growbikenet-{ordering}-{seed_point_type}-{exnw_string}.{settings.export_file_format}"
                     found_file = fname in generated_files
             else:
                 found_file = False
@@ -166,13 +173,13 @@ for seed_point_type in export_seed_point_types: # [auto, rail , school]
 
 
             if found_file:
-                print(f"Found file for: {city_name}, {ordering}, {exnw_string}, {seed_point_type}")
+                print(f"Found file for: {city_name}, {ordering}, {seed_point_type}, {exnw_string}")
                 if export_status:
                     with open(STATUS_FILE, "a", encoding="utf-8") as f:
-                        f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, existing_network_spacing, seed_point_type, "✅"]) + "\n")
+                        f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, seed_point_type, existing_network_spacing, "✅"]) + "\n")
 
             else:
-                print(f"No file for: {city_name}, {ordering}, {exnw_string}, {seed_point_type}")
+                print(f"No file for: {city_name}, {ordering}, {seed_point_type}, {exnw_string}")
 
                 try:
                     constants._CRS_CALCULATIONS = 'auto'
@@ -189,16 +196,16 @@ for seed_point_type in export_seed_point_types: # [auto, rail , school]
                     )
                     if export_status:
                         with open(STATUS_FILE, "a", encoding="utf-8") as f:
-                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, existing_network_spacing, seed_point_type, "✅"])+ "\n")
+                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, seed_point_type, existing_network_spacing, "✅"])+ "\n")
 
                 except Exception as e:
                     status_error = f"{type(e).__name__}: {e}"
                     traceback_error = traceback.format_exc()
                     if export_status:
                         with open(STATUS_FILE, "a", encoding="utf-8") as f:
-                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, existing_network_spacing, seed_point_type, status_error])+ "\n")
+                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, seed_point_type, existing_network_spacing, status_error])+ "\n")
                         with open(ERROR_LOG, "a", encoding="utf-8") as f:
-                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, existing_network_spacing, seed_point_type, traceback_error])+ "\n")
+                            f.write("\t\t".join(str(x) for x in [city_query, city_name, ordering, seed_point_type, existing_network_spacing, traceback_error])+ "\n")
                     else:
                         print(f"{status_error}")
                         print(traceback_error)
@@ -207,5 +214,5 @@ for seed_point_type in export_seed_point_types: # [auto, rail , school]
 # Temporary hack to replace generated with real city boundary
 # For cities that have only shape files like Copenhagen, this does not work!
 import shutil
-shutil.copyfile(city_boundary, "./results/"+city_name+"-city_boundary.geojson")
+shutil.copyfile(settings.import_path+city_boundary, "./results/"+city_name+"-growbikenet-city_boundary.geojson")
 

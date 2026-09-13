@@ -16,6 +16,7 @@ print("growbikenet version: "+gbn.__version__)
 # Import the list of cities
 df = pd.read_csv('../../cities/meta/cities.csv', 
                    sep = ';',)
+IMPORT_PATH = '/Users/mszell/Tresorit/bikenetkitshare/'
 
 
 # Get date and hour to use for .txt files
@@ -46,11 +47,12 @@ def export_onecity(city_query, city_id, boundary_file):
         city_query,
         city_id,
         "geojson",
-        f"../../cities/cityexport/boundaries/{city_id}.{boundary_file}",
-        f"../../cities/cityexport/growable_networks/{city_id}.gpkg",
-        f"../../cities/cityexport/bike_networks/{city_id}.gpkg",
-        f"../../cities/cityexport/rail_stations/{city_id}.gpkg",
-        f"../../cities/cityexport/schools/{city_id}.gpkg",
+        IMPORT_PATH,
+        f"boundaries/{city_id}.{boundary_file}",
+        f"growable_networks/{city_id}.gpkg",
+        f"bike_networks/{city_id}.gpkg",
+        f"rail_stations/{city_id}.gpkg",
+        f"schools/{city_id}.gpkg",
         "True",
         datestring
     ]
@@ -67,6 +69,7 @@ start = time.time()
 # Run the loop for all cities
 for nominatimstring, city_name, country_code in zip(list(df.nominatim_query), list(df.name_en), list(df.country_code)):
     city_id = slugify(city_name)+"_"+slugify(country_code)
+    print(city_id)
     if type(nominatimstring) is str:
         export_onecity(
             nominatimstring,
@@ -75,7 +78,7 @@ for nominatimstring, city_name, country_code in zip(list(df.nominatim_query), li
         )
         
     else: # No entry is a nan in a df. Here we need to use a shape file. It must be in the folder cities/boundaries
-        if os.path.isfile("../../cities/cityexport/boundaries/"+city_id+".geojson"):
+        if os.path.isfile(IMPORT_PATH+"boundaries/"+city_id+".geojson"):
             export_onecity(
                 city_name, 
                 city_id,
