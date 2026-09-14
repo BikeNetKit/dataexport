@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "paris_fr-from_scratch-existing_bike_network",
+"features": [
+{"type":"Feature","properties":{"bikenet_hierarchy":"primary","road_hierarchy":"primary","length":196.58906577040386},"geometry":{"type":"LineString","coordinates":[[2.3443404,48.8537679],[2.344559,48.8536987],[2.3459126,48.8533342],[2.3466477,48.8531362],[2.3468007,48.8530729]]}}
+]
+}
