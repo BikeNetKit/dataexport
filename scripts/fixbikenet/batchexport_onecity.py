@@ -23,7 +23,7 @@ import os
 import traceback
 
 # Settings
-settings.import_path = '../../cities/cityexport/'
+settings.import_path = '/Users/mszell/Tresorit/bikenetkitshare/'
 settings.export_file_format = "geojson"
 
 # Variables

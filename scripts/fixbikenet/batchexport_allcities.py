@@ -15,6 +15,7 @@ import fixbikenet as fbn
 print("fixbikenet version: "+fbn.__version__)
 
 settings.silent = True
+skipuntil = None #"belfast_gb"
 
 # Import the list of cities
 df = pd.read_csv('../../cities/meta/cities.csv', 
@@ -60,9 +61,13 @@ start = time.time()
 
 
 # Run the loop for all cities
+skip = True
 for city_id in list(df.cityid):
-    print(city_id)
-    export_onecity(city_id)
+    if skipuntil is None or city_id==skipuntil:
+        skip = False
+    if not skip:
+        print(city_id)
+        export_onecity(city_id)
 
 
 # Calculate running time

@@ -15,7 +15,7 @@ print("superblockify version: "+sb.__version__)
 
 # Import the list of cities
 # df = pd.read_csv('../../cities/meta/cities.csv', sep = ';')
-df = pd.read_csv('cities_manuel.csv', sep = ';')
+df = pd.read_csv('cities_michael.csv', sep = ';')
 
 
 # Get date and hour to use for .txt files
@@ -75,7 +75,7 @@ for city_id, city_query in zip(list(df.cityid), list(df.nominatim_query)):
     if city_id not in city_ids_done:
         print(city_id)
         export_onecity(str(city_id), str(city_query))
-        sleep(1200)
+        sleep(1000)
 
 
 # Calculate running time
