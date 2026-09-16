@@ -11,11 +11,10 @@ dependencies:
   - pyrosm>=0.13.1
   - jupyterlab
   - pre-commit
-  - gdal # for superblockify
+  - superblockify
 
   # BikeNetKit
   - pip: # pip because conda takes days to update version
     - growbikenet
     - fixbikenet
-    - superblockify
     - linkbikenet
