@@ -1,0 +1,10 @@
+cityid;name_en;country_en;nominatim_query;country_code;population;center_lat;center_lon
+vratsa_bg;Vratsa;Bulgaria;Vratsa;BG;60361;;
+zaragoza_es;Zaragoza;Spain;Zaragoza;ES;699007;;
+cugir_ro;Cugir;Romania;Cugir;RO;19473;;
+kozani_gr;Kozani;Greece;Kozani;GR;67224;;
+braga_pt;Braga;Portugal;Braga;PT;212635;;
+sevastopol_ua;Sevastopol;Ukraine;Sevastopol City;UA;547820;;
+simferopol_ua;Simferopol;Ukraine;Simferopol;UA;332317;;
+kerch_ua;Kerch;Ukraine;Kerch;UA;149566;;
+yevpatoriya_ua;Yevpatoriya;Ukraine;Yevpatoriya;UA;105719;;
