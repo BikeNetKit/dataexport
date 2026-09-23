@@ -1,5 +1,8 @@
 cityid;name_en;country_en;nominatim_query;country_code;population;center_lat;center_lon
+cugir_ro;Cugir;Romania;Cugir;RO;19473;23.36951;45.83563
 andorralavella_ad;Andorra la Vella;Andorra;Andorra la Vella;AD;22205;42.50207;1.51457
+vratsa_bg;Vratsa;Bulgaria;Vratsa;BG;60361;23.55026;43.21111
+kozani_gr;Kozani;Greece;Kozani;GR;67224;21.79412;40.30126
 gutersloh_de;Gütersloh;Germany;Gütersloh;DE;100194;51.91703;8.39024
 cottbus_de;Cottbus;Germany;Cottbus;DE;100219;51.7765;14.35077
 venlo_nl;Venlo;Netherlands;Venlo;NL;100536;51.39485;6.14809
@@ -24,6 +27,7 @@ alchevsk_ua;Alchevsk;Ukraine;Alchevsk;UA;105580;48.47268;38.80826
 mozir_by;Mozir;Belarus;Mozir;BY;105690;52.04987;29.2444
 funchal_pt;Funchal;Portugal;Funchal;PT;105701;32.68112;-16.91345
 koszalin_pl;Koszalin;Poland;Koszalin;PL;105714;54.20837;16.20806
+yevpatoria_ua;Yevpatoria;Ukraine;Yevpatoria;UA;105719;33.3667;45.20743
 olomouc_cz;Olomouc;Czech Republic;Olomouc;CZ;106063;49.59494;17.25649
 caen_fr;Caen;France;Caen;FR;106260;49.18442;-0.3715
 berdyansk_ua;Berdyansk;Ukraine;Berdyansk;UA;106526;46.73045;36.78704
@@ -134,6 +138,7 @@ villeurbanne_fr;Villeurbanne;France;Villeurbanne;FR;148665;45.77182;4.88961
 melitopol_ua;Melitopol;Ukraine;Melitopol;UA;148698;46.84872;35.37225
 marbella_es;Marbella;Spain;Marbella;ES;149032;36.49988;-4.87251
 cagliari_it;Cagliari;Italy;Cagliari;IT;149332;39.21934;9.10665
+kerch_ua;Kerch;Ukraine;Kerch;UA;149566;36.45923;45.32919
 paderborn_de;Paderborn;Germany;Paderborn;DE;150580;51.73184;8.76524
 nimes_fr;Nîmes;France;Nîmes, France;FR;150672;43.83574;4.35861
 shertogenbosch_nl;S-Hertogenbosch;Netherlands;S-Hertogenbosch;NL;150889;51.7092;5.29022
@@ -177,7 +182,6 @@ castellodelaplana_es;Castelló De La Plana;Spain;Castelló De La Plana;ES;172637
 basel_ch;Basel;Switzerland;Basel;CH;173064;47.55725;7.59456
 olsztyn_pl;Olsztyn;Poland;Olsztyn;PL;173624;53.77233;20.46494
 pilsen_cz;Pilsen;Czech Republic;Pilsen;CZ;174007;49.7428;13.36682
-brussels_be;Brussels;Belgium;Brussel-Hoofdstad;BE;1255834;50.83879;4.37530
 baranovichi_by;Baranovichi;Belarus;Baranovichi;BY;175050;53.12645;26.00341
 gliwice_pl;Gliwice;Poland;Gliwice;PL;177056;50.29901;18.65204
 potsdam_de;Potsdam;Germany;Potsdam;DE;178089;52.41868;13.02157
@@ -219,6 +223,7 @@ oberhausen_de;Oberhausen;Germany;Oberhausen;DE;210829;51.51219;6.8522
 luton_gb;Luton;United Kingdom;Luton;GB;211228;51.89265;-0.43164
 tilburg_nl;Tilburg;Netherlands;Tilburg;NL;211648;51.58529;5.07977
 bobruisk_by;Bobruisk;Belarus;Bobruisk;BY;212217;53.1456;29.22396
+braga_pt;Braga;Portugal;Braga;PT;212635;-8.41019;41.54793
 lutsk_ua;Luts'K;Ukraine;Lutsk;UA;212903;50.74008;25.3347
 erfurt_de;Erfurt;Germany;Erfurt;DE;213699;50.9856;11.0175
 kremenchuk_ua;Kremenchuk;Ukraine;Kremenchuk;UA;214291;49.09073;33.43334
@@ -300,6 +305,7 @@ thessaloniki_gr;Thessaloniki;Greece;Thessaloniki Municipal Unit;GR;315196;40.619
 bari_it;Bari;Italy;Bari;IT;316577;41.10187;16.87499
 coventry_gb;Coventry;United Kingdom;Coventry, United Kingdom;GB;325949;52.41161;-1.51659
 bonn_de;Bonn;Germany;Bonn;DE;327258;50.70955;7.11834
+simferopol_ua;Simferopol;Ukraine;Simferopol;UA;332317;34.11516;44.94912
 varna_bg;Varna;Bulgaria;Varna;BG;332394;43.20857;27.94131
 bielefeld_de;Bielefeld;Germany;Bielefeld;DE;333786;52.01555;8.53054
 utrecht_nl;Utrecht;Netherlands;Utrecht;NL;334176;52.08222;5.08378
@@ -348,6 +354,7 @@ dublin_ie;Dublin;Ireland;Dublin;IE;544107;53.35476;-6.26449
 lisbon_pt;Lisbon;Portugal;Lisbon;PT;545142;38.74399;-9.15927
 vilnius_lt;Vilnius;Lithuania;Vilnius;LT;546155;54.69883;25.2614
 skopje_mk;Skopje;North Macedonia;Skopje;MK;546824;41.99824;21.4275
+sevastopol_ua;Sevastopol;Ukraine;Sevastopol City;UA;547820;33.51429;44.59596
 liverpool_gb;Liverpool;United Kingdom;Liverpool;GB;552267;53.4049;-2.91146
 dresden_de;Dresden;Germany;Dresden;DE;554649;51.07231;13.77256
 bremen_de;Bremen;Germany;Bremen;DE;569352;53.12445;8.73459
@@ -366,6 +373,7 @@ athens_gr;Athens;Greece;Municipality of Athens;GR;664046;37.98911;23.74494
 lodz_pl;Lodz;Poland;Lodz;PL;677864;51.77029;19.47506
 oslo_no;Oslo;Norway;Oslo;NO;681067;59.97119;10.72619
 seville_es;Seville;Spain;Seville;ES;684340;37.38323;-5.95998
+zaragoza_es;Zaragoza;Spain;Zaragoza;ES;699007;-0.89441;41.64998
 zaporizhzhia_ua;Zaporizhzhia;Ukraine;Zaporizhzhia;UA;706116;47.83149;35.16107
 lviv_ua;Lviv;Ukraine;Lviv;UA;710606;49.83589;24.01201
 frankfurtammain_de;Frankfurt Am Main;Germany;Frankfurt Am Main;DE;753056;50.11854;8.63165
@@ -384,6 +392,7 @@ cologne_de;Cologne;Germany;Cologne;DE;1085664;50.96086;6.97746
 birmingham_gb;Birmingham;United Kingdom;Birmingham;GB;1085810;52.49495;-1.89025
 glasgow_gb;Glasgow;United Kingdom;Glasgow City;GB;1209143;55.85598;-4.23862
 sofia_bg;Sofia;Bulgaria;Sofia;BG;1221785;42.69513;23.36625
+brussels_be;Brussels;Belgium;Brussel-Hoofdstad;BE;1255834;50.83879;4.3753
 prague_cz;Prague;Czech Republic;Prague;CZ;1301432;50.05925;14.47647
 milan_it;Milan;Italy;Milan;IT;1362256;45.46587;9.15932
 belgrade_rs;Belgrade;Serbia;Belgrade;RS;1382045;44.8113;20.43077
