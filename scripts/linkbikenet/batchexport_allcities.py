@@ -17,7 +17,7 @@ print("linkbikenet version: "+lbn.__version__)
 settings.silent = True
 
 # Import the list of cities
-df = pd.read_csv('../../cities/meta/cities.csv',
+df = pd.read_csv('../../cities/development/european_addition1.csv', 
                    sep = ';',)
 
 
