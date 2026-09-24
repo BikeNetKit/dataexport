@@ -15,7 +15,7 @@ print("superblockify version: "+sb.__version__)
 
 # Import the list of cities
 # df = pd.read_csv('../../cities/meta/cities.csv', sep = ';')
-df = pd.read_csv('cities_michael.csv', sep = ';')
+df = pd.read_csv('../../cities/development/european_addition1.csv', sep = ';')
 
 
 # Get date and hour to use for .txt files
@@ -97,3 +97,9 @@ subprocess.run(
         shell = True,
         text = True
     )
+
+print("afterwards, run in the folder:")
+print("rm aalborg_dk*")
+print("rm aarhus_dk*")
+print("rm copenhagen_dk*")
+print("rm vejle_dk*")

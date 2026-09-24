@@ -1,0 +1,12 @@
+cityid;name_en;country_en;nominatim_query;country_code;population;center_lat;center_lon
+braga_pt;Braga;Portugal;Braga;PT;212635;-8.41019;41.54793
+brussels_be;Brussels;Belgium;Brussel-Hoofdstad;BE;1255834;4.37065;50.83605
+cugir_ro;Cugir;Romania;Cugir;RO;19473;23.36951;45.83563
+kerch_ua;Kerch;Ukraine;Kerch;UA;149566;36.45923;45.32919
+kozani_gr;Kozani;Greece;Kozani;GR;67224;21.79412;40.30126
+sevastopol_ua;Sevastopol;Ukraine;Sevastopol City;UA;547820;33.51429;44.59596
+simferopol_ua;Simferopol;Ukraine;Simferopol;UA;332317;34.11516;44.94912
+vratsa_bg;Vratsa;Bulgaria;Vratsa;BG;60361;23.55026;43.21111
+yevpatoria_ua;Yevpatoria;Ukraine;Yevpatoria;UA;105719;33.36670;45.20743
+zaragoza_es;Zaragoza;Spain;Zaragoza;ES;699007;-0.89441;41.64998
+nikopol_ua;Nikopol;Ukraine;Нікополь;UA;107214;47.5755;34.37603

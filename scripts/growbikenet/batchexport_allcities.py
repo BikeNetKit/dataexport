@@ -14,7 +14,7 @@ import growbikenet as gbn
 print("growbikenet version: "+gbn.__version__)
 
 # Import the list of cities
-df = pd.read_csv('../../cities/meta/cities.csv', 
+df = pd.read_csv('../../cities/development/european_addition1.csv', 
                    sep = ';',)
 IMPORT_PATH = '/Users/mszell/Tresorit/bikenetkitshare/'
 
