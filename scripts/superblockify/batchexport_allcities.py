@@ -97,3 +97,9 @@ subprocess.run(
         shell = True,
         text = True
     )
+
+print("afterwards, run in the folder:")
+print("rm aalborg_dk*")
+print("rm aarhus_dk*")
+print("rm copenhagen_dk*")
+print("rm vejle_dk*")
