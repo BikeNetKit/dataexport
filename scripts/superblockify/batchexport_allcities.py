@@ -15,7 +15,7 @@ print("superblockify version: "+sb.__version__)
 
 # Import the list of cities
 # df = pd.read_csv('../../cities/meta/cities.csv', sep = ';')
-df = pd.read_csv('cities_michael.csv', sep = ';')
+df = pd.read_csv('../../cities/development/european_addition1.csv', sep = ';')
 
 
 # Get date and hour to use for .txt files
