@@ -55,7 +55,7 @@ for connection_strategy in connection_strategies:
             connection_strategy=connection_strategy,
             export_file_format="geojson",
             import_files={'city_boundary': 'boundaries/'+city_id+'.geojson',
-            'street_network': 'growable_networks/'+city_id+'.gpkg',
+            'street_network': 'streetbike_networks/'+city_id+'.gpkg',
             },
         )
 
