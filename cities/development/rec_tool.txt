@@ -1,0 +1,5 @@
+sb: Berlin, Vienna, Barcelona, Warsaw, Malmö, Ghent
+gbn+: Prague, Rome, Podgorica, Radom, Turin, Newcastle-Upon-Tyne
+gbn: Athens, Kyiv, Naples, Odessa, Donetsk, Pristina
+lbn: Budapest, Dublin, Tirana, Kecskemét, Lyon, Marseille
+fbn: Aalborg, Amsterdam, Copenhagen, Augsburg, Antwerp, Helsinki
