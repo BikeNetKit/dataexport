@@ -18,13 +18,14 @@ Examples
 # Main
 import fixbikenet as fbn
 import sys
-from fixbikenet import settings
+from fixbikenet import settings, constants
 import os
 import traceback
 
 # Settings
 settings.import_path = '/Users/mszell/Tresorit/bikenetkitshare/'
 settings.export_file_format = "geojson"
+constants._CRS_CALCULATIONS = 'auto'
 
 # Variables
 city_id = "frederiksberg_dk"

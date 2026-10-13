@@ -13,8 +13,7 @@ import datetime
 import linkbikenet as lbn
 
 print("linkbikenet version: "+lbn.__version__)
-
-settings.silent = True
+# lbn.settings.silent = True
 
 # Import the list of cities
 df = pd.read_csv('../../cities/meta/cities.csv', 

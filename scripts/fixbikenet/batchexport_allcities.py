@@ -18,7 +18,7 @@ settings.silent = True
 skipuntil = None #"belfast_gb"
 
 # Import the list of cities
-df = pd.read_csv('../../cities/development/european_addition1.csv', 
+df = pd.read_csv('../../cities/meta/cities.csv', 
                    sep = ';',)
 
 
@@ -90,10 +90,5 @@ subprocess.run(
         text = True
     )
 
-print("afterwards, run in the folder:")
-print("rm *street*")
-print("rm *kamenetspodolsky*")
-print("rm *soligorsk*")
-print("rm *makijivka*")
-print("rm *horlivka*")
-print("rm *alchevsk*")
+print("Afterwards, run in the folder: rm *street*")
+print("And update fbn in versions.csv with "+fbn.__version__)
