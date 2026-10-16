@@ -26,9 +26,8 @@ pixi upgrade growbikenet
 If you changed dependencies and/or some packages don't load, try cleaning pixi:
 
 ```
-pixi clean
-rm pixi.*
-rm -r .pixi
+pixi update
+pixi reinstall
 ```
 
 and then run the setup again.
